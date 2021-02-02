@@ -1,0 +1,365 @@
+---
+title: "50 Jahre Frauenstimmrecht"
+author: "Patrick Meier"
+date: "07. Januar 2021"
+output:
+  html_document:
+    number_sections: false
+    code_folding: hide
+    toc: true
+    toc_depth: 3
+    toc_float:
+      collapsed: true
+      smooth_scroll: true
+    theme: simplex
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE, results = "hide")
+# knitr::knit(..., encoding = getOption("encoding")) 
+```
+
+```{r intro, message = FALSE}
+library(tidyverse)
+library(kableExtra) # nice tables
+library(DT) # also nice tables (not used)
+library(plotly)
+library(feather)
+
+## Set working directory ####
+setwd("WORKING_DIRECTORY")
+getwd()
+
+```
+
+
+## Daten
+Die Daten kommen von der offiziellen Parlaments-Datenschnitstelle. 
+https://ws.parlament.ch/odata.svc/, bzw. https://pragmatiqa.com/xodata/odatadir.html)
+
+Ab der 46. Legislatur, bzw. der Wintersession 1999, sind wörtliche Protokolle aller Wortmeldungen, sowie Zeitangaben über Anfang und Ende der Wortmeldungen verfügbar. 
+```{r}
+## Alle Parlamentarier
+lkp_parl <- read_csv("data/parlamentarier_alle.csv") %>% select(-ID)
+
+## Alle Wortmeldungen
+df_in <- read_csv("data/wortmeldungen_alle.csv")
+
+
+## Aufbereiten ####
+
+# Unix Basiszeit für Parsing
+base_date <- lubridate::make_datetime(year = 1970, month = 1, day = 1, hour = 0, min = 0, 0)
+
+df_wort <- df_in %>% filter(!is.na(SpeakerFullName)) %>% 
+                     filter(!is.na(PersonNumber)) %>% 
+                     left_join(lkp_parl[, c("PersonNumber", "GenderAsString")], by = "PersonNumber") %>% 
+                     mutate(Legislatur = substr(as.character(IdSession), 1, 2)) %>% 
+                     mutate(TimeStart = base_date + as.numeric(regmatches(Start, regexpr("\\d+", Start)))/1000) %>% 
+                     mutate(TimeEnd   = base_date + as.numeric(regmatches(End,   regexpr("\\d+", End  )))/1000) %>% 
+                     mutate(Redezeit = as.numeric((TimeEnd - TimeStart) / 60)) %>% 
+                     mutate(Jahr = lubridate::year(TimeStart)) %>%
+                     mutate(FullNameRev = str_c(SpeakerFirstName, " ", SpeakerLastName))
+
+
+## Wer ist neu?
+temp_neu_51 <- df_wort %>% filter (Legislatur == 51) %>% select(PersonNumber) %>% unique()
+temp_neu_50 <- df_wort %>% filter (Legislatur != 51) %>% select(PersonNumber) %>% unique()
+
+neu_parl_51 <- temp_neu_51 %>% filter( !(PersonNumber %in% temp_neu_50$PersonNumber))
+
+df_wort <- df_wort %>% mutate(istNeu = ifelse(PersonNumber %in% neu_parl_51$PersonNumber, TRUE, FALSE))
+rm(temp_neu_50, temp_neu_51)
+
+
+## Frauenanteil
+# gemäss https://de.wikipedia.org/wiki/Frauen_in_der_Politik#Schweiz
+
+lkp_Anteile <- tibble(Legislatur = as.ordered(c(39:51)),
+                      Jahr = as.ordered(c(1971, 1975, 1979, 1983, 1987, 1991, 1995,
+                                          1999, 2003, 2007, 2011, 2015, 2019)),
+                      FrauenanteilParlament = c(0.05, 0.075, 0.105, 0.11, 0.145, 0.175, 0.215,
+                                                0.235, 0.260, 0.295, 0.290, 0.320, 0.420))
+
+
+## Relevante Sessionen
+df_session <- read_csv("data/relevante_Sessionen.csv")
+
+## Motionen importieren --> "NewMember" nicht verwenden, weil nur gültig für Personen die mindestens ein Vorstoss eingereicht haben!!
+# Enthält nur Motionen die von Einzelpersonen eingereicht wurden.
+
+df_motionen <- read_feather("data/motionen_pp.feather") %>% 
+               select(-NewMember) %>% 
+               rename(c("Legislatur" = "SubmissionLegislativePeriod"),
+                      c("PersonNumber" = "MemberCouncilNumber"))
+df_motionen$Legislatur <- as.character(df_motionen$Legislatur)
+
+```
+
+
+### Übersicht
+Alle Wortmeldungen seit der Wintersession 1999 berücksichtigt.
+```{r, results = "markup"}
+## Visualisieren ####
+print("Wie viele Wortmeldungen gibt es in den Räten?")
+df_wort %>% select(MeetingCouncilAbbreviation) %>% table()
+
+print("Von wem kommen die Wortmeldungen im Nationalrat?")
+df_wort %>% filter(MeetingCouncilAbbreviation =="N") %>% select(CouncilName) %>% table()
+
+print("Von wem kommen die Wortmeldungen im Ständerat?")
+df_wort %>% filter(MeetingCouncilAbbreviation =="S") %>% select(CouncilName) %>% table()
+
+```
+
+
+## Nationalrat
+
+### Frauenanteil
+gemäss https://de.wikipedia.org/wiki/Frauen_in_der_Politik#Schweiz
+```{r, results = "markup"}
+lkp_Anteile %>% ggplot(aes(x = Legislatur, y = FrauenanteilParlament, group = "")) +
+                geom_line() + 
+                ggtitle("Frauenanteil im Nationalrat\ [%]") +
+                ylim(0, 0.5)
+
+```
+
+```{r, results = "markup"}
+
+## Nationalräte im Nationarat
+df_NR <- df_wort %>% filter(MeetingCouncilAbbreviation == "N") %>% 
+                     filter(CouncilName == "Nationalrat")
+
+```
+
+```{r}
+## Präsienten bestimmen um sie zu entfernen
+
+## Präsidenten ####
+# 1999/00	Hanspeter Seiler	Kanton Bern Bern
+# 2000/01	Peter Hess	Kanton Zug Zug
+# 2001/02	Liliane Maury Pasquier	Kanton Genf Genf
+# 2002/03	Yves Christen	Kanton Waadt Waadt
+# 2003/04	Max Binder	Kanton Zürich Zürich
+# 2004/05	Jean-Philippe Maitre[8]	Kanton Genf Genf
+# 2005	Thérèse Meyer	Kanton Freiburg Freiburg
+# 2005/06	Claude Janiak	Kanton Basel-Landschaft Basel-Landschaft
+# 2006/07	Christine Egerszegi-Obrist	Kanton Aargau Aargau
+# 2007/08	André Bugnon	Kanton Waadt Waadt
+# 2008/09	Chiara Simoneschi-Cortesi	Kanton Tessin Tessin
+# 2009/10	Pascale Bruderer	Kanton Aargau Aargau
+# 2010/11	Jean-René Germanier	Kanton Wallis Wallis
+# 2011/12	Hansjörg Walter	Kanton Thurgau Thurgau
+# 2012/13	Maya Graf	Kanton Basel-Landschaft Basel-Landschaft
+# 2013/14	Ruedi Lustenberger	Kanton Luzern Luzern
+# 2014/15	Stéphane Rossini	Kanton Wallis Wallis
+# 2015/16	Christa Markwalder	Kanton Bern Bern
+# 2016/17	Jürg Stahl	Kanton Zürich Zürich
+# 2017/18	Dominique de Buman	Kanton Freiburg Freiburg
+# 2018/19	Marina Carobbio Guscetti	Kanton Tessin Tessin
+# 2019/20	Isabelle Moret	Kanton Waadt Waadt
+# 2020/21	Andreas Aebi	Kanton Bern Bern
+
+## Jahr, Legislatur ####
+
+WinterSessions <- df_session %>% filter(grepl("Wintersession", SessionName)) %>% 
+                                 arrange(ID) %>% select(SessionName, ID)
+
+lkp_pres <- tibble(Session_Jahr = as.ordered(1999:2020),
+                   IdSession = WinterSessions$ID,
+                   praesident = c("Hanspeter Seiler", "Peter Hess", "Liliane Maury Pasquier",
+                                  "Yves Christen", "Max Binder", "Jean-Philippe Maitre", "Claude Janiak", 
+                                  "Christine Egerszegi-Obrist", "André Bugnon", "Chiara Simoneschi-Cortesi", 
+                                  "Pascale Bruderer", "Jean-René Germanier", "Hansjörg Walter", "Maya Graf",
+                                  "Ruedi Lustenberger", "Stéphane Rossini", "Christa Markwalder",
+                                  "Jürg Stahl", "Dominique de Buman", "Marina Carobbio Guscetti",
+                                  "Isabelle Moret", "Andreas Aebi")) %>% 
+                       mutate(SessionName = str_c("Wintersession ", Session_Jahr))
+
+lkp_names <- df_wort[!duplicated(df_wort$FullNameRev), ] %>% select(c("PersonNumber", "FullNameRev"))
+lkp_pres <- lkp_pres %>% left_join(lkp_names, by = c("praesident" = "FullNameRev"))
+
+
+## DF mit allen Nationalratspräsidenten
+df_NR_pres <- tibble() 
+
+i <- 1
+while(i < 23){
+  df_NR_pres_temp <- df_NR %>% filter((IdSession >= lkp_pres$IdSession[i    ]) &
+                                     ((IdSession < lkp_pres$IdSession[i + 1]) | is.na(lkp_pres$IdSession[i + 1])) &
+                                     (PersonNumber == lkp_pres$PersonNumber[i])
+                                     )
+  
+  df_NR_pres <- rbind(df_NR_pres, df_NR_pres_temp) 
+  print(lkp_pres$praesident[i])
+  print(i)
+  
+  i <- i + 1
+}
+rm(df_NR_pres_temp)
+
+
+## Füge Thérèse Meyer zur Liste der Präsidentinnen hinzu
+# (Sie war im Jahr 2005 Präsidentin, aber kein ganzes Jahr,PersonNumber: 435)
+
+df_NR_pres <- df_wort %>% filter(PersonNumber == 435 & Jahr == 2005) %>% 
+                          rbind(df_NR_pres, .)
+
+# # haben wir wirklich alle Präsidenten?
+# df_NR_pres %>% group_by(SpeakerFullName, Jahr) %>% summarise(Anzahl = n()) %>% group_by(Jahr) %>%
+#                summarise(Anzahl = sum(Anzahl)) %>% plot(Anzahl ~ Jahr, .)
+
+## Nationalräte OHNE Präsidenten
+df_NR_nP <- df_NR[ !(df_NR$ID %in% df_NR_pres$ID), ]
+
+```
+
+
+### Motionen
+```{r, results = "markup"}
+
+mot_parl_leg <- df_motionen %>% group_by(PersonNumber, Legislatur, GenderAsString,
+                                         FirstName, LastName, SubmittedBy) %>%
+                                summarise(AnzahlMotionen = n())
+
+mot_leg <- mot_parl_leg %>% group_by(Legislatur, GenderAsString) %>%
+                            summarise(AnzahlMotionen = sum(AnzahlMotionen)) %>%
+                            pivot_wider(id_cols = Legislatur, names_from = GenderAsString,
+                                        values_from = AnzahlMotionen) %>% 
+                            mutate(AnzahlMotionen = f + m) %>%
+                            mutate(Mot_Anteil_f = f / AnzahlMotionen)
+
+mot_leg %>% DT::datatable(caption = 'Eingereichte Motionen pro Legislatur',
+                          class = 'cell-border stripe',
+                          rownames = FALSE,
+                          width = 600, height = 500)
+
+```
+
+
+### Redezeiten
+Berücksichtigt werden alle Wortmeldungen von Nationalräten im Nationalrat  
+```{r, results = "markup"}
+
+## Anzahl Wortmeldungen im Nationalrat
+
+res_anzahl <- df_NR_nP %>% group_by(Legislatur, GenderAsString) %>% 
+                           summarise(Anzahl = n(), Dauer = as.numeric(sum(Redezeit)), AvgDauer = mean(Redezeit),
+                                     Session_n = length(unique(IdSession))) %>% 
+                           pivot_wider(id_cols = Legislatur, names_from = GenderAsString, 
+                                       values_from = c("Anzahl", "Dauer", "AvgDauer", "Session_n")) %>% 
+                           mutate(Anteil_f      = Anzahl_f / (Anzahl_f + Anzahl_m)) %>% 
+                           mutate(Anteil_m      = Anzahl_m / (Anzahl_f + Anzahl_m)) %>% 
+                           mutate(Anteil_Zeit_f = Dauer_f  / (Dauer_f  + Dauer_m)) %>% 
+                           mutate(Anteil_Zeit_m = Dauer_m  / (Dauer_f  + Dauer_m)) %>% 
+                           left_join(lkp_Anteile, by = "Legislatur") %>% 
+                           left_join(mot_leg[, c("Legislatur", "Mot_Anteil_f")], by = "Legislatur") %>% 
+                           mutate(soVielF = Dauer_f / (200*FrauenanteilParlament)) %>% ## So viel redet eine Durchschnittsfrau
+                           mutate(soVielM = Dauer_m / (200*(1-FrauenanteilParlament))) ## So viel redet ein Durchschnittsmann
+
+# res_anzahl %>% write.table("clipboard", sep="\t", row.names=FALSE)
+
+res_anzahl_long <- res_anzahl %>% pivot_longer(cols = c(Anzahl_f, Anzahl_m, Anteil_f, Anteil_m,
+                                                        Anteil_Zeit_f, Anteil_Zeit_m,
+                                                        Dauer_f, Dauer_m, 
+                                                        FrauenanteilParlament, Mot_Anteil_f, 
+                                                        AvgDauer_f, AvgDauer_m,
+                                                        soVielF, soVielM)) 
+
+res_anzahl_long %>% filter(name %in% c("Anteil_Zeit_f", 
+                                       # "Anteil_f",
+                                       # "Anteil_m", "Anteil_Zeit_m",
+                                       "FrauenanteilParlament",
+                                       "Mot_Anteil_f")) %>%
+                    ggplot(aes(x = Legislatur, y=value, group = name, colour = name)) +
+                    geom_line() +
+                    ylim(0, 0.5) +
+                    labs(y = "Anteil", color = "") +
+                    ggtitle("Frauenanteile im Nationalrat") +
+                    scale_color_manual(labels = c("Redezeit",
+                                                  "Sitze", 
+                                                  "Eingereichte Motionen"),
+                                       values = c("red", "blue", "green"))
+
+```
+
+### wie viel reden m / f im Durchschnitt?
+```{r, results = "markup"}
+
+res_anzahl_long %>% filter(name %in% c("soVielF", "soVielM")) %>%
+                    ggplot(aes(x = Legislatur, y=value, fill = name)) +
+                    geom_bar(position="dodge", stat="identity") +
+                    labs(y = "Minuten", fill = "") +
+                    ggtitle("So viel redet die durchschnittliche Frau / Mann pro Legislatur")
+
+```
+
+Frauen reden im Durchschnitt leicht länger als Männer. Die scheint sich aber mit dem steigenden Anteil der im Parlament auszugleichen.
+
+
+### Wer hat in der 51. Legislatur am meisten gesprochen?  
+(OHNE Nationalratspräsidenten)
+```{r, results = "markup"}
+## Plot wer in welchem Jahr/Legislatur am meisten gesprochen hat
+
+## Welche Nationalräte (ohne Präsidenten) sprechen am meisten?
+res_person_Jahr <- df_NR_nP %>% select(-ID) %>% group_by(Legislatur, PersonNumber, istNeu) %>%
+                                summarise(RedeDauerTotal = sum(Redezeit),
+                                          RedeDauerAvg = mean(Redezeit), 
+                                          RedeAnzahl = n()) %>% 
+                                left_join(lkp_parl, by = "PersonNumber")  %>%
+                                left_join(mot_parl_leg[, c("PersonNumber", "Legislatur", "AnzahlMotionen")],
+                                          by = c("PersonNumber", "Legislatur")) %>% 
+                                 mutate_at("AnzahlMotionen", ~replace(., is.na(.), 0))
+
+
+res_person_Jahr %>% filter(Legislatur == 51) %>%
+                    select(c(FirstName, LastName, GenderAsString, 
+                             RedeDauerTotal, RedeDauerAvg, Legislatur, RedeAnzahl, AnzahlMotionen, istNeu)) %>% 
+                    arrange(-RedeDauerTotal) %>% 
+                    mutate_at(5, round, 0) %>% mutate_at(6, round, 1) %>%
+                    DT::datatable(caption = 'Rededauer Legislatur 50 in Minuten',
+                                  class = 'cell-border stripe',
+                                  rownames = FALSE,
+                                  width = 600, height = 500)
+
+```
+
+
+### Visualisierung Rededauer vs. Anzahl Motionen
+```{r, results = "markup"}
+plot_NR <- df_NR_nP %>% select(-ID) %>% group_by(PersonNumber, Legislatur, istNeu, ParlGroupName) %>%
+                        summarise(RedeDauerTotal = sum(Redezeit), RedeDauerAvg = mean(Redezeit), RedeAnzahl = n()) %>% 
+                        left_join(lkp_parl, by = "PersonNumber")  %>%
+                        left_join(mot_parl_leg[, c("PersonNumber", "Legislatur", "AnzahlMotionen")],
+                                  by = c("PersonNumber", "Legislatur")) %>% 
+                         # mutate_at("NewMember", ~replace(., is.na(.), FALSE)) %>% 
+                         mutate_at("AnzahlMotionen", ~replace(., is.na(.), 0)) 
+
+
+p <- plot_NR %>% filter(Legislatur == 51) %>% 
+                 select(c(FirstName, LastName, ParlGroupName, AnzahlMotionen,  GenderAsString, 
+                          istNeu, RedeDauerTotal, RedeDauerAvg, RedeAnzahl)) %>% 
+                 ggplot(aes(x = RedeDauerTotal, y = AnzahlMotionen,
+                            colour = GenderAsString, shape = factor(istNeu),
+                            text = str_c("Vorname: ", FirstName, "\n",
+                                         "Nachname: ", LastName, "\n",
+                                         "Fraktion: ", ParlGroupName, "\n"))) + 
+                 geom_point() + 
+                 geom_smooth(method = "lm") +
+                 ggtitle("Legislatur 51") 
+
+ply <- ggplotly(p, tooltip = "text")
+ply
+
+```
+
+```{r}
+```
+
+```{r}
+```
+
+```{r}
+```
