@@ -3,13 +3,13 @@ library(tidyverse)
 library(tidyjson)
 
 ## Set working directory ####
-setwd("D:/Tamedia/GSync/Datenteam/Projekte/202012_Parlament_Frauen/")
+setwd("WORKING_DIRECTORY")
 getwd()
 
 
 
 ## Alle relevanten Sessionen holen (bis und mit 46. Legislatur)
-
+f
 url_session <- "https://ws.parlament.ch/odata.svc/Session?$top=1000&$filter=ID gt 4600 and Language eq 'DE'&$format=json" %>% 
   str_replace_all(" ", "%20")
 r <- GET(url_session)
