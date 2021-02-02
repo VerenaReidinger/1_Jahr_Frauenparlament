@@ -1,0 +1,105 @@
+ID,Language,SessionNumber,SessionName,Abbreviation,StartDate,EndDate,Title,Type,TypeName,Modified,LegislativePeriodNumber
+4601,DE,1,Wintersession 1999,WI99,/Date(944438400000)/,/Date(945820800000)/,NA,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961637743)/,46
+4602,DE,2,Frühjahrssession 2000,FS00,/Date(952300800000)/,/Date(953856000000)/,NA,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961631693)/,46
+4603,DE,3,Sommersession 2000,SS00,/Date(960163200000)/,/Date(961718400000)/,NA,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961631820)/,46
+4604,DE,4,Herbstsession 2000,HS00,/Date(969235200000)/,/Date(970790400000)/,NA,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961629990)/,46
+4605,DE,5,Wintersession 2000,WS00,/Date(975283200000)/,/Date(976838400000)/,NA,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961638760)/,46
+4606,DE,6,Frühjahrssession 2001,FS01,/Date(983750400000)/,/Date(985305600000)/,NA,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961637840)/,46
+4607,DE,7,Sondersession Mai 2001,Mai01,/Date(989193600000)/,/Date(989366400000)/,NA,3,Sondersession (1 Woche),/Date(1598961632757)/,46
+4608,DE,8,Sommersession 2001,SS01,/Date(991699200000)/,/Date(993168000000)/,NA,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961638230)/,46
+4609,DE,9,Herbstsession 2001,HS01,/Date(1000684800000)/,/Date(1002240000000)/,NA,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961630897)/,46
+4610,DE,10,Ausserordentliche Session November 2001,aoNov,/Date(1005868800000)/,/Date(1005955200000)/,NA,16,Ausserordentliche Session,/Date(1609949506943)/,46
+4611,DE,11,Wintersession 2001,WS01,/Date(1006732800000)/,/Date(1008288000000)/,NA,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961630930)/,46
+4612,DE,12,Frühjahrssession 2002,FS02,/Date(1015200000000)/,/Date(1016755200000)/,NA,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961638680)/,46
+4613,DE,13,Sondersession April 2002,SoApril02,/Date(1018828800000)/,/Date(1019001600000)/,NA,3,Sondersession (1 Woche),/Date(1598961638387)/,46
+4614,DE,14,Sommersession 2002,SS02,/Date(1023062400000)/,/Date(1024617600000)/,II/2002,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961637917)/,46
+4615,DE,15,Herbstsession 2002,HS02,/Date(1032134400000)/,/Date(1033689600000)/,III/2002,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961638290)/,46
+4616,DE,16,Wintersession 2002,WS02,/Date(1038182400000)/,/Date(1039737600000)/,IV/2002,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961628460)/,46
+4617,DE,17,Frühjahrssession 2003,FS03,/Date(1046649600000)/,/Date(1048204800000)/,I/2003,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961639387)/,46
+4618,DE,18,Sondersession Mai 2003,SoMai03,/Date(1052092800000)/,/Date(1052352000000)/,II/2003,3,Sondersession (1 Woche),/Date(1598961633273)/,46
+4619,DE,19,Sommersession 2003,SS03,/Date(1054512000000)/,/Date(1056067200000)/,II/2003,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961631147)/,46
+4620,DE,20,Herbstsession 2003,HS03,/Date(1063584000000)/,/Date(1065139200000)/,III/2003,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961630790)/,46
+4701,DE,1,Wintersession 2003,WS03,/Date(1070236800000)/,/Date(1071792000000)/,IV/2003,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961637540)/,47
+4702,DE,2,Frühjahrssession 2004,FS04,/Date(1078099200000)/,/Date(1079654400000)/,I/2004,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961638900)/,47
+4703,DE,3,Sondersession Mai 2004,Mai04,/Date(1083542400000)/,/Date(1083888000000)/,II/2004,3,Sondersession (1 Woche),/Date(1598961632337)/,47
+4704,DE,4,Sommersession 2004,SS04,/Date(1086048000000)/,/Date(1087516800000)/,II/2004,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961632587)/,47
+4705,DE,5,Herbstsession 2004,HS04,/Date(1095638400000)/,/Date(1097193600000)/,III/2004,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961631443)/,47
+4706,DE,6,Wintersession 2004,WS04,/Date(1101686400000)/,/Date(1103241600000)/,IV/2004,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961632053)/,47
+4707,DE,7,Frühjahrssession 2005,FS05,/Date(1109548800000)/,/Date(1111104000000)/,I/2005,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961639150)/,47
+4708,DE,8,Sommersession 2005,SoSe05,/Date(1117411200000)/,/Date(1118966400000)/,II/2005,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961637633)/,47
+4709,DE,9,Herbstsession 2005,HS05,/Date(1127088000000)/,/Date(1128643200000)/,III/2005,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961630647)/,47
+4710,DE,10,Wintersession 2005,WS-05,/Date(1133136000000)/,/Date(1134691200000)/,IV/2005,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961638790)/,47
+4711,DE,11,Frühjahrssession 2006,FS06,/Date(1141603200000)/,/Date(1143158400000)/,I/2006,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961628740)/,47
+4712,DE,12,Sondersession Mai 2006,Mai06,/Date(1147046400000)/,/Date(1147305600000)/,II/2006,3,Sondersession (1 Woche),/Date(1598961631587)/,47
+4713,DE,13,Sommersession 2006,SoSe06,/Date(1149552000000)/,/Date(1151020800000)/,II/2006,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961631930)/,47
+4714,DE,14,Herbstsession 2006,HS06,/Date(1158537600000)/,/Date(1160092800000)/,III/2006,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961631240)/,47
+4715,DE,15,Wintersession 2006,WS06,/Date(1165190400000)/,/Date(1166572800000)/,IV/2006,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961629897)/,47
+4716,DE,16,Frühjahrssession 2007,FS07,/Date(1173052800000)/,/Date(1174608000000)/,I/2007,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961639463)/,47
+4717,DE,17,Sommersession 2007,SS07,/Date(1180915200000)/,/Date(1182470400000)/,II/2007,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961639230)/,47
+4718,DE,18,Herbstsession 2007,HS07,/Date(1189987200000)/,/Date(1191542400000)/,III/2007,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961633133)/,47
+4801,DE,1,Wintersession 2007,WS07,/Date(1196640000000)/,/Date(1198195200000)/,IV/2007,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961632210)/,48
+4802,DE,2,Frühjahrssession 2008,FS08,/Date(1204502400000)/,/Date(1205971200000)/,I/2008,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961638447)/,48
+4803,DE,3,Sondersession April 2008,April08,/Date(1209340800000)/,/Date(1209340800000)/,II/2008,3,Sondersession (1 Woche),/Date(1598961629367)/,48
+4804,DE,4,Sommersession 2008,SoSe08,/Date(1211760000000)/,/Date(1213315200000)/,II/2008,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961633350)/,48
+4805,DE,5,Herbstsession 2008,HS08,/Date(1221436800000)/,/Date(1222992000000)/,III/2008,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961629083)/,48
+4806,DE,6,Wintersession 2008,WS08,/Date(1228089600000)/,/Date(1229644800000)/,IV/2008,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961638603)/,48
+4807,DE,7,Frühjahrssession 2009,FS09,/Date(1235952000000)/,/Date(1237507200000)/,I/2009,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961629477)/,48
+4808,DE,8,Sondersession April 2009,April09,/Date(1240790400000)/,/Date(1241049600000)/,NA,3,Sondersession (1 Woche),/Date(1598961631867)/,48
+4809,DE,9,Sommersession 2009,SoSe09,/Date(1243209600000)/,/Date(1244764800000)/,II/2009,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961630180)/,48
+4810,DE,10,Sondersession August 2009,Sonder,/Date(1249862400000)/,/Date(1249948800000)/,III/2009,3,Sondersession (1 Woche),/Date(1598961628570)/,48
+4811,DE,11,Herbstsession 2009,HS09,/Date(1252281600000)/,/Date(1253836800000)/,III/2009,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961629210)/,48
+4812,DE,12,Wintersession 2009,WS09,/Date(1258934400000)/,/Date(1260489600000)/,IV/2009,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961627537)/,48
+4813,DE,13,Frühjahrssession 2010,FS10,/Date(1267401600000)/,/Date(1268956800000)/,I/2010,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961630380)/,48
+4814,DE,14,Sommersession 2010,SoSe10,/Date(1275264000000)/,/Date(1276819200000)/,II/2010,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961630037)/,48
+4815,DE,15,Herbstsession 2010,HS10,/Date(1284336000000)/,/Date(1285891200000)/,III/2010,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961632913)/,48
+4816,DE,16,Wintersession 2010,WS10,/Date(1290988800000)/,/Date(1292544000000)/,IV/2010,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961638120)/,48
+4817,DE,17,Frühjahrssession 2011,FS11,/Date(1298851200000)/,/Date(1300406400000)/,I/2011,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961631727)/,48
+4818,DE,18,Sondersession April 2011,SonderApril11,/Date(1302480000000)/,/Date(1302739200000)/,II/2011,3,Sondersession (1 Woche),/Date(1598961633553)/,48
+4819,DE,19,Sommersession 2011,SoSe11,/Date(1306713600000)/,/Date(1308268800000)/,II/2011,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961633430)/,48
+4820,DE,20,Herbstsession 2011,HS11,/Date(1315785600000)/,/Date(1317340800000)/,III/2011,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961633680)/,48
+4901,DE,1,Wintersession 2011,WS11,/Date(1323043200000)/,/Date(1324598400000)/,IV/2011,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961633773)/,49
+4902,DE,2,Frühjahrssession 2012,FS12,/Date(1330300800000)/,/Date(1331856000000)/,I/2012,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961633850)/,49
+4903,DE,3,Sondersession Mai 2012,SonderMai12,/Date(1335916800000)/,/Date(1336003200000)/,II/2012,3,Sondersession (1 Woche),/Date(1598961633977)/,49
+4904,DE,4,Sommersession 2012,SoSe12,/Date(1338249600000)/,/Date(1339718400000)/,II/2012,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961634087)/,49
+4905,DE,5,Herbstsession 2012,HS12,/Date(1347235200000)/,/Date(1348790400000)/,III/2012,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961634180)/,49
+4906,DE,6,Wintersession 2012,WS12,/Date(1353888000000)/,/Date(1355443200000)/,IV/2012,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961634240)/,49
+4907,DE,7,Frühjahrssession 2013,FS13,/Date(1362355200000)/,/Date(1363910400000)/,I/2013,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961634320)/,49
+4908,DE,8,Sondersession April 2013,SonderApril,/Date(1365984000000)/,/Date(1366156800000)/,II/2013,3,Sondersession (1 Woche),/Date(1598961634663)/,49
+4909,DE,9,Sommersession 2013,SoSe13,/Date(1370217600000)/,/Date(1371772800000)/,II/2013,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961634383)/,49
+4910,DE,10,Herbstsession 2013,HS13,/Date(1378684800000)/,/Date(1380240000000)/,III/2013,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961634443)/,49
+4911,DE,11,Wintersession 2013,WS13,/Date(1385337600000)/,/Date(1386892800000)/,IV/2013,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961634540)/,49
+4912,DE,12,Frühjahrssession 2014,FS14,/Date(1393804800000)/,/Date(1395360000000)/,I/2014,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961634757)/,49
+4913,DE,13,Sondersession Mai 2014,Mai14,/Date(1399248000000)/,/Date(1399507200000)/,II/2014,3,Sondersession (1 Woche),/Date(1598961634867)/,49
+4914,DE,14,Sommersession 2014,SoSe14,/Date(1401667200000)/,/Date(1403222400000)/,II/2014,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961634930)/,49
+4915,DE,15,Herbstsession 2014,HS14,/Date(1410134400000)/,/Date(1411689600000)/,III/2014,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961635023)/,49
+4916,DE,16,Wintersession 2014,WS14,/Date(1416787200000)/,/Date(1418342400000)/,IV/2014,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961635117)/,49
+4917,DE,17,Frühjahrssession 2015,FS15,/Date(1425254400000)/,/Date(1426809600000)/,I/2015,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961635210)/,49
+4918,DE,18,Sondersession Mai 2015,Mai15,/Date(1430697600000)/,/Date(1431043200000)/,Ia/II/2015,3,Sondersession (1 Woche),/Date(1598961635367)/,49
+4919,DE,19,Sommersession 2015,SoSe15,/Date(1433116800000)/,/Date(1434672000000)/,II/2015,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961635397)/,49
+4920,DE,20,Herbstsession 2015,HS15,/Date(1441584000000)/,/Date(1443139200000)/,III/2015,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961635460)/,49
+5001,DE,1,Wintersession 2015,WS15,/Date(1448841600000)/,/Date(1450396800000)/,IV/2015,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961635540)/,50
+5002,DE,2,Frühjahrssession 2016,FS16,/Date(1456704000000)/,/Date(1458259200000)/,I/2016,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961635680)/,50
+5003,DE,3,Sondersession April 2016,April16,/Date(1461542400000)/,/Date(1461715200000)/,,3,Sondersession (1 Woche),/Date(1598961635757)/,50
+5004,DE,4,Sommersession 2016,SoSe16,/Date(1464566400000)/,/Date(1466121600000)/,Ia/II/2016,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961635820)/,50
+5005,DE,5,Herbstsession 2016,HS16,/Date(1473638400000)/,/Date(1475193600000)/,III/2016,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961635897)/,50
+5006,DE,6,Wintersession 2016,WS16,/Date(1480291200000)/,/Date(1481846400000)/,IV/2016,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961635943)/,50
+5007,DE,7,Frühjahrssession 2017,FS17,/Date(1488153600000)/,/Date(1489708800000)/,I/2017,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961636040)/,50
+5008,DE,8,Sondersession Mai 2017,Mai17,/Date(1493683200000)/,/Date(1493856000000)/,II/2017,3,Sondersession (1 Woche),/Date(1598961636147)/,50
+5009,DE,9,Sommersession 2017,SoSe17,/Date(1496016000000)/,/Date(1497571200000)/,II/2017,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961636210)/,50
+5010,DE,10,Herbstsession 2017,HS17,/Date(1505088000000)/,/Date(1506643200000)/,IV/2017,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961636290)/,50
+5011,DE,11,Wintersession 2017,WS17,/Date(1511740800000)/,/Date(1513296000000)/,IV/2017,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961636350)/,50
+5012,DE,12,Frühjahrssession 2018,FS18,/Date(1519603200000)/,/Date(1521158400000)/,I/2018,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961636443)/,50
+5013,DE,13,Sommersession 2018,SoSe18,/Date(1527465600000)/,/Date(1529020800000)/,II/2018,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961636490)/,50
+5014,DE,14,Herbstsession 2018,HS18,/Date(1536537600000)/,/Date(1538092800000)/,III/2018,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961636570)/,50
+5015,DE,15,Wintersession 2018,WS18,/Date(1543190400000)/,/Date(1544745600000)/,IV/2018,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961636650)/,50
+5016,DE,16,Frühjahrssession 2019,FS19,/Date(1551657600000)/,/Date(1553212800000)/,I/2019,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961636760)/,50
+5017,DE,17,Sondersession Mai 2019,SonderMai19,/Date(1557187200000)/,/Date(1557360000000)/,Ia/2020,3,Sondersession (1 Woche),/Date(1598961636837)/,50
+5018,DE,18,Sommersession 2019,SoSe19,/Date(1559520000000)/,/Date(1561075200000)/,II/2020,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961636883)/,50
+5019,DE,19,Herbstsession 2019,HS19,/Date(1567987200000)/,/Date(1569542400000)/,III/2020,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961636963)/,50
+5101,DE,1,Wintersession 2019,WS19,/Date(1575244800000)/,/Date(1576800000000)/,IV/2020,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961637040)/,51
+5102,DE,2,Frühjahrssession 2020,FS20,/Date(1583107200000)/,/Date(1583971200000)/,I/2020,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961637103)/,51
+5103,DE,3,Ausserordentliche Session Mai 2020,a.o. Session Mai 20,/Date(1588550400000)/,/Date(1588896000000)/,Ib/2020,16,Ausserordentliche Session,/Date(1598961637150)/,51
+5104,DE,4,Sommersession 2020,SoSe20,/Date(1591056000000)/,/Date(1592524800000)/,II/2020,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961637197)/,51
+5105,DE,5,Herbstsession 2020,HS20,/Date(1599436800000)/,/Date(1600992000000)/,III/2020,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961637290)/,51
+5106,DE,6,Sondersession Oktober 2020,SonderOktober20,/Date(1603929600000)/,/Date(1604016000000)/,Ia/2021,3,Sondersession (1 Woche),/Date(1598961743617)/,51
+5107,DE,7,Wintersession 2020,WS20,/Date(1606694400000)/,/Date(1608249600000)/,IV/2020,2,Ordentliche Sessionen (je 3 Wochen),/Date(1598961736787)/,51

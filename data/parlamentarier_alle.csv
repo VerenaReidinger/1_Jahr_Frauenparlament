@@ -1,0 +1,3628 @@
+ID,PersonNumber,PersonIdCode,LastName,FirstName,GenderAsString
+1,1,2200,Aguet,Pierre,m
+2,2,2002,Allenspach,Heinz,m
+6,6,2004,Aregger,Manfred,m
+7,7,2005,Aubry,Geneviève,f
+8,8,2008,Bär,Rosmarie,f
+9,9,2268,Baumann,Ruedi,m
+10,10,2269,Baumberger,Peter,m
+11,11,2011,Bäumlin,Ursula,f
+12,12,2335,Beerli,Christine,f
+13,13,2202,Béguin,Thierry,m
+14,14,2264,Bezzola,Duri,m
+15,15,2270,Binder,Max,m
+16,16,2260,Bircher,Peter,m
+17,17,2015,Bircher,Silvio,m
+18,18,2271,Bischof,Hardi,m
+19,19,2336,Bisig,Hans,m
+20,20,2016,Blatter,Ulrich,m
+21,21,2017,Blocher,Christoph,m
+22,22,2337,Bloetzer,Peter,m
+23,23,2018,Bodenmann,Peter,m
+24,24,2019,Bonny,Jean-Pierre,m
+25,25,2021,Borel,François,m
+26,26,2272,Borer,Roland F.,m
+27,27,2273,Borradori,Marco,m
+28,28,2274,Bortoluzzi,Toni,m
+29,29,2025,Brügger,Cyrill,m
+30,30,2275,Brunner,Christiane,f
+31,31,2250,Bühler,Robert,m
+32,32,2026,Bühler,Simeon,m
+33,33,2276,Bühlmann,Cécile,f
+34,34,2277,Bührer,Gerold,m
+35,35,2027,Bundi,Martin,m
+36,36,2029,Bürgi,Jakob,m
+37,37,2030,Büttiker,Rolf,m
+38,38,2031,Caccia,Fulvio,m
+39,39,2032,Carobbio,Werner,m
+40,40,2279,Caspar-Hutter,Elisabeth,f
+41,41,2204,Cavadini,Jean,m
+42,42,2033,Cavadini,Adriano,m
+43,43,2205,Cavelty,Luregn Mathias,m
+44,44,2280,Chevallaz,Olivier,m
+45,45,2035,Cincera,Ernst,m
+46,46,2036,Columberg,Dumeni,m
+47,47,2281,Comby,Bernard,m
+48,48,2037,Cotti,Gianfranco,m
+49,49,2206,Cottier,Anton,m
+50,50,2038,Couchepin,Pascal,m
+51,51,2039,Coutau,Gilbert,m
+52,52,2247,Daepp-Heiniger,Susanna,f
+53,53,2207,Danioth,Hans,m
+54,54,2040,Danuser,Menga,f
+55,55,2041,Darbellay,Vital,m
+56,56,2282,de Dardel,Jean-Nils,m
+57,57,2042,David,Eugen,m
+58,58,2283,Deiss,Joseph,m
+59,59,2208,Delalay,Edouard,m
+60,60,2284,Dettling,Toni,m
+61,61,2044,Diener Lenz,Verena,f
+63,63,2046,Dormann,Rosmarie,f
+64,64,2047,Dreher,Michael E.,m
+65,65,2210,Ducret,Dominique,m
+66,66,2049,Dünki,Max,m
+67,67,2285,Duvoisin,Pierre,m
+69,69,2258,Eggenberger,Georges,m
+70,70,2051,Eggly,Jacques-Simon,m
+71,71,2053,Engler,Rolf,m
+72,72,2286,Epiney,Simon,m
+73,73,2055,Etique,Pierre,m
+74,74,2287,Eymann,Christoph,m
+75,75,2058,Fankhauser,Angeline,f
+76,76,2288,Fasel,Hugo,m
+77,77,2289,Fehr,Lisbeth,f
+78,78,2290,von Felten,Margrith,f
+79,79,2064,Fischer,Theo,m
+80,80,2063,Fischer,Theo,m
+81,81,2065,Fischer,Ulrich,m
+82,82,2211,Flückiger,Michel,m
+83,83,2066,Frey,Claude,m
+84,84,2067,Frey,Walter,m
+85,85,2338,Frick,Bruno,m
+86,86,2291,Fritschi,Oscar,m
+87,87,2069,Früh,Hans-Rudolf,m
+88,88,2212,Gadient,Ulrich,m
+89,89,2253,Gardiol,Irène,f
+90,90,2339,Gemperli,Paul,m
+91,91,2292,Giezendanner,Ulrich,m
+92,92,2070,Giger,Titus,m
+93,93,2293,Gobet,Alexis,m
+94,94,2294,Goll,Christine,f
+95,95,2295,Gonseth,Ruth,f
+96,96,2073,Grendelmeier,Verena,f
+97,97,2296,Gross,Andreas,m
+98,98,2266,Grossenbacher-Schmid,Ruth,f
+99,99,2075,Guinand,Jean,m
+100,100,2077,Gysin,Hans Rudolf,m
+101,101,2254,Haering,Barbara,f
+102,102,2078,Hafner,Rudolf,m
+103,103,2079,Hafner,Ursula,f
+104,104,2080,Haller,Gret,f
+105,105,2298,Hämmerle,Andrea,m
+106,106,2082,Hari,Fritz,m
+107,107,2267,Heberlein,Trix,f
+108,108,2299,Hegetschweiler,Rolf,m
+109,109,2083,Herczog,Andreas,m
+110,110,2084,Hess,Otto,m
+111,111,2085,Hess,Peter,m
+112,112,2086,Hildbrand,Franz-Joseph,m
+113,113,2300,Hollenstein,Pia,f
+114,114,2089,Hubacher,Helmut,m
+115,115,2216,Huber,Hans Jörg,m
+116,116,2218,Iten,Andreas,m
+117,117,2092,Jaeger,Franz,m
+118,118,2301,Jäggi,Paul,m
+119,119,2220,Jagmetti,Riccardo,m
+120,120,2094,Jeanprêtre,Francine,f
+121,121,2302,Jenni,Peter,m
+122,122,2303,Jöri,Werner,m
+123,123,2096,Keller,Anton,m
+124,124,2304,Keller,Rudolf,m
+125,125,2305,Kern,Armin,m
+126,126,2222,Küchler,Niklaus,m
+127,127,2098,Kühne,Josef,m
+128,128,2223,Kündig,Markus,m
+129,129,2100,Ledergerber,Elmar,m
+130,130,2263,Leemann,Ursula,f
+131,131,2306,Leu,Josef,m
+132,132,2101,Leuba,Jean-François,m
+133,133,2102,Leuenberger,Ernst,m
+134,134,2103,Leuenberger,Moritz,m
+135,135,2104,Loeb,François,m
+136,136,2106,Loretan,Willy,m
+137,137,2108,Maeder,Herbert,m
+138,138,2109,Maitre,Jean-Philippe,m
+139,139,2307,Mamie,Philippe,m
+140,140,2308,Marti,Werner,m
+141,141,2110,Martin,Jacques,m
+142,142,2309,Maspoli,Flavio,m
+143,143,2113,Matthey,Francis,m
+144,144,2114,Mauch,Rolf,m
+145,145,2115,Mauch,Ursula,f
+146,146,2310,Maurer,Ueli,m
+147,147,2117,Meier,Hans,m
+148,148,2227,Meier,Josi J.,f
+149,149,2265,Meier,Samuel,m
+150,150,2261,Meyer,Theo,m
+151,151,2311,Miesch,Christian,m
+152,152,2312,Misteli,Marguerite,f
+153,153,2340,Morniroli,Giorgio,m
+154,154,2313,Moser,René,m
+155,155,2123,Müller,Reinhard,m
+156,156,2124,Nabholz,Lili,f
+157,157,2314,Narbel,Jean-Marc,m
+158,158,2125,Nebiker,Hans-Rudolf,m
+159,159,2126,Neuenschwander,Willi,m
+160,160,2130,Oehler,Edgar,m
+161,161,2229,Onken,Thomas,m
+162,162,2135,Perey,André,m
+163,163,2136,Petitpierre,Gilles,m
+164,164,2137,Philipona,Jean-Nicolas,m
+165,165,2138,Pidoux,Philippe,m
+166,166,2230,Piller,Otto,m
+167,167,2139,Pini,Massimo,m
+168,168,2341,Plattner,Gian-Reto,m
+169,169,2315,Poncet,Charles,m
+170,170,2316,Raggenbass,Hansueli,m
+171,171,2142,Rebeaud,Laurent,m
+172,172,2143,Rechsteiner,Paul,m
+173,173,2147,Reimann,Maximilian,m
+174,174,2232,Reymond,Hubert,m
+175,175,2233,Rhinow,René,m
+176,176,2256,Rhyner,Kaspar,m
+177,177,2317,Robert-Bächtold,Leni,f
+178,178,2148,Rohrbasser,Bernard,m
+179,179,2234,Roth,Jean-François,m
+180,180,2149,Ruckstuhl,Hans,m
+181,181,2235,Rüesch,Ernst,m
+182,182,2150,Ruf,Markus,m
+183,183,2151,Ruffy,Victor,m
+184,184,2152,Rutishauser,Paul,m
+185,185,2154,Rychen,Albrecht,m
+186,186,2156,Salvioni,Sergio,m
+187,187,2318,Sandoz,Suzette,f
+188,188,2158,Savary,Pierre,m
+189,189,2259,Schallberger,Peter-Josef,m
+190,190,2159,Scheidegger,Urs,m
+191,191,2160,Scherrer,Jürg,m
+192,192,2319,Scherrer,Werner,m
+193,193,2320,Scheurer,Rémy,m
+194,194,2257,Schiesser,Fritz,m
+195,195,2236,Schmid-Sutter,Carlo,m
+196,196,2161,Schmid,Peter,m
+197,197,2162,Schmidhalter,Paul,m
+198,198,2321,Schmied,Walter,m
+199,199,2163,Schnider,Theodor,m
+200,200,2237,Schoch,Otto,m
+201,201,2164,Schüle,Kurt,m
+202,202,2165,Schwab,Heinz,m
+203,203,2166,Segmüller,Eva,f
+204,204,2239,Seiler,Bernhard,m
+205,205,2168,Seiler,Hanspeter,m
+206,206,2169,Seiler,Rolf,m
+207,207,2322,Sieber,Ernst,m
+209,209,2240,Simmen,Rosemarie,f
+210,210,2171,Spielmann,Jean,m
+211,211,2172,Spoerry,Vreni,f
+212,212,2297,Stalder,Fritz,m
+213,213,2173,Stamm,Judith,f
+214,214,2323,Stamm,Luzi,m
+215,215,2175,Steffen,Hans,m
+216,216,2324,Steiger,Hans,m
+217,217,2176,Steinegger,Franz,m
+218,218,2325,Steinemann,Walter,m
+219,219,2326,Strahm,Rudolf,m
+220,220,2178,Stucky,Georg,m
+221,221,2327,Suter,Marc Frédéric,m
+222,222,2179,Theubet,Gabriel,m
+223,223,2180,Thür,Hanspeter,m
+224,224,2328,Tschäppät,Alexander,m
+225,225,2329,Tschopp,Peter,m
+226,226,2181,Tschuppert,Karl,m
+227,227,2241,Uhlmann,Hans,m
+228,228,2330,Vetterli,Werner,m
+229,229,2251,Vollmer,Peter,m
+230,230,2184,Wanner,Christian,m
+231,231,2243,Weber,Monika,f
+232,232,2186,Weder,Hansjürg,m
+233,233,2331,Wick,Hugo,m
+234,234,2190,Wiederkehr,Roland,m
+235,235,2332,Wittenwiler,Milli,f
+236,236,2191,Wyss,Paul,m
+237,237,2192,Wyss,William,m
+238,238,2195,Ziegler,Jean,m
+239,239,2244,Ziegler,Oswald,m
+240,240,2245,Zimmerli,Ulrich,m
+241,241,2333,Zisyadis,Josef,m
+242,242,2196,Zölch,Elisabeth,f
+243,243,2197,Züger,Arthur,m
+244,244,2334,Zwahlen,Jean-Claude,m
+245,245,2199,Zwygart,Otto,m
+246,246,2012,Béguelin,Michel,m
+247,247,2013,Berger,Jean-Pierre,m
+248,248,2278,Camponovo,Geo,m
+249,249,2068,Friderici,Charles,m
+250,250,2074,Gros,Jean-Michel,m
+251,251,2091,Iten,Joseph,m
+252,252,2120,Mühlemann,Ernst,m
+253,253,2342,Graber,Rolf,m
+254,254,2343,Steiner,Rudolf,m
+255,255,2193,Zbinden,Hans,m
+257,257,2344,Schweingruber,Alain,m
+258,258,2345,Lepori Bonetti,Mimi,f
+259,259,2198,Zwingli,Walter,m
+260,260,2252,Baerlocher,Thomas,m
+261,261,2346,Ostermann,Roland,m
+264,264,2347,Weyeneth,Hermann,m
+265,265,2350,Bugnon,Fabienne,f
+266,266,2349,Cornaz,Stefan,m
+267,267,2348,Schmid,Samuel,m
+268,268,2351,Schenk,Simon,m
+269,269,2352,Baumann,Stephanie,f
+271,271,2353,Singeisen,Verena,f
+273,273,2354,Gadient,Brigitta M.,f
+274,274,2355,Prongué,Marie-Madeleine,f
+275,275,2359,Maissen,Theo,m
+276,276,2357,Brändli,Christoffel,m
+277,277,2356,Bieri,Peter,m
+278,278,2358,Carnat,Nicolas,m
+279,279,2360,Bignasca,Giuliano,m
+280,280,2361,Langenberger,Christiane,f
+281,281,2362,Frainier,Hubert,m
+282,282,2107,Luder,Paul,m
+293,293,2363,Eberhard-Halter,Barbara,f
+294,294,2364,Rohr,Rudolf,m
+298,298,2365,Aeppli,Regine,f
+300,300,2366,Alder,Fredi,m
+301,301,2367,Banga,Boris,m
+303,303,2368,Bangerter,Käthi,f
+304,304,2369,Baumann,J. Alexander,m
+305,305,2370,Berberat,Didier,m
+306,306,2371,Blaser,Emmanuella,f
+307,307,2372,Brunner,Toni,m
+308,308,2428,von Allmen,Hansueli,m
+309,309,2373,Cavalli,Franco,m
+310,310,2374,Chiffelle,Pierre,m
+311,311,2375,Christen,Yves,m
+312,312,2376,Ducrot,Rose-Marie,f
+313,313,2377,Dupraz,John,m
+314,314,2378,Durrer,Adalbert,m
+315,315,2379,Eberhard,Toni,m
+316,316,2380,Egerszegi-Obrist,Christine,f
+317,317,2381,Ehrler,Melchior,m
+318,318,2382,Engelberger,Edi,m
+319,319,2383,Fehr,Hans,m
+320,320,2384,Filliez,Jean-Jérôme,m
+321,321,2385,Föhn,Peter,m
+322,322,2386,Freund,Jakob,m
+323,323,2387,Grobet,Christian,m
+324,324,2388,Gross,Jost,m
+325,325,2389,Guisan,Yves,m
+326,326,2076,Günter,Paul,m
+327,327,2390,Gusset,Wilfried Ernest,m
+328,328,2391,Gysin,Remo,m
+329,329,2392,Hilber,Kathrin,f
+330,330,2393,Hochreutener,Norbert,m
+331,331,2394,Hubmann,Vreni,f
+332,332,2395,Imhof,Rudolf,m
+333,333,2396,Jans,Armin,m
+334,334,2397,Jutzet,Erwin,m
+335,335,2398,Kofmel,Peter,m
+336,336,2399,Kunz,Josef,m
+337,337,2400,Lachat,François,m
+338,338,2401,Lauper,Hubert,m
+339,339,2402,Loretan,Otto G.,m
+340,340,2403,Lötscher,Josef,m
+341,341,2405,Maury Pasquier,Liliane,f
+342,342,2406,Müller,Erich,m
+343,343,2407,Müller-Hemmi,Vreni,f
+344,344,2408,Oehrli,Fritz Abraham,m
+345,345,2409,Pelli,Fulvio,m
+346,346,2410,Randegger,Johannes,m
+347,347,2411,Ratti,Remigio,m
+348,348,2412,Rechsteiner,Rudolf,m
+349,349,2413,Rennwald,Jean-Claude,m
+350,350,2436,Bernasconi,Maria,f
+351,351,2414,Sandoz,Marcel,m
+352,352,2415,Schlüer,Ulrich,m
+353,353,2416,Schmid,Odilo,m
+354,354,2417,Semadeni,Silva,f
+355,355,2418,Simon,Jean-Charles,m
+356,356,2419,Speck,Christian,m
+357,357,2420,Straumann,Walter,m
+358,358,2421,Stump,Doris,f
+359,359,2422,Teuscher,Franziska,f
+360,360,2423,Thanei,Anita,f
+361,361,2424,Theiler,Georges,m
+362,362,2425,Vallender,Dorle,f
+363,363,2426,Vermot-Mangold,Ruth-Gaby,f
+364,364,2427,Vogel,Daniel,m
+365,365,2429,Weber,Agnes,f
+366,366,2430,Weigelt,Peter,m
+367,367,2189,Widrig,Hans Werner,m
+368,368,2431,Zapfl,Rosmarie,f
+369,369,2440,Aeby,Pierre,m
+370,370,2432,Forster-Vannini,Erika,f
+371,371,2433,Gentil,Pierre-Alain,m
+372,372,2443,Inderkum,Hansheiri,m
+373,373,2437,Leumann,Helen,f
+374,374,2441,Marty,Dick,m
+375,375,2434,Paupe,Pierre,m
+376,376,2442,Respini,Renzo,m
+377,377,2439,Rochat,Eric,m
+378,378,2435,Saudan,Françoise,f
+379,379,2438,Wicki,Franz,m
+380,380,2444,Hasler,Ernst,m
+385,385,2445,Bosshard,Walter,m
+390,390,2446,Widmer,Hans,m
+394,394,2447,Jaquet-Berger,Christiane,f
+395,395,2448,Fässler-Osterwalder,Hildegard,f
+396,396,2449,Waber,Christian,m
+397,397,2450,Burgener,Thomas,m
+398,398,2451,Merz,Hans-Rudolf,m
+399,399,2452,Heim,Alex,m
+402,402,2453,Keller,Christine,f
+403,403,2460,Hofmann,Hans,m
+404,404,2454,Baader,Caspar,m
+405,405,2455,Fehr,Jacqueline,f
+406,406,2456,Antille,Charles-Albert,m
+407,407,2457,Genner,Ruth,f
+408,408,2458,Jenny,This,m
+409,409,2459,Hess,Hans,m
+418,418,2462,Debons,Gilbert,m
+419,419,2461,Beck,Serge,m
+421,421,2463,Florio,Marguerite,f
+422,422,2464,Donati,Franco,m
+423,423,2465,Geiser,Barbara,f
+425,425,2466,Schweiger,Rolf,m
+426,426,1084,Koller,Arnold,m
+427,427,1082,Cotti,Flavio,m
+428,428,2132,Ogi,Adolf,m
+429,429,2242,Villiger,Kaspar,m
+430,430,2566,Dreifuss,Ruth,f
+432,432,2469,Kuhn,Katrin,f
+433,433,2468,Kalbermatten,Ruth,f
+434,434,2467,Ammann,Regina,f
+435,435,2470,Meyer-Kaelin,Thérèse,f
+436,436,2471,Schaller,Anton,m
+440,440,2472,Jossen,Peter,m
+449,449,2473,Aeschbacher,Ruedi,m
+450,450,2474,Bader,Elvira,f
+451,451,2475,Bernasconi,Madeleine,f
+452,452,2476,Bigger,Elmar,m
+453,453,2477,Bugnon,André,m
+454,454,2478,Chappuis,Liliane,f
+455,455,2479,Chevrier,Maurice,m
+456,456,2480,Cina,Jean-Michel,m
+457,457,2481,Cuche,Fernand,m
+458,458,2482,Decurtins,Walter,m
+459,459,2483,Dormond Béguelin,Marlyse,f
+460,460,2484,Dunant,Jean Henri,m
+461,461,2485,Estermann,Heinrich,m
+462,462,2486,Fattebert,Jean,m
+463,463,2487,Favre,Charles,m
+464,464,2488,Fehr,Hans-Jürg,m
+465,465,2489,Fehr,Mario,m
+466,466,2061,Fetz,Anita,f
+467,467,2490,Galli,Remo Giosué,m
+468,468,2492,Gendotti,Gabriele,m
+469,469,2493,Glasson,Jean-Paul,m
+470,470,2494,Glur,Walter,m
+471,471,2495,Gutzwiller,Felix,m
+472,472,2496,Haller Vannini,Ursula,f
+473,473,2497,Hassler,Hansjörg,m
+474,474,2498,Hess,Bernhard,m
+475,475,2499,Hess,Walter,m
+476,476,2500,Hofmann,Urs,m
+477,477,2501,Janiak,Claude,m
+478,478,2502,Joder,Rudolf,m
+479,479,2503,Kaufmann,Hans,m
+480,480,2504,Keller,Robert,m
+481,481,2505,Koch,Ursula,f
+482,482,2506,Kurrus,Paul,m
+483,483,2507,Lalive d'Epinay,Maya,f
+484,484,2508,Laubacher,Otto,m
+485,485,2509,Leutenegger,Hansjakob,m
+487,487,2129,Leutenegger Oberholzer,Susanne,f
+488,488,2510,Leuthard,Doris,f
+489,489,2511,Loepfe,Arthur,m
+490,490,2512,Lustenberger,Ruedi,m
+491,491,2513,Maillard,Pierre-Yves,m
+492,492,2514,Mariétan,Fernand,m
+493,493,2515,Mathys,Hans Ulrich,m
+494,494,2516,Meier-Schatz,Lucrezia,f
+495,495,2517,Menétrey-Savary,Anne-Catherine,f
+496,496,2518,Messmer,Werner,m
+497,497,2520,Mugny,Patrice,m
+498,498,2521,Neirynck,Jacques,m
+499,499,2522,Pedrina,Fabio,m
+500,500,2523,Pfister,Theophil,m
+501,501,2524,Polla,Barbara,f
+502,502,2525,Riklin,Kathy,f
+503,503,2526,Robbiani,Meinrado,m
+504,504,2527,Rossini,Stéphane,m
+505,505,2528,Ruey,Claude,m
+506,506,2529,Scherer,Marcel,m
+508,508,2530,Schneider-Ammann,Johann N.,m
+509,509,2531,Schwaab,Jean Jacques,m
+510,510,2532,Siegrist,Ulrich,m
+511,511,2533,Simoneschi-Cortesi,Chiara,f
+512,512,2534,Sommaruga,Simonetta,f
+513,513,2535,Spuhler,Peter,m
+514,514,2536,Stahl,Jürg,m
+515,515,2537,Studer,Heiner,m
+516,516,2538,Triponez,Pierre,m
+517,517,2539,Vaudroz,Jean-Claude,m
+518,518,2540,Vaudroz,René,m
+519,519,2541,Walter,Hansjörg,m
+520,520,2542,Wandfluh,Hansruedi,m
+521,521,2543,Wasserfallen,Kurt,m
+522,522,2544,Wyss,Ursula,f
+523,523,2545,Zäch,Guido,m
+524,524,2491,Garbani,Valérie,f
+525,525,2546,Zanetti,Roberto,m
+526,526,2547,Zuppiger,Bruno,m
+527,527,2556,Tillmanns,Pierre,m
+528,528,2548,Briner,Peter,m
+529,529,2549,Cornu,Jean-Claude,m
+530,530,2550,Slongo,Marianne,f
+531,531,2551,Stadler,Hansruedi,m
+532,532,2552,Stähelin,Philipp,m
+534,534,2553,Wenger,Rico,m
+535,535,2554,Berger,Michèle-Irène,f
+536,536,2555,Studer,Jean,m
+537,537,2557,Escher,Rolf,m
+538,538,2559,Bürgi,Hermann,m
+539,539,2558,Fünfschilling,Hans,m
+540,540,2561,Lombardi,Filippo,m
+541,541,2560,Pfisterer,Thomas,m
+542,542,2519,Mörgeli,Christoph,m
+543,543,2562,Walker,Felix,m
+551,551,2563,Marty Kälin,Barbara,f
+552,552,1001,Ammann,Ulrich,m
+553,553,1002,Blunschy-Steiner,Elisabeth,f
+554,554,1003,Bonnard,Claude,m
+557,557,1004,Bratschi,Heinz,m
+558,558,1005,Bürer,Kurt,m
+559,559,1006,Butty,Laurent,m
+560,560,1007,Camenzind,Margrit,f
+561,561,1008,Candaux,Pierre-David,m
+562,562,1009,Cantieni,Toni,m
+563,563,1010,de Chastonay,Pierre,m
+564,564,1011,Chopard,Max,m
+565,565,1012,Christinat,Amélia,f
+566,566,1013,Clivaz,Jean,m
+567,567,1014,Cottet,Joseph,m
+568,568,1015,Deneys,Heidi,f
+569,569,1016,Dirren,Herbert,m
+570,570,1017,Dubois,Marcel,m
+571,571,1018,Dupont,Bernard,m
+572,572,1019,Eggli,Albert,m
+573,573,1020,Eng,Franz,m
+574,574,1021,Flubacher,Karl,m
+575,575,1022,Friedli,Valentine,f
+576,576,1023,Gehler,Jean-Paul,m
+577,577,1024,Geissbühler,Gottlieb,m
+578,578,1025,Giudici,Luciano,m
+579,579,1026,Gloor,Jean-Philippe,m
+580,580,1027,Gurtner,Barbara,f
+581,581,1028,Hofmann,Fritz,m
+582,582,1029,Künzi,Hans,m
+583,583,1030,Landolt,Josef,m
+584,584,1031,Lüchinger,Hans-Georg,m
+586,586,1032,Magnin,Armand,m
+587,587,1033,Martignoni,Werner,m
+588,588,1034,Meyer,Kurt,m
+589,589,1035,Müller,Arnold,m
+590,590,1036,Müller,Bernhard,m
+591,591,1037,Nauer,Otto,m
+592,592,1038,Nef,Georg,m
+593,593,1039,Oehen,Valentin,m
+594,594,1040,Pfund,Willy,m
+595,595,1041,Renschler,Walter,m
+596,596,1042,Revaclier,Jean,m
+597,597,1043,Riesen,Jean,m
+598,598,1044,Rime,Pierre,m
+599,599,1045,Risi,Josef,m
+600,600,1046,Robbiani,Dario,m
+601,601,1047,Röthlin,Walter,m
+603,603,1049,Ruch,Rudolf,m
+605,605,1050,Schärli,Hans,m
+606,606,1051,Schnyder,Heinrich,m
+607,607,1052,Schwarz,Urs,m
+608,608,1053,Soldini,Mario,m
+609,609,1054,Stamm,Walter,m
+610,610,1055,Stucki,Jakob,m
+611,611,1056,Thévoz,Georges,m
+612,612,1057,Vannay,Françoise,f
+613,613,1058,Wagner,Paul,m
+614,614,1059,Weber,Walter,m
+615,615,1060,Weber,Leo,m
+616,616,1061,Weber,Rolf,m
+617,617,1063,Zehnder,Herbert,m
+618,618,1064,Ziegler,Josef,m
+619,619,1065,Arnold,Leo,m
+620,620,1066,Aubert,Jean-François,m
+621,621,1067,Bauer-Lagier,Monique,f
+622,622,1068,Belser,Eduard,m
+623,623,1069,Binder,Julius,m
+624,624,1070,Bürgi,Paul,m
+625,625,1071,Debétaz,Edouard,m
+626,626,1072,Dreyer,Pierre,m
+627,627,1073,Genoud,Guy,m
+628,628,1074,Gerber,Peter,m
+629,629,1075,Knüsel,Peter,m
+630,630,1076,Letsch,Hans,m
+631,631,1077,Matossi,Franco,m
+632,632,1078,Meylan,René,m
+633,633,1079,Moll,Heinz,m
+634,634,1080,Muheim,Franz,m
+635,635,1081,Steiner,Ernst,m
+636,636,1083,Frei,Hans,m
+637,637,1086,Rohrer,Hans,m
+638,638,1087,Andermatt,Othmar,m
+639,639,1088,Brahier,Gaston,m
+640,640,1089,Hophan,Wilfried,m
+641,641,1090,Schaffter,Roger,m
+642,642,1091,Mascarin-Bircher,Ruth,f
+643,643,1092,Dafflon,Roger,m
+644,644,1093,Hegg,Jean-Jacques,m
+645,645,1094,Kopp,Elisabeth,f
+646,646,1095,Schmid,Hans,m
+647,647,1096,Vetsch,Burkhard,m
+648,648,1097,Affolter,Alfred,m
+649,649,1098,Akeret,Erwin,m
+650,650,1099,Alder,Claudius,m
+651,651,1100,Augsburger,Walter,m
+652,652,1101,Bacciarini,Alma,f
+653,653,1102,Baechtold,Gilbert,m
+654,654,1103,Barchi,Pier Felice,m
+655,655,1104,Barras,Louis,m
+656,656,1105,Biderbost,Paul,m
+657,657,1106,de Capitani,Silvio,m
+658,658,1107,Crevoisier,Jean-Claude,m
+659,659,1108,Delamuraz,Jean-Pascal,m
+660,660,1109,Duboule,Gilbert,m
+661,661,1110,Dürr,Andreas,m
+662,662,1111,Fischer,Hanspeter,m
+663,663,1112,Fischer,Otto,m
+664,664,1113,Forel,Armand-Auguste,m
+665,665,1114,Füeg,Cornelia,f
+666,666,1115,Ganz,Fritz,m
+667,667,1116,Gerwig,Andreas,m
+668,668,1117,Girard,Gertrude,f
+669,669,1118,Huggenberger,Ernst,m
+670,670,1119,Jost,Christian,m
+671,671,1120,Junod,Raymond,m
+672,672,1121,Kaufmann,Remigius,m
+673,673,1122,Kloter,Theodor,m
+674,674,1123,Kunz,Urs,m
+675,675,1124,Lang-Gehri,Hedi,f
+676,676,1125,Linder,David,m
+677,677,1126,Loetscher,Francis,m
+678,678,1127,Meier,Kaspar,m
+679,679,1128,Meier,Werner,m
+680,680,1129,Merz,Christian,m
+681,681,1130,Messmer,Willy,m
+682,682,1131,Morel,Félicien,m
+683,683,1132,Müller,Alfons,m
+684,684,1133,Müller,Daniel,m
+685,685,1134,Müller,Richard,m
+686,686,1135,Pedrazzini,Giovan Battista,m
+687,687,1136,Räz-Rutsch,Fritz,m
+688,688,1137,Reiniger,Kurt,m
+689,689,1138,Ribi,Martha,f
+690,690,1139,Roth,Hans,m
+691,691,1140,Rothen,Eduard,m
+692,692,1141,Roy,Gabriel,m
+693,693,1142,Rüegg,Hans,m
+694,694,1143,Schalcher,Heinrich,m
+695,695,1144,Scherer,Anton,m
+696,696,1145,Spiess,Gertrud,f
+697,697,1146,Spreng,Liselotte,f
+698,698,1147,Stich,Otto,m
+699,699,1148,Teuscher,Pierre,m
+700,700,1149,Tochon,Robert,m
+701,701,1150,Wilhelm,Jean,m
+702,702,1151,Baumberger,Hans Ulrich,m
+703,703,1152,Donzé,Willy,m
+704,704,1153,Gassmann,Pierre,m
+705,705,1154,Generali,Luigi,m
+706,706,1155,Guntern,Odilo,m
+707,707,1156,Lieberherr,Emilie,f
+708,708,1157,Muheim,Anton,m
+709,709,1160,Ulrich,Josef,m
+710,710,1158,Munz,Hans,m
+711,711,1159,Stefani,Alberto,m
+714,714,2001,Aliesch,Peter,m
+715,715,2003,Ammann,Walter,m
+716,716,2006,Auer,Felix,m
+717,717,2007,Baggi,Giovanni,m
+718,718,2009,Basler,Konrad,m
+719,719,2010,Bäumlin,Richard,m
+721,721,2014,Biel,Walter,m
+722,722,2020,Bonvin,Hubert,m
+723,723,2022,Braunschweig,Hansjörg,m
+724,724,2023,Brélaz,Daniel,m
+725,725,2024,Bremi-Forrer,Ulrich,m
+726,726,2028,Burckhardt,Martin,m
+727,727,2034,Cevey,Jean-Jacques,m
+728,728,2043,Déglise,Elisabeth,f
+729,729,2045,Dietrich,Franz,m
+730,730,2050,Eggenberg,Ernst,m
+731,731,2052,Eisenring,Paul,m
+732,732,2054,Eppenberger,Susi,f
+733,733,2056,Euler,Alexander,m
+734,734,2057,Fäh,Paul,m
+735,735,2059,Fehr,Hermann,m
+736,736,2060,Feigenwinter,Hans-Rudolf,m
+737,737,2062,Fierz,Lukas,m
+738,738,2071,Graf,Hans-Ulrich,m
+739,739,2072,Grassi,Mario,m
+740,740,2081,Hänggi,Peter,m
+741,741,2087,Hösli,Fritz,m
+742,742,2088,Houmard,Marc-André,m
+743,743,2090,Humbel,Beda,m
+744,744,2093,Jeanneret,François,m
+745,745,2095,Jung,Franz,m
+746,746,2097,Kohler,Raoul,m
+747,747,2099,Lanz,Fritz,m
+748,748,2105,Longet,René,m
+749,749,2111,Martin,Paul-René,m
+750,750,2112,Massy,Claude,m
+751,751,2118,Meizoz,Bernard,m
+752,752,2119,Morf,Doris,f
+753,753,2122,Müller,Kurt,m
+754,754,2127,Neukomm,Alfred,m
+755,755,2128,Nussbaumer,Urs,m
+756,756,2131,Oester,Hans,m
+757,757,2133,Ott,Heinrich,m
+758,758,2134,Paccolat,Monique,m
+759,759,2183,Pitteloud,Françoise,f
+760,760,2141,Portmann,Théo Christian,m
+761,761,2144,Reich,Richard,m
+762,762,2145,Reichling,Rudolf jun.,m
+763,763,2146,Reimann,Fritz,m
+764,764,2153,Rüttimann,Albert,m
+765,765,2155,Sager,Peter,m
+766,766,2157,Savary,Jean,m
+767,767,2167,Segond,Guy-Olivier,m
+768,768,2170,Spälti,Peter,m
+769,769,2174,Stappung,Sepp,m
+770,770,2177,Stocker-Meier,Monika,f
+771,771,2182,Uchtenhagen,Lilian,f
+773,773,2185,Weber,Karl,m
+774,774,2187,Wellauer,Hermann,m
+775,775,2188,Widmer,Sigmund,m
+776,776,2194,Zbinden,Paul,m
+777,777,2201,Affolter,Max,m
+778,778,2203,Bührer,Esther,f
+779,779,2209,Dobler,Alois,m
+780,780,2213,Gautier,André,m
+781,781,2214,Hänsenberger,Arthur,m
+782,782,2215,Hefti,Peter,m
+783,783,2217,Hunziker,Bruno,m
+784,784,2219,Jaggi,Yvette,f
+785,785,2221,Jelmini,Camillo,m
+786,786,2224,Lauber,Daniel,m
+787,787,2225,Masoni,Franco,m
+788,788,2226,Meier,Hans,m
+789,789,2228,Miville,Carl jun.,m
+790,790,2231,Reichmuth,Xaver,m
+791,791,2238,Schönenberger,Jakob,m
+792,792,2246,Zumbühl,Norbert,m
+793,793,2249,Antille,Rosemarie,f
+797,797,2564,Donzé,Walter,m
+801,801,2565,Abate,Fabio,m
+804,804,2567,Metzler-Arnold,Ruth,f
+805,805,2568,Lauri,Hans,m
+806,806,2569,Graf,Maya,f
+809,809,2570,Wirz-von Planta,Christine,f
+817,817,2571,Imfeld,Adriano,m
+820,820,2572,Schibli,Ernst,m
+823,823,2573,Bruderer Wyss,Pascale,f
+824,824,2574,Salvi,Pierre,m
+825,825,2575,Germann,Hannes,m
+826,826,2576,Huber-Hotz,Annemarie,f
+827,827,2577,Calmy-Rey,Micheline,f
+830,830,NA,Wallimann-Bornatico,Mariangela,f
+831,831,2581,Casanova,Achille,m
+832,832,2582,Muralt Müller,Hanna,f
+1039,1039,NA,Steiner,Hans,m
+1059,1059,2578,Brun,Franz,m
+1065,1065,2579,Leuenberger,Ueli,m
+1071,1071,2580,Humbel,Ruth,f
+1103,1103,2602,Huber,Gabi,f
+1104,1104,2588,Büchler,Jakob,m
+1105,1105,2586,Bignasca,Attilio,m
+1106,1106,2600,Häberli-Koller,Brigitte,f
+1107,1107,2639,Amgwerd,Madeleine,f
+1108,1108,2621,Parmelin,Guy,m
+1109,1109,2623,Pfister,Gerhard,m
+1110,1110,2635,Vischer,Daniel,m
+1111,1111,2618,Müri,Felix,m
+1112,1112,2615,Müller,Geri,m
+1113,1113,2612,Leutenegger,Filippo,m
+1114,1114,2609,Kleiner,Marianne,f
+1115,1115,2626,Reymond,André,m
+1116,1116,2589,Burkhalter,Didier,m
+1117,1117,2598,Germanier,Jean-René,m
+1118,1118,2606,Ineichen,Otto,m
+1119,1119,2627,Rime,Jean-François,m
+1120,1120,2632,Sommaruga,Carlo,m
+1121,1121,2604,Hutter-Hutter,Jasmin,f
+1122,1122,2594,Fluri,Kurt,m
+1123,1123,2634,Veillon,Pierre-François,m
+1124,1124,2593,de Buman,Dominique,m
+1125,1125,2597,Galladé,Chantal,f
+1126,1126,2605,Hutter,Markus,m
+1127,1127,2595,Freysinger,Oskar,m
+1128,1128,2636,Wäfler,Markus,m
+1129,1129,2630,Schenker,Silvia,f
+1130,1130,2637,Wehrli,Reto,m
+1131,1131,2583,Allemann,Evi,f
+1132,1132,2625,Rey,Jean-Noël,m
+1133,1133,2592,Darbellay,Christophe,m
+1134,1134,2624,Recordon,Luc,m
+1135,1135,2584,Amstutz,Adrian,m
+1136,1136,2607,Jermann,Walter,m
+1137,1137,2617,Müller,Walter,m
+1138,1138,2585,Bäumle,Martin,m
+1139,1139,2614,Markwalder,Christa,f
+1140,1140,2628,Sadis,Laura,f
+1141,1141,2616,Müller,Philipp,m
+1142,1142,2638,Wobmann,Walter,m
+1143,1143,2590,Cathomas,Sep,m
+1144,1144,2587,Brunschwig Graf,Martine,f
+1145,1145,2622,Perrin,Yvan,m
+1146,1146,2603,Huguenin,Marianne,f
+1147,1147,2608,Kiener Nellen,Margret,f
+1148,1148,2629,Savary,Géraldine,f
+1149,1149,2640,Schwaller,Urs,m
+1150,1150,2613,Levrat,Christian,m
+1151,1151,2599,Gyr-Steiner,Josy,f
+1152,1152,2591,Daguet,André,m
+1153,1153,2619,Noser,Ruedi,m
+1154,1154,2610,Kohler,Pierre,m
+1155,1155,2596,Frösch,Therese,f
+1156,1156,2601,Heim,Bea,f
+1157,1157,2620,Pagan,Jacques,m
+1158,1158,2611,Lang,Josef,m
+1159,1159,2631,Schwander,Pirmin,m
+1160,1160,2633,Vanek,Pierre,m
+1161,1161,2642,Berset,Alain,m
+1162,1162,2641,Kuprecht,Alex,m
+1163,1163,2643,Ory,Gisèle,f
+1172,1172,NA,Aebischer,Max,m
+1173,1173,NA,Amstad,Eduard,m
+1174,1174,NA,Aubert,Pierre,m
+1175,1175,NA,Babel,Jean,m
+1176,1176,NA,Bachmann,Karl,m
+1177,1177,NA,Baudère,Raymond,m
+1178,1178,NA,Bächtold,Kurt,m
+1179,1179,NA,Besuchet,Roger,m
+1180,1180,NA,Breny,Georges,m
+1181,1181,NA,Carruzzo,Félix,m
+1183,1183,NA,Condrau,Gion,m
+1184,1184,NA,Copt,Aloys,m
+1185,1185,NA,Corbat,Fernand,m
+1186,1186,NA,Dillier,Jost,m
+1187,1187,NA,Ducret,Robert,m
+1188,1188,NA,Duvanel,Pierre,m
+1189,1189,NA,Egli,Joseph,m
+1190,1190,NA,Egli,Alphons,m
+1191,1191,NA,Felber,René,m
+1192,1192,NA,Fischer,Josef,m
+1193,1193,NA,Flepp,Leonhard,m
+1194,1194,NA,Fontanet,Guy,m
+1195,1195,NA,Fraefel,Thomas,m
+1196,1196,NA,Franzoni,Enrico,m
+1197,1197,NA,Frey,Tilo,f
+1198,1198,NA,Frick,Simon,m
+1199,1199,NA,Friedrich,Rudolf,m
+1200,1200,NA,Furgler,Kurt,m
+1202,1202,NA,Gehler,Paul,m
+1203,1203,NA,Girardin,Lise,f
+1204,1204,NA,Götsch,Ulrich,m
+1205,1205,NA,Grolimund,Josef,m
+1206,1206,NA,Grosjean,Carlos,m
+1207,1207,NA,Harder,Josef,m
+1208,1208,NA,Heimann,Albin,m
+1209,1209,NA,Hofer,Walther,m
+1210,1210,NA,Hummler,Alfred,m
+1211,1211,NA,Hungerbühler,Traugott,m
+1212,1212,NA,Jaggi,Ernst,m
+1213,1213,NA,Jauslin,Werner,m
+1214,1214,NA,König,Bernhard,m
+1215,1215,NA,Kuhn,Niklaus,m
+1216,1216,NA,Lardelli,Elisabeth,f
+1217,1217,NA,Mayer,Oscar,m
+1218,1218,NA,Meier,Fritz,m
+1219,1219,NA,Meyer,Hans Rudolf,m
+1220,1220,NA,Morier-Genoud,Jacques,m
+1221,1221,NA,Moser,Robert,m
+1222,1222,NA,Muff,Erwin,m
+1223,1223,NA,Mugny,Roger,m
+1224,1224,NA,Müller,Andreas,m
+1225,1225,NA,Naegeli,Wilfried,m
+1226,1226,2000,Nanchen,Gabrielle,f
+1227,1227,NA,Pagani,Gian Mario,m
+1228,1228,NA,Péquignot,Maurice,m
+1229,1229,NA,Primborgne,Charles,m
+1230,1230,NA,Richter,Yann,m
+1231,1231,NA,Sahlfeld-Singer,Hanna,f
+1232,1232,NA,Sandoz,André,m
+1233,1233,2644,Rutschmann,Hans,m
+1234,1234,NA,Sauser,Willy,m
+1235,1235,NA,Schaffer,Emil,m
+1236,1236,NA,Schaffner,Hans,m
+1237,1237,NA,Schär,Meinrad,m
+1238,1238,NA,Schlumpf,Leon,m
+1239,1239,NA,Schmid,Arthur,m
+1240,1240,NA,Schnyder,Heinrich,m
+1241,1241,NA,Schnyder,Karl,m
+1242,1242,NA,Schutz,Jakob,m
+1243,1243,NA,Sigrist,Albert,m
+1244,1244,NA,Stadelmann,Hans,m
+1245,1245,NA,Stadler,Anton,m
+1247,1247,NA,Stähli,Roland,m
+1248,1248,NA,Suter,Rudolf,m
+1249,1249,NA,Tenchio,Ettore,m
+1250,1250,NA,Trottmann,Karl,m
+1251,1251,NA,Ulrich-Vögtlin,Ursula,f
+1252,1252,NA,Vincenz,Gion Clau,m
+1253,1253,NA,Weber,Alfred,m
+1254,1254,NA,Wicky,Nelly,f
+1255,1255,NA,Wyer,Hans,m
+1256,1256,2645,Altherr,Hans,m
+1257,1257,9301,Couchepin,François,m
+1267,1267,2647,Stöckli,Hans,m
+1272,1272,NA,de Bourgknecht,Jean-François,m
+1273,1273,NA,Blum,Andreas,m
+1279,1279,2648,Nordmann,Roger,m
+1288,1288,2646,Amherd,Viola,f
+1289,1289,2649,Barthassat,Luc,m
+1293,1293,2650,John-Calame,Francine,f
+1294,1294,2651,Füglistaller,Lieni,m
+1295,1295,2652,Graf-Litscher,Edith,f
+1309,1309,NA,Sigg,Oswald,m
+1310,1310,2731,Casanova,Corina,f
+1314,1314,2653,Bonhôte,Pierre,m
+1318,1318,2654,Schelbert,Louis,m
+1321,1321,2655,Bernhardsgrütter,Urs,m
+1336,1336,2656,Zemp,Markus,m
+1337,1337,2657,Glanzmann-Hunkeler,Ida,f
+1338,1338,2658,Zeller,Andreas,m
+1343,1343,2659,Hany,Urs,m
+1344,1344,2662,Schweizer,Urs,m
+1345,1345,2661,Müller,Thomas,m
+1346,1346,2660,Moret,Isabelle,f
+1352,1352,2663,Michel,Jürg,m
+1353,1353,NA,a Marca,Giuseppe,m
+1354,1354,NA,Ab Yberg,Alois,m
+1355,1355,NA,Abegg,Alfred,m
+1356,1356,NA,Abegg,Johann Jakob,m
+1357,1357,NA,Abt,H. Roman,m
+1358,1358,NA,Abt,Heinrich E.,m
+1359,1359,NA,Ackermann,Alfred,m
+1360,1360,NA,Ackermann,Joseph,m
+1361,1361,NA,Ackermann,Walter,m
+1362,1362,NA,Acklin,Peter,m
+1363,1363,NA,Adam,Jakob Josef,m
+1364,1364,NA,Addor,Jules-Henri,m
+1365,1365,NA,Ador,Gustave,m
+1366,1366,NA,Aebersold,Ernst,m
+1367,1367,NA,Aebischer,Paul,m
+1368,1368,NA,Aeby,Paul,m
+1369,1369,NA,Aeby,Pierre,m
+1370,1370,NA,Aepli,A. Otto,m
+1371,1371,NA,Aepli,Arnold Otto,m
+1372,1372,NA,Aeschbach,Adolf,m
+1373,1373,NA,Aeschbacher,Ferdinand,m
+1374,1374,NA,Affolter,Amanz Kaspar,m
+1375,1375,NA,Affolter,Hans,m
+1376,1376,NA,Agostinetti,Emilio,m
+1377,1377,NA,Agustoni,Mario,m
+1378,1378,NA,Airoldi,Giovanni,m
+1379,1379,NA,Albrecht,August,m
+1380,1380,NA,Albrecht,H. Jakob,m
+1381,1381,NA,Albrecht,Hans,m
+1382,1382,NA,Albrecht,Jakob,m
+1383,1383,NA,Albrecht,Luigi,m
+1384,1384,NA,Albrici,Prospero,m
+1385,1385,NA,Allemann,Werner,m
+1386,1386,NA,Allet,Alexis,m
+1387,1387,NA,Allgöwer,Walter,m
+1388,1388,NA,Allgöwer,Werner,m
+1389,1389,NA,Alméras,Alexandre Félix,m
+1390,1390,NA,Altherr,Gustav,m
+1391,1391,NA,Altherr,Hermann,m
+1392,1392,NA,Altwegg,Johannes,m
+1393,1393,NA,Altwegg,Paul,m
+1394,1394,NA,Amacker,Antoine-Joseph,m
+1395,1395,NA,Amberg,Johann,m
+1396,1396,NA,Ambühl,Johann Ulrich,m
+1397,1397,NA,Ammann,Johann Heinrich,m
+1398,1398,NA,Ammann,Johann-Kaspar,m
+1399,1399,NA,Ammann,P. Albert,m
+1400,1400,NA,Amsler,Johann Jakob,m
+1401,1401,NA,Amsler,Johann-Rudolf,m
+1402,1402,NA,Amstad,Joh. Josef M.,m
+1403,1403,NA,Amstalden,Walter,m
+1404,1404,NA,Ancrenaz,Jean-Louis,m
+1405,1405,NA,Anderegg,Emil,m
+1406,1406,NA,Anderegg,Georg Friedrich,m
+1407,1407,NA,Anderegg,Johann Georg,m
+1408,1408,NA,Andermatt,Josef,m
+1409,1409,NA,Anderwert,Jos. Fridolin,m
+1410,1410,NA,André,Paul,m
+1411,1411,NA,Andres,Paul,m
+1412,1412,NA,Anet,Henri,m
+1413,1413,NA,Anliker,Ernst,m
+1414,1414,NA,Antognini,Antonio,m
+1415,1415,NA,Antognini,Francesco,m
+1416,1416,NA,Antognini,Secondo-Vittorio,m
+1417,1417,NA,Arni,Willy,m
+1418,1418,NA,Arnold,Eduard,m
+1419,1419,NA,Arnold,Emil,m
+1420,1420,NA,Arnold,Franz,m
+1421,1421,NA,Arnold,Josef,m
+1422,1422,NA,Arnold,Max,m
+1423,1423,NA,Arpagaus,Johann Bartholome,m
+1424,1424,NA,Ast,Adolf,m
+1425,1425,NA,Aubert,F.-Alfred-J.,m
+1426,1426,NA,Aubert,Théodore,m
+1427,1427,NA,Aubry,Pierre-Ignace,m
+1428,1428,NA,Auf der Mauer,F. Xaver J. K.,m
+1429,1429,NA,Auf der Maur,Dominik,m
+1430,1430,NA,Auroi,André,m
+1431,1431,NA,Baader,Johann Jakob,m
+1432,1432,NA,Bach,Johannes,m
+1433,1433,NA,Bachelard,David E.,m
+1434,1434,NA,Bachmann,Arthur,m
+1435,1435,NA,Bachmann,Ernst,m
+1436,1436,NA,Bachmann,Gottlieb,m
+1437,1437,NA,Bachmann,Jakob H.,m
+1438,1438,NA,Bächtold,Jakob,m
+1439,1439,NA,Badoud,François-X.,m
+1440,1440,NA,Badoux,Henri,m
+1441,1441,NA,Bähler,Traugott-Philipp Eduard,m
+1442,1442,NA,Baldinger,Emil A.,m
+1443,1443,NA,Baldinger,Karl L.,m
+1444,1444,NA,Baldinger,Wilhelm K.,m
+1445,1445,NA,Balestra,Luigi A.,m
+1446,1446,NA,Balli,Francesco,m
+1447,1447,NA,Balli,Valentino Alessandro,m
+1448,1448,NA,Ballmoos,Walter,m
+1449,1449,NA,Bally,Carl Franz,m
+1450,1450,NA,Bally,Eduard,m
+1451,1451,NA,Bally,Iwan,m
+1452,1452,NA,Balmer,Josef Anton,m
+1453,1453,NA,Balmer,Peter,m
+1454,1454,NA,Bangerter,Gottfried,m
+1455,1455,NA,Barben,Ernst,m
+1456,1456,NA,Barlatey,Cyprien,m
+1457,1457,NA,Bärlocher,Remigius,m
+1458,1458,NA,Barman,Louis-G.,m
+1459,1459,NA,Barman,Maurice,m
+1460,1460,NA,Barman,Pierre,m
+1461,1461,NA,Barrelet,Jean-Louis,m
+1462,1462,NA,Bärtschi,Ernst,m
+1463,1463,NA,Battaglini,Antonio,m
+1464,1464,NA,Battaglini,Carlo,m
+1465,1465,NA,Baud,Charles-H.-A.,m
+1466,1466,NA,Baudat,Maurice,m
+1467,1467,NA,Bauder,Robert,m
+1468,1468,NA,Bauer,Albert,m
+1469,1469,NA,Baumann,Heinrich,m
+1470,1470,NA,Baumann,Jakob,m
+1471,1471,NA,Baumann,Johann Kaspar,m
+1472,1472,NA,Baumann,Johann Ulrich,m
+1473,1473,NA,Baumann,Johannes,m
+1474,1474,NA,Baumann,Rudolf,m
+1475,1475,NA,Baumann,Walter,m
+1476,1476,NA,Baumberger,Georg,m
+1477,1477,NA,Baumgartner,Alfred,m
+1478,1478,NA,Baumgartner,Bonaventura,m
+1479,1479,NA,Baumgartner,David,m
+1480,1480,NA,Baumgartner,Emil,m
+1481,1481,NA,Baumgartner,Franz,m
+1482,1482,NA,Baumgartner,Gallus Jakob,m
+1483,1483,NA,Bavier,Johann Baptist,m
+1484,1484,NA,Bavier,Simeon,m
+1485,1485,NA,Beck,Carl,m
+1486,1486,NA,Beck,Franz Xaver,m
+1487,1487,NA,Beck,Fritz,m
+1488,1488,NA,Beck,Marcel,m
+1489,1489,NA,Béguin,Ernest,m
+1490,1490,NA,Béguin,Louis,m
+1491,1491,NA,Belmont,Albert,m
+1492,1492,NA,Benninger,Peter,m
+1493,1493,NA,Benz,Rudolf,m
+1494,1494,NA,Benziger,Josef Karl,m
+1495,1495,NA,Benziger,Nikolaus,m
+1496,1496,NA,Berchtold,Heinrich,m
+1497,1497,NA,Berchtold,Jean N.-E.,m
+1498,1498,NA,Berdez,Louis-F.-J.-M.,m
+1499,1499,NA,Berger,Claude,m
+1500,1500,NA,Berger,Fritz,m
+1501,1501,NA,Berger,Gallus,m
+1502,1502,NA,Berger,Gottlieb,m
+1503,1503,NA,Berger,Hermann,m
+1504,1504,NA,Berger,Philippe-Henri,m
+1505,1505,NA,Berlinger,Johann Georg,m
+1506,1506,NA,Bernasconi,Cesare,m
+1507,1507,NA,Bernasconi,Costantino,m
+1508,1508,NA,Bernet,Friedrich,m
+1509,1509,NA,Berney,John (Jean-M.-E.),m
+1510,1510,NA,Bernhard,Hans,m
+1511,1511,NA,Bernold,Joseph Leonhard,m
+1512,1512,NA,Bernoulli,Hans,m
+1513,1513,NA,Beroldingen,Sebastiano,m
+1514,1514,NA,Bersier,Henri,m
+1515,1515,NA,Bertholet,Raymond,m
+1516,1516,NA,Berthoud,Fritz,m
+1517,1517,NA,Berthoud,Henri,m
+1518,1518,NA,Berthoud,Jean Ed.,m
+1519,1519,NA,Bertoni,Ambrogio,m
+1520,1520,NA,Bertoni,Brenno,m
+1521,1521,NA,Bertschinger,Carl,m
+1522,1522,NA,Bertschinger,F. Theodor,m
+1523,1523,NA,Besson,François,m
+1524,1524,NA,Bettex,Gustave-François,m
+1525,1525,NA,Bettex,J.-François,m
+1526,1526,NA,Bezzola,Andreas,m
+1527,1527,NA,Bider,Martin,m
+1528,1528,NA,Bieder,Daniel,m
+1529,1529,NA,Bienz,Otto,m
+1530,1530,NA,Bieri,Ernst,m
+1531,1531,NA,Bigler,Franz,m
+1532,1532,NA,Bigler,Fritz,m
+1533,1533,NA,Bill,Max,m
+1534,1534,NA,Billeter,Robert,m
+1535,1535,NA,Billieux,Paul,m
+1536,1536,NA,Binder,Eberhard A.,m
+1537,1537,NA,Bioley,Henri,m
+1538,1538,NA,Bircher,Ernst,m
+1539,1539,NA,Bircher,Eugen,m
+1540,1540,NA,Bircher,Franklin,m
+1541,1541,NA,Birmann,Martin,m
+1542,1542,NA,Biroll,Johann-Jakob,m
+1543,1543,NA,Birrer,Julius,m
+1544,1544,NA,Bischoff,Achilles,m
+1545,1545,NA,Bischoff,Emil,m
+1546,1546,NA,Bissegger,Joh. Walter,m
+1547,1547,NA,Bitzius,B. Albert,m
+1548,1548,NA,Blanc,Edmond,m
+1549,1549,NA,Blanchenay,Louis,m
+1550,1550,NA,Blaser,Adolf,m
+1551,1551,NA,Blaser,Hans,m
+1552,1552,NA,Bläsi,Josef,m
+1553,1553,NA,Blatti,Fritz,m
+1554,1554,NA,Blattner,Karl,m
+1555,1555,NA,Bleuler,Salomon,m
+1556,1556,NA,Blösch,Eduard Eugen,m
+1557,1557,NA,Blumer,Eduard,m
+1558,1558,NA,Blumer,Johann Jakob,m
+1559,1559,NA,Blumer,Johannes,m
+1560,1560,NA,Blumer,Leonhard,m
+1561,1561,NA,Blumer,Othmar,m
+1562,1562,NA,Bochatay,Armand,m
+1563,1563,NA,Bodenheimer,Constant,m
+1564,1564,NA,Bodenmann,Hermann,m
+1565,1565,NA,Bodenmann,Marino,m
+1566,1566,NA,Boéchat,Emile,m
+1567,1567,NA,Boerlin,Ernst,m
+1568,1568,NA,Boeschenstein,Johann Georg,m
+1569,1569,NA,Boffa,Amedeo,m
+1570,1570,NA,Böhi,Albert,m
+1571,1571,NA,Boiceau,Charles M. S.,m
+1572,1572,NA,Boinay,Joseph-Auguste,m
+1573,1573,NA,Boivin,Abraham,m
+1574,1574,NA,Bolla,Arnaldo Luigi,m
+1575,1575,NA,Bolla,Cesare,m
+1576,1576,NA,Bolla,Ferruccio,m
+1577,1577,NA,Bolla,Luigi,m
+1578,1578,NA,Bolla,Plinio,m
+1579,1579,NA,Bolle,Arnold,m
+1580,1580,NA,Boller,Johann Heinrich,m
+1581,1581,NA,Bolli,Beat Heinrich,m
+1582,1582,NA,Bollier,H. Rudolf,m
+1583,1583,NA,Bommer,Alois,m
+1584,1584,NA,Bonard,M.-Benjamin,m
+1585,1585,NA,Bondallaz,F. Xavier,m
+1586,1586,NA,Boner,Adolf,m
+1587,1587,NA,Bonhôte,S. A. Eugène,m
+1588,1588,NA,Bonjour,Félix,m
+1589,1589,NA,Bonjour,J.-F.-Louis,m
+1590,1590,NA,Bonnet,Gabriel,m
+1591,1591,NA,Bonnet,Marc-Joseph,m
+1592,1592,NA,Bontems,Charles-P.-E.,m
+1593,1593,NA,Bonvin,Roger,m
+1594,1594,NA,Bonzanigo,Filippo,m
+1595,1595,NA,Bonzanigo,Rocco,m
+1596,1596,NA,Bopp,Friedrich,m
+1597,1597,NA,Bordoni,Rodolfo,m
+1598,1598,NA,Borel,Alfred,m
+1599,1599,NA,Borel,Georges,m
+1600,1600,NA,Borel,Paul,m
+1601,1601,NA,Borel,Victor Eugène,m
+1602,1602,NA,Borella,Achille,m
+1603,1603,NA,Borella,Achille,m
+1604,1604,NA,Borella,Francesco-Nino,m
+1605,1605,NA,Born,Albert Friedrich,m
+1606,1606,NA,Bornand,Justin,m
+1607,1607,NA,Bory,Alphonse,m
+1608,1608,NA,Bösch,Emil,m
+1609,1609,NA,Bösch,Johann Jakob,m
+1610,1610,NA,Boschung,Franz,m
+1611,1611,NA,Bossard,Georg,m
+1612,1612,NA,Bossard,Johann Konrad,m
+1613,1613,NA,Bosset,Frédéric  Gérard,m
+1614,1614,NA,Bosset,Norbert,m
+1615,1615,NA,Bosshard,Heinrich,m
+1616,1616,NA,Bossi,Antonio,m
+1617,1617,NA,Bossi,Bixio,m
+1618,1618,NA,Bossi,Emilio,m
+1619,1619,NA,Bossi,Johann,m
+1620,1620,NA,Bossy,Alois,m
+1621,1621,NA,Bourgeois,Emmanuel-David,m
+1622,1622,NA,Bourgknecht,Jean,m
+1623,1623,NA,Braillard,"Jean Ch., dit John",m
+1624,1624,NA,Bräm,Heinrich,m
+1625,1625,NA,Bräm,Walter,m
+1626,1626,NA,Brand,Hermann,m
+1627,1627,NA,Brändli,Benjamin,m
+1628,1628,NA,Brändli,Heinrich,m
+1629,1629,NA,Brandt,Louis H.,m
+1630,1630,NA,Brandt,Paul J.,m
+1631,1631,NA,Bratschi,Peter,m
+1632,1632,NA,Bratschi,Robert,m
+1633,1633,NA,Braun,Karl,m
+1634,1634,NA,Brawand,Marcel,m
+1635,1635,NA,Brawand,Samuel,m
+1636,1636,NA,Brechbühl,Fritz,m
+1637,1637,NA,Bredaz,Robert,m
+1638,1638,NA,Breitenmoser,Albin,m
+1639,1639,NA,Brenner,Ernst,m
+1640,1640,NA,Brennwald,Jakob,m
+1641,1641,NA,Bretscher,Otto,m
+1642,1642,NA,Bretscher,Willy,m
+1643,1643,NA,Briatte,François,m
+1644,1644,NA,Bridel,Georges,m
+1645,1645,NA,Briner,Jean,m
+1646,1646,NA,Bringolf,Richard,m
+1647,1647,NA,Bringolf,Walther,m
+1648,1648,NA,Brochon,Albert,m
+1649,1649,NA,Brodbeck,Paul,m
+1650,1650,NA,Brodtbeck,Karl Adolf,m
+1651,1651,NA,Broger,Johann Baptist Albert,m
+1652,1652,NA,Broger,Jos. Alois,m
+1653,1653,NA,Broger,Raymond,m
+1654,1654,NA,Brogle,Theodor,m
+1655,1655,NA,Brosi,Albert,m
+1656,1656,NA,Brosi,Georg,m
+1657,1657,NA,Brosi,Joh. Rudolf,m
+1658,1658,NA,Bruderer,Jakob,m
+1659,1659,NA,Brügger,Anton,m
+1660,1660,NA,Brugger,Ernst,m
+1661,1661,NA,Brügger,Friedrich,m
+1662,1662,NA,Bruggisser,Anton,m
+1663,1663,NA,Bruggisser,Peter J.,m
+1664,1664,NA,Bruggmann,Paul,m
+1665,1665,NA,Bruhin,Armin,m
+1666,1666,NA,Brun,Jules,m
+1667,1667,NA,Bruni,Ernesto,m
+1668,1668,NA,Bruni,Germano,m
+1669,1669,NA,Brunner,Andreas C.,m
+1670,1670,NA,Brunner,Benjamin J.,m
+1671,1671,NA,Brunner,J. R. Friedrich,m
+1672,1672,NA,Brunner,Max,m
+1673,1673,NA,Brunner,Rudolf,m
+1674,1674,NA,Brüstlein,Alfred,m
+1675,1675,NA,Bucher,Adolf,m
+1676,1676,NA,Bucher,Alexander,m
+1677,1677,NA,Bucher,Franz,m
+1678,1678,NA,Bucher,Johann Jakob,m
+1679,1679,NA,Bucher,Josef Joh.,m
+1680,1680,NA,Bucher,Kurt,m
+1681,1681,NA,Bucher,Rudolf,m
+1682,1682,NA,Büchi,Alfred,m
+1683,1683,NA,Büchi,Traugott,m
+1684,1684,NA,Büeler,Jos. Anton G.,m
+1685,1685,NA,Büeler,Jos. Ferd. Anton,m
+1686,1686,NA,Bugnon,Eugène J.,m
+1687,1687,NA,Bühler,Arnold Gottlieb,m
+1688,1688,NA,Bühler,Christian,m
+1689,1689,NA,Bühler,Gottlieb,m
+1690,1690,NA,Bühler,Joh. Heinrich,m
+1691,1691,NA,Bühler,Josef,m
+1692,1692,NA,Bühler,Josef Sigm.,m
+1693,1693,NA,Bühler,Michael,m
+1694,1694,NA,Bühler,Peter Theophil,m
+1695,1695,NA,Bühler,René,m
+1696,1696,NA,Bühler,Robert,m
+1697,1697,NA,Bühler,Rolf Theodor,m
+1698,1698,NA,Bühlmann,Fritz E.,m
+1699,1699,NA,Bühlmann,Gottlieb Rud.,m
+1700,1700,NA,Bührer,Julius,m
+1701,1701,NA,Bujard,Maurice,m
+1702,1702,NA,Bünter,Josef A. Maria,m
+1703,1703,NA,Bünzli(y),Franz,m
+1704,1704,NA,Buomberger,Emil,m
+1705,1705,NA,Burckhardt,Carl Christoph,m
+1706,1706,NA,Burckhardt,Karl,m
+1707,1707,NA,Burgdorfer,Paul,m
+1708,1708,NA,Burger,Otto,m
+1709,1709,NA,Bürgi,Friedrich,m
+1710,1710,NA,Bürgi,Konrad,m
+1711,1711,NA,Bürgi-Gretener,Josef,m
+1712,1712,NA,Buri,Dewet,m
+1713,1713,NA,Buri,Friedrich,m
+1714,1714,NA,Burkhalter,Ulrich,m
+1715,1715,NA,Burkhard,Diethelm,m
+1716,1716,NA,Bürki,Ernst,m
+1717,1717,NA,Burki,Jonas,m
+1718,1718,NA,Burki,Josef,m
+1719,1719,NA,Bürkli,Arnold,m
+1720,1720,NA,Burklin,Charles,m
+1721,1721,NA,Bürli,Friedrich Jos.,m
+1722,1722,NA,Burnand,Charles,m
+1723,1723,NA,Burren,Fritz,m
+1724,1724,NA,Burren,Hans,m
+1725,1725,NA,Burri,Ignaz,m
+1726,1726,NA,Burrus,Henry,m
+1727,1727,NA,Buser,Jakob,m
+1728,1728,NA,Bussard,J.-F.-Marcelin,m
+1729,1729,NA,Bussey,Alfred,m
+1730,1730,NA,Bussinger,Johann,m
+1731,1731,NA,Bustelli,Guido,m
+1732,1732,NA,Bütikofer,Ernest,m
+1733,1733,NA,Bützberger,Johann,m
+1734,1734,NA,Cadruvi,Donat,m
+1735,1735,NA,Caflisch,Johann Anton,m
+1736,1736,NA,Caflisch,Johann Bartholome,m
+1737,1737,NA,Cailler,Alexandre-François-Louis,m
+1738,1738,NA,Calame,André,m
+1739,1739,NA,Calame,Henri W.,m
+1740,1740,NA,Calame,Jules Aug.,m
+1741,1741,NA,Calonder,Felix Ludw.,m
+1742,1742,NA,Cambessedès,Emile,m
+1743,1743,NA,Camperio,Philippe,m
+1744,1744,NA,Campiche,Ami-A.,m
+1745,1745,NA,Camuzzi,Demetrio,m
+1746,1746,NA,Canevascini,Guglielmo,m
+1747,1747,NA,Canonica,Ezio,m
+1748,1748,NA,Canova,Gaudenz,m
+1749,1749,NA,Capponi,Daniele,m
+1750,1750,NA,Cardinaux,Louis,m
+1751,1751,NA,Carlin,P. A. Edouard,m
+1752,1752,NA,Carnat,Germain-Joseph,m
+1753,1753,NA,Caroni,Arrigo,m
+1754,1754,NA,Carron,Henri,m
+1755,1755,NA,Carteret,Antoine,m
+1756,1756,NA,Casparis,Johann Anton jun.,m
+1757,1757,NA,Casparis,Johann Anton sen.,m
+1758,1758,NA,Castella,André,m
+1759,1759,NA,Castoldi,Jean-Jacques,m
+1760,1760,NA,Cattori,Giuseppe,m
+1761,1761,NA,Cavat,Jean-F.,m
+1762,1762,NA,Celio,Enrico,m
+1763,1763,NA,Celio,Nello,m
+1764,1764,NA,Censi,Carlo,m
+1765,1765,NA,Censi,Emilio,m
+1766,1766,NA,Ceppi,Joseph,m
+1767,1767,NA,Cérésole,Paul-J.,m
+1768,1768,NA,Challandes,Aimé,m
+1769,1769,NA,Challet-Venel,Jean-Jacques,m
+1770,1770,NA,Chalumeau,Charles-L.,m
+1771,1771,NA,Chamorel,Jacques,m
+1772,1772,NA,Chamorel,Louis,m
+1773,1773,NA,Chaney,Fr. Laurent,m
+1774,1774,NA,Chappaz,Achille,m
+1775,1775,NA,Chappelet,Maurice,m
+1776,1776,NA,Chappex,Joseph,m
+1777,1777,NA,Charbonnet,Victor-Marc,m
+1778,1778,NA,Charles,Hubert,m
+1779,1779,NA,Charmillot,Paul,m
+1780,1780,NA,Charrière,Louis,m
+1781,1781,NA,Chassot,Charles,m
+1782,1782,NA,Chatoney,Karl-Fr.,m
+1783,1783,NA,Chaudet,Paul,m
+1784,1784,NA,Chausson,Frédéric,m
+1785,1785,NA,Chausson,Louis,m
+1786,1786,NA,Chavanne,André,m
+1787,1787,NA,Chenaux,Henri,m
+1788,1788,NA,Chenevière,Arthur,m
+1789,1789,NA,Cherix,Edouard,m
+1790,1790,NA,Chevallaz,Georges-André,m
+1791,1791,NA,Chevalley,Samuel,m
+1792,1792,NA,Chicherio,Alfonso,m
+1793,1793,NA,Choisy,Eric,m
+1794,1794,NA,Choquard,Fr.-Joseph,m
+1795,1795,NA,Christen,Josef Fidel,m
+1796,1796,NA,Christen,Werner,m
+1797,1797,NA,Chuard,Ernest-L.,m
+1798,1798,NA,Ciani,Giacomo,m
+1799,1799,NA,Claivaz,Maurice,m
+1800,1800,NA,Clausen,Alfred,m
+1801,1801,NA,Clausen,Felix-Ignaz,m
+1802,1802,NA,Clavadetscher,Christian,m
+1803,1803,NA,Clemenz,Joseph Anton,m
+1804,1804,NA,Clerc,Blaise,m
+1805,1805,NA,Clottu,Alfred,m
+1806,1806,NA,Clottu,Gaston,m
+1807,1807,NA,Colliard,Robert,m
+1808,1808,NA,Colomb,Jules,m
+1809,1809,NA,Comte,Pierre-A.,m
+1810,1810,NA,Comtesse,H. Robert,m
+1811,1811,NA,Condrau,Josef,m
+1812,1812,NA,Contesse,Georges L.,m
+1813,1813,NA,Conzett,Hans,m
+1814,1814,NA,Conzett,Hans C.,m
+1815,1815,NA,Corboz,François-S.,m
+1816,1816,NA,Cornaz,Augste G. A.,m
+1817,1817,NA,Cornaz,Ferdinand,m
+1818,1818,NA,Cossy,Charles-F.,m
+1819,1819,NA,Cossy,Maurice,m
+1820,1820,NA,Cossy,Robert,m
+1821,1821,NA,Cottier,Fernand,m
+1822,1822,NA,Cottier,Henry,m
+1823,1823,NA,Couchepin,Jules-Jean,m
+1824,1824,NA,Coulin,Louis Edouard,m
+1825,1825,NA,Courvoisier,Frédéric A.,m
+1826,1826,NA,Cramer,Konrad H.,m
+1827,1827,NA,Cressier,Georges,m
+1828,1828,NA,Cretton,Maurice-Antoine,m
+1829,1829,NA,Criblet,Frédéric,m
+1830,1830,NA,Crisinel,Ulysse,m
+1831,1831,NA,Crittin,Camille,m
+1832,1832,NA,Cuenat,Henri,m
+1833,1833,NA,Cuénoud,Samuel,m
+1834,1834,NA,Curti,Basil Ferdinand,m
+1835,1835,NA,Curti,Giuseppe,m
+1836,1836,NA,Curti,Theodor,m
+1837,1837,NA,Dähler,Edmund,m
+1838,1838,NA,Dähler,Joh. Bap. Edmund,m
+1839,1839,NA,Dähler,Johann Baptist,m
+1840,1840,NA,Danioth,Ludwig,m
+1841,1841,NA,Dapples,J.-S.-Edouard,m
+1842,1842,NA,Darier,Jean-Jacques,m
+1843,1843,NA,Darms,Gion,m
+1844,1844,NA,Daucourt,Ernest,m
+1845,1845,NA,David,Heinrich,m
+1846,1846,NA,Dazzoni,Giovanni,m
+1847,1847,NA,de Cérenville,Max,m
+1848,1848,NA,de Chastonay,Jean-Marie,m
+1849,1849,NA,de Chastonay,Victor,m
+1850,1850,NA,de Coulon,Marcel,m
+1851,1851,NA,de Coulon,Sydney,m
+1852,1852,NA,de Courten,Adrien,m
+1853,1853,NA,de Courten,Elias,m
+1854,1854,NA,de Courten,Paul,m
+1855,1855,NA,de Dardel,Otto A.,m
+1856,1856,NA,de Demiéville,J.-B.-Louis,m
+1857,1857,NA,de Diesbach de Belleroche,Louis,m
+1858,1858,NA,de Diesbach de Torny,Max F.,m
+1859,1859,NA,de Gingins,Aymon,m
+1860,1860,NA,de Kalbermatten,Louis,m
+1861,1861,NA,de Lavallaz,Eugène,m
+1862,1862,NA,de Loës,Auguste,m
+1863,1863,NA,de Meuron,Alois,m
+1864,1864,NA,de Meuron,H. Pierre,m
+1865,1865,NA,de Montenach,Georges-Jean-Joseph,m
+1866,1866,NA,de Montheys,Ferdinand,m
+1867,1867,NA,de Muralt,Jean,m
+1868,1868,NA,de Preux,Charles,m
+1869,1869,NA,De Rabours,Frédéric-Jules,m
+1870,1870,NA,de Riedmatten,Antoine,m
+1871,1871,NA,de Rivaz,Charles,m
+1872,1872,NA,de Rivaz,Charles-Louis,m
+1873,1873,NA,de Schaller,Henri Gaspard,m
+1874,1874,NA,de Schaller,Julien,m
+1875,1875,NA,de Senarclens,Aymon,m
+1876,1876,NA,de Stockalper,Georges,m
+1877,1877,NA,de Stoppani,Leone,m
+1878,1878,NA,de Techtermann,Ph.-A.-Arthur,m
+1879,1879,NA,de Weck,Ernest,m
+1880,1880,NA,de Weck,Louis,m
+1881,1881,NA,de Werra,Camille,m
+1882,1882,NA,de Werra,Charles,m
+1883,1883,NA,de Wuilleret,Charles,m
+1884,1884,NA,de Wuilleret,Louis,m
+1885,1885,NA,Debonneville,Victor-O.,m
+1886,1886,NA,Decollogny,Ernest-Ed.,m
+1887,1887,NA,Decoppet,Camille,m
+1888,1888,NA,Decoppet,Lucien,m
+1889,1889,NA,Decrousnaz,Jeannot,m
+1890,1890,NA,Decurtins,Caspar,m
+1891,1891,NA,Dedual,Julius E. F.,m
+1892,1892,NA,Défayes,Camille,m
+1893,1893,NA,Degen,Friedrich,m
+1894,1894,NA,Degen,Walter,m
+1895,1895,NA,Déglon,P.-Louis,m
+1896,1896,NA,Déglon,P.-Samuel,m
+1897,1897,NA,Delarageaz,J.-Louis-Henri,m
+1898,1898,NA,Delarageaz,Louis-Charles,m
+1899,1899,NA,Delatena,Joseph,m
+1900,1900,NA,Dellberg,Karl,m
+1901,1901,NA,Demarchi,Agostino,m
+1902,1902,NA,Dénéréaz,David,m
+1903,1903,NA,Dénériaz,Alexandre,m
+1904,1904,NA,Denzler,Louis,m
+1905,1905,NA,Deonna,Raymond,m
+1906,1906,NA,Deschenaux,Eugène,m
+1907,1907,NA,Desor,P. J. Edouard,m
+1908,1908,NA,Despland,Gabriel,m
+1909,1909,NA,Desplands,Maurice-H.-G.,m
+1910,1910,NA,Deucher,Adolf K. W.,m
+1911,1911,NA,Deucher,G. Adolf,m
+1912,1912,NA,Devenoge,François,m
+1913,1913,NA,Dicker,Jacques,m
+1914,1914,NA,Diethelm,Josef,m
+1915,1915,NA,Dietler,Hermann,m
+1916,1916,NA,Dietschi,Eugen,m
+1917,1917,NA,Dietschi,Hugo,m
+1918,1918,NA,Dietschi,Urs,m
+1919,1919,NA,Dind,Emile,m
+1920,1920,NA,Dinichert,Constant,m
+1921,1921,NA,Dinkelmann,Hans,m
+1922,1922,NA,Dobler,Karl,m
+1923,1923,NA,Doessekel,Johann,m
+1924,1924,NA,Dollfus,Ruggero,m
+1925,1925,NA,Donini,Gaetano,m
+1926,1926,NA,Dossenbach,Oswald,m
+1927,1927,NA,Doswald,Adolf,m
+1928,1928,NA,Dotta,Carlo,m
+1929,1929,NA,Droz,Armand,m
+1930,1930,NA,Droz,Numa,m
+1931,1931,NA,Druey,Daniel-Henri,m
+1932,1932,NA,Du Plessis,Théodore,m
+1933,1933,NA,Dubois,Jean-Pierre,m
+1934,1934,NA,Dubs,Jakob,m
+1935,1935,NA,Dubuis,Alphonse,m
+1936,1936,NA,Düby,Emil,m
+1937,1937,NA,Düby,Hans,m
+1938,1938,NA,Düby,Kurt RU,m
+1939,1939,NA,Duchosal,Jean-Henri,m
+1940,1940,NA,Ducommun,Paul-Louis,m
+1941,1941,NA,Ducrey,Jos.-Henry,m
+1942,1942,NA,Dufernex,B.-Benjamin,m
+1943,1943,NA,Dufour,Guillaume-Henri,m
+1944,1944,NA,Dufour,Jean-Etienne,m
+1945,1945,NA,Duft,Emil,m
+1946,1946,NA,Duft,Johannes,m
+1947,1947,NA,Düggelin,Jos. Meinrad Benedikt,m
+1948,1948,NA,Duplan,Charles-L.,m
+1949,1949,NA,Dür,F. August,m
+1950,1950,NA,Dürig,Josef,m
+1951,1951,NA,Dürrenmatt,Peter,m
+1952,1952,NA,Dürrenmatt,Ulrich,m
+1953,1953,NA,Durrer,Franz Jos. Nikl. Val.,m
+1954,1954,NA,Durrer,Nikolaus,m
+1955,1955,NA,Durrer,Robert Ant. Al.,m
+1956,1956,NA,Duss,Josef,m
+1957,1957,NA,Duttweiler,Gottlieb,m
+1958,1958,NA,Eberle,Ambros,m
+1959,1959,NA,Eberle,Josef Anton,m
+1960,1960,NA,Eckenstein,Eduard,m
+1961,1961,NA,Eder,Carl,m
+1962,1962,NA,Eggenberger,Christian,m
+1963,1963,NA,Eggenberger,Matthias,m
+1964,1964,NA,Eggenberger,Ulrich,m
+1965,1965,NA,Egger,Franz,m
+1966,1966,NA,Egger,Walter,m
+1967,1967,NA,Eggli,Friedrich,m
+1968,1968,NA,Eggspühler,Franz Xaver,m
+1969,1969,NA,Egli,Gotthard,m
+1970,1970,NA,Egloff,Joh. Konrad,m
+1971,1971,NA,Ehrler,André,m
+1972,1972,NA,Ehrmann,Karl Hektor,m
+1973,1973,NA,Eibel,Robert,m
+1974,1974,NA,Eigenmann,Carl,m
+1975,1975,NA,Eisenhut,Joh. Konrad,m
+1976,1976,NA,Eisenhut,Johann Ulrich,m
+1977,1977,NA,Eisenhut,Johannes,m
+1978,1978,NA,Eisenring,Johann B.,m
+1979,1979,NA,Eisenring,Theodor,m
+1980,1980,NA,Elsässer,Emil,m
+1981,1981,NA,Elsässer,F.-Xavier-M.,m
+1982,1982,NA,Emery,Alexandre,m
+1983,1983,NA,Enderli,Hans,m
+1984,1984,NA,Engel,Karl,m
+1985,1985,NA,Engelhard,Joh. Anton,m
+1986,1986,NA,Engelhard,Joh. Friedr. L.,m
+1987,1987,NA,Engemann,Karl,m
+1988,1988,NA,Erismann,Max A.,m
+1989,1989,NA,Erni,Anton,m
+1990,1990,NA,Erni,Josef,m
+1991,1991,NA,Erpf,Franz Eduard,m
+1992,1992,NA,Escher,Eugen,m
+1993,1993,NA,Escher,J. H. Alfred,m
+1994,1994,NA,Escher,Josef,m
+1995,1995,NA,Eschmann,Johannes,m
+1996,1996,NA,Estoppey,Charles,m
+1997,1997,NA,Etlin,Simon,m
+1998,1998,NA,Etter,Philipp,m
+1999,1999,NA,Etter,Rudolf,m
+2000,2000,NA,Eugster,Arthur,m
+2001,2001,NA,Eugster,Gallus,m
+2002,2002,NA,Eugster,Howard,m
+2003,2003,NA,Evéquoz,Maurice,m
+2004,2004,NA,Evéquoz,Raymond,m
+2005,2005,NA,Eymann,Fritz Henry,m
+2006,2006,NA,Eytel,Jules-D.,m
+2007,2007,NA,Fahrländer,Karl Emanuel,m
+2008,2008,NA,Fahrländer,Karl F. S.,m
+2009,2009,NA,Farbstein,David,m
+2010,2010,NA,Farner,Hermann,m
+2011,2011,NA,Fässler,Johann,m
+2012,2012,NA,Fässler,Josef Anton,m
+2013,2013,NA,Fauquex,Frédéric,m
+2014,2014,NA,Favarger,Pierre-Frédéric,m
+2015,2015,NA,Favon,Georges-S.,m
+2016,2016,NA,Favre,Antoine,m
+2017,2017,NA,Favre,Joseph-A.,m
+2018,2018,NA,Favre,L. Eugène,m
+2019,2019,NA,Favre-Bulle,Adrien,m
+2020,2020,NA,Favrod-Coune,Charles-Albert,m
+2021,2021,NA,Fawer,Albert,m
+2022,2022,NA,Fazan,Edouard,m
+2023,2023,NA,Fazy,G.-Ph.-Henri,m
+2024,2024,NA,Fazy,James,m
+2025,2025,NA,Feer,Carl,m
+2026,2026,NA,Fehr,A. Eduard,m
+2027,2027,NA,Fehr,Joh. Jakob,m
+2028,2028,NA,Fehr,Karl Alfred,m
+2029,2029,NA,Feigenwinter,Ernst,m
+2030,2030,NA,Felber,Georg,m
+2031,2031,NA,Feldmann,Markus,m
+2032,2032,NA,Feller,Gottfried,m
+2033,2033,NA,Fellmann,Dominik,m
+2034,2034,NA,Fenk,Jakob,m
+2035,2035,NA,Fer,Donatien Ph. A. A.,m
+2036,2036,NA,Ferri,Mario,m
+2037,2037,NA,Fierz,Heinrich J.,m
+2038,2038,NA,Filliez,Maurice-Eugène,m
+2039,2039,NA,Fischer,Adolf,m
+2040,2040,NA,Fischer,Bernhard Friedrich,m
+2041,2041,NA,Fischer,Hans,m
+2042,2042,NA,Fischer,Leonz,m
+2043,2043,NA,Fischer,Vinzenz,m
+2044,2044,NA,Flaction,Georges-Adolphe,m
+2045,2045,NA,Flisch,Peter,m
+2046,2046,NA,Flück,Friedrich,m
+2047,2047,NA,Flückiger,Daniel,m
+2048,2048,NA,Flückiger,Ernst,m
+2049,2049,NA,Flükiger,Ernst,m
+2050,2050,NA,Fogliardi,Augusto,m
+2051,2051,NA,Folletête,Casimir,m
+2052,2052,NA,Folly,Jean,m
+2053,2053,NA,Fonjallaz,Charles-Eugène,m
+2054,2054,NA,Fonjallaz,J.-Frédéric-H.,m
+2055,2055,NA,Fontana,J.-P.-Théodore,m
+2056,2056,NA,Fontanel,Jean-Adolphe-Ch.,m
+2057,2057,NA,Foppa,Christian,m
+2058,2058,NA,Fornerod,Ch.-E.-Constant,m
+2059,2059,NA,Forni,Carl'Antonio,m
+2060,2060,NA,Forrer,Johann Ludwig,m
+2061,2061,NA,Forrer,Robert,m
+2062,2062,NA,Forster,Georg E.,m
+2063,2063,NA,Fracheboud,Pierre-Th.,m
+2064,2064,NA,Frainier,Paul,m
+2065,2065,NA,Franchini,Alessandro,m
+2066,2066,NA,Francillon,Ernest,m
+2067,2067,NA,Frank,Ferdinand,m
+2068,2068,NA,Franscini,Stefano,m
+2069,2069,NA,Franzoni,Alberto,m
+2070,2070,NA,Fratecolla,Giuseppe,m
+2071,2071,NA,Frei,Emil,m
+2072,2072,NA,Frei,Johannes L.,m
+2073,2073,NA,Freiburghaus,Erwin,m
+2074,2074,NA,Freiburghaus,Jakob,m
+2075,2075,NA,Freimüller,Eduard,m
+2076,2076,NA,Freuler,Hermann,m
+2077,2077,NA,Frey,Alfred,m
+2078,2078,NA,Frey,Emil,m
+2079,2079,NA,Frey,Emil Joh. Rud.,m
+2080,2080,NA,Frey,Emil Remig.,m
+2081,2081,NA,Frey,Samuel,m
+2082,2082,NA,Frey,Theodor,m
+2083,2083,NA,Frey-Hérosé,Friedrich A.,m
+2084,2084,NA,Freymond,Pierre,m
+2085,2085,NA,Fricker,Hans,m
+2086,2086,NA,Friderich,Charles-M.,m
+2087,2087,NA,Fritschi,Friedrich,m
+2088,2088,NA,Fröhlich,Paul,m
+2089,2089,NA,Fuchs,Hans,m
+2090,2090,NA,Fueter,Friedrich,m
+2091,2091,NA,Funk,Alexander L.,m
+2092,2092,NA,Fuog,Johann Georg,m
+2093,2093,NA,Furrer,Adolf,m
+2094,2094,NA,Furrer,Emil Heinrich,m
+2095,2095,NA,Furrer,Jonas,m
+2096,2096,NA,Furrer,Josef,m
+2097,2097,NA,Fusoni,Antonio,m
+2098,2098,NA,Gabathuler,Johann Jakob,m
+2099,2099,NA,Gabriel,Theodor,m
+2100,2100,NA,Gabuzzi,Stefano,m
+2101,2101,NA,Gächter,Johann Jakob,m
+2102,2102,NA,Gadient,Andreas,m
+2103,2103,NA,Gadmer,Gaudenz,m
+2104,2104,NA,Gafner,Max,m
+2105,2105,NA,Gaillard,Emile,m
+2106,2106,NA,Gallati,Rudolf,m
+2107,2107,NA,Gallati,Rudolf,m
+2108,2108,NA,Galli,A. Domenico,m
+2109,2109,NA,Galli,Antonio,m
+2110,2110,NA,Galli,Brenno,m
+2111,2111,NA,Gamma,Martin,m
+2112,2112,NA,Gamma,Raymond,m
+2113,2113,NA,Ganzoni,Anton Philipp,m
+2114,2114,NA,Garbani,Evaristo,m
+2115,2115,NA,Gasser,Adolf,m
+2116,2116,NA,Gasser,Alfred,m
+2117,2117,NA,Gasser,Hans,m
+2118,2118,NA,Gatti,Agostino,m
+2119,2119,NA,Gattiker,Oskar August,m
+2120,2120,NA,Gaudard,Emile-Louis,m
+2121,2121,NA,Gaudy,Johann Baptist,m
+2122,2122,NA,Gautier,Victor,m
+2123,2123,NA,Gavard,P.-Alexandre,m
+2124,2124,NA,Geel,Johannes G. jun.,m
+2125,2125,NA,Geel,Johannes G. sen.,m
+2126,2126,NA,Gehrig,Alfred,m
+2127,2127,NA,Geigy,Joh. Rudolf,m
+2128,2128,NA,Geilinger,Rudolf,m
+2129,2129,NA,Geiser,Henri,m
+2130,2130,NA,Geissbühler,Fritz,m
+2131,2131,NA,Geissbühler,Karl,m
+2132,2132,NA,Gelpke,Rudolf Arnold,m
+2133,2133,NA,Gemperli,Albert,m
+2134,2134,NA,Gendre,Frédéric-J.,m
+2135,2135,NA,Gendre,Henri,m
+2136,2136,NA,Gengel,Florian,m
+2137,2137,NA,Genoud,Oscar,m
+2138,2138,NA,Genoud,Paul,m
+2139,2139,NA,Georg,Alfred P. W.,m
+2140,2140,NA,Germanier,André,m
+2141,2141,NA,Germanier,Francis,m
+2142,2142,NA,Germann,Adolf,m
+2143,2143,NA,Gerosa,Walter,m
+2144,2144,NA,Geser,Albert,m
+2145,2145,NA,Gfeller,Arnold,m
+2146,2146,NA,Gfeller,Hans,m
+2147,2147,NA,Gfeller,Johann Ulrich,m
+2148,2148,NA,Gianella,Ugo,m
+2149,2149,NA,Giovanoli,Fritz,m
+2150,2150,NA,Girard,Ami,m
+2151,2151,NA,Girard,Joseph,m
+2152,2152,NA,Girard,Julien,m
+2153,2153,NA,Girod,Charles-Amédée,m
+2154,2154,NA,Girod,Eugène,m
+2155,2155,NA,Giroud,Emile,m
+2156,2156,NA,Gisi,Joseph,m
+2157,2157,NA,Gitermann,Valentin,m
+2158,2158,NA,Glarner,Jacques,m
+2159,2159,NA,Glasson,Gérard,m
+2160,2160,NA,Glasson,James,m
+2161,2161,NA,Glasson,Nicolas-L.,m
+2162,2162,NA,Glasson,Pierre,m
+2163,2163,NA,Glatthard,Karl,m
+2164,2164,NA,Gloor,Adolf,m
+2165,2165,NA,Gloor,Ernest,m
+2166,2166,NA,Gloor,Walter,m
+2167,2167,NA,Glutz,Josef Anton,m
+2168,2168,NA,Gmür,Dominik,m
+2169,2169,NA,Gmür,Leonhard,m
+2170,2170,NA,Gnägi,Gottfried,m
+2171,2171,NA,Gnägi,Rudolf,m
+2172,2172,NA,Gobat,Albert,m
+2173,2173,NA,Goetschel,Maurice,m
+2174,2174,NA,Golay,Paul,m
+2175,2175,NA,Golaz,Donat L.,m
+2176,2176,NA,Good,Karl Friedrich,m
+2177,2177,NA,Good,Wilhelm,m
+2178,2178,NA,Gorgerat,Charles,m
+2179,2179,NA,Göttisheim,Chr. Friedrich,m
+2180,2180,NA,Göttisheim,Emil,m
+2181,2181,NA,Gottofrey,Fr.-Xavier,m
+2182,2182,NA,Gottofrey,Vincent,m
+2183,2183,NA,Gottret,Jules-Edouard,m
+2184,2184,NA,Graber,Ernest-Paul,m
+2185,2185,NA,Graber,Pierre,m
+2186,2186,NA,Graedel,Adolphe,m
+2187,2187,NA,Graf,Christian,m
+2188,2188,NA,Graf,Emil,m
+2189,2189,NA,Graf,Ernst Otto,m
+2190,2190,NA,Graf,Hermann,m
+2191,2191,NA,Graf,Jakob B.,m
+2192,2192,NA,Graf,Konrad,m
+2193,2193,NA,Grand,Eugène,m
+2194,2194,NA,Grand,Louis,m
+2195,2195,NA,Grandjean,Henri,m
+2196,2196,NA,Grandjean,Jules,m
+2197,2197,NA,Grandjean,Jules,m
+2198,2198,NA,Grandpierre,Louis,m
+2199,2199,NA,Grass,Josias,m
+2200,2200,NA,Graven,Jean-Baptist,m
+2201,2201,NA,Grendelmeier,Alois,m
+2202,2202,NA,Gressot,Jean,m
+2203,2203,NA,Greulich,Hermann,m
+2204,2204,NA,Grieb,Ernst Aug.,m
+2205,2205,NA,Grieder,Albert,m
+2206,2206,NA,Grieshaber,Robert,m
+2207,2207,NA,Grillet,Jos.-Hyacinthe,m
+2208,2208,NA,Grimm,Robert,m
+2209,2209,NA,Grivaz,Daniel-Salomon,m
+2210,2210,NA,Grob,Ernst,m
+2211,2211,NA,Grobet,J.-F.-Henri,m
+2212,2212,NA,Grosjean,L. Arnold,m
+2213,2213,NA,Grospierre,Achille-Tell,m
+2214,2214,NA,Gross,Emile,m
+2215,2215,NA,Gross,Louis,m
+2216,2216,NA,Grubenmann,Adolf,m
+2217,2217,NA,Grünenfelder,Emil,m
+2218,2218,NA,Grunholzer,Joh. Heinrich,m
+2219,2219,NA,Grünig,Peter,m
+2220,2220,NA,Grütter,Alfred,m
+2221,2221,NA,Grütter,Fritz,m
+2222,2222,NA,Gschwind,Hugo,m
+2223,2223,NA,Gschwind,Stephan,m
+2224,2224,NA,Gugelmann,Arnold,m
+2225,2225,NA,Gugelmann,Joh. Friedrich,m
+2226,2226,NA,Gugerli,Ernst,m
+2227,2227,NA,Guglielmetti,Giulio,m
+2228,2228,NA,Guinand,André,m
+2229,2229,NA,Guisan,Louis,m
+2230,2230,NA,Guldin,Josef,m
+2231,2231,NA,Guntern,Leo,m
+2232,2232,NA,Guntli,Eduard,m
+2233,2233,NA,Guscetti,Sevorino,m
+2234,2234,NA,Gut,Theodor,m
+2235,2235,NA,Gut,Theodor,m
+2236,2236,NA,Gutknecht,Jakob,m
+2237,2237,NA,Gutknecht,Samuel,m
+2238,2238,NA,Gutzwiller,Stephan,m
+2239,2239,NA,Guyer,Julius,m
+2240,2240,NA,Gwerder,Anton,m
+2241,2241,NA,Gysel,Zacharias,m
+2242,2242,NA,Gysin,August,m
+2243,2243,NA,Gysler,Paul,m
+2244,2244,NA,Haab,Robert,m
+2245,2245,NA,Häberlin,Fr. Heinrich,m
+2246,2246,NA,Häberlin,Heinrich,m
+2247,2247,NA,Häberlin,Hermann,m
+2248,2248,NA,Häberlin,Hermann,m
+2249,2249,NA,Häberlin,Johann Jakob,m
+2250,2250,NA,Häberlin,K. Eduard,m
+2251,2251,NA,Haberstich,Johann,m
+2252,2252,NA,Hackhofer,Karl,m
+2253,2253,NA,Hadorn,Johann Jakob,m
+2254,2254,NA,Hadorn,Werner,m
+2255,2255,NA,Haefelin,Paul,m
+2256,2256,NA,Häfliger,Eduard,m
+2257,2257,NA,Hafner,Johann Ulrich,m
+2258,2258,NA,Hagmann,Walter,m
+2259,2259,NA,Haldenwang,Georges,m
+2260,2260,NA,Hallauer,Johannes,m
+2261,2261,NA,Haller,Armin,m
+2262,2262,NA,Haller,Ernst,m
+2263,2263,NA,Haller,Theodor,m
+2264,2264,NA,Hammer,Joh. Bernhard,m
+2265,2265,NA,Hämmerli,Walter,m
+2266,2266,NA,Hanauer,Joh. Ulrich,m
+2267,2267,NA,Hänggi,Franz Josef,m
+2268,2268,NA,Häni,Rudolf,m
+2269,2269,NA,Hardegger,Emil,m
+2270,2270,NA,Hardmeier,Emil,m
+2271,2271,NA,Hartmann,Georg,m
+2272,2272,NA,Hartmann,Siegfried E.,m
+2273,2273,NA,Hasler,Joh. Jakob,m
+2274,2274,NA,Hauser,Adolf,m
+2275,2275,NA,Hauser,Edwin,m
+2276,2276,NA,Hauser,Fritz E.,m
+2277,2277,NA,Hauser,Jakob Heinrich,m
+2278,2278,NA,Hauser,Joh. Jakob,m
+2279,2279,NA,Hauser,Johann Jakob,m
+2280,2280,NA,Hauser,Paul,m
+2281,2281,NA,Hauser,Walter,m
+2282,2282,NA,Hautle,Johann Nepomuk,m
+2283,2283,NA,Hautle,Joseph Albert U.,m
+2284,2284,NA,Hayoz,Franz,m
+2285,2285,NA,Hediger,Franz,m
+2286,2286,NA,Heer,Alfred,m
+2287,2287,NA,Heer,Gottfried,m
+2288,2288,NA,Heer,Heinrich,m
+2289,2289,NA,Heer,Joachim,m
+2290,2290,NA,Hefti,Jakob,m
+2291,2291,NA,Hefti,Melchior,m
+2292,2292,NA,Hegner,Meinrad Jb.,m
+2293,2293,NA,Heil,Anton,m
+2294,2294,NA,Heim,Franz Joseph,m
+2295,2295,NA,Heim,Johann Heinrich,m
+2296,2296,NA,Heinzer,Josef,m
+2297,2297,NA,Heitz,Joh. Philipp,m
+2298,2298,NA,Helbling,Albert,m
+2299,2299,NA,Helbling,Felix,m
+2300,2300,NA,Held,Alfred,m
+2301,2301,NA,Heller,Emil,m
+2302,2302,NA,Heller,Hermann,m
+2303,2303,NA,Heller,Johann Jak.,m
+2304,2304,NA,Henggeler,Josef,m
+2305,2305,NA,Henggeler,Wolfgang,m
+2306,2306,NA,Henry,Henri-Louis,m
+2307,2307,NA,Héridier,Marc,m
+2308,2308,NA,Hermann,Nicolaus,m
+2310,2310,NA,Herren,Fritz,m
+2311,2311,NA,Hertenstein,Friedrich Wilhelm,m
+2312,2312,NA,Herzog,Adam,m
+2313,2313,NA,Herzog,Ernst,m
+2314,2314,NA,Herzog,Heinrich,m
+2315,2315,NA,Hess,Heinrich,m
+2316,2316,NA,Hess,Josef Anton,m
+2317,2317,NA,Hess,Konrad,m
+2318,2318,NA,Hess,Otto (senior),m
+2319,2319,NA,Heutschi,Urs V. A.,m
+2320,2320,NA,Hidber,J. K. Ferdinand,m
+2321,2321,NA,Hildebrand,Jakob,m
+2322,2322,NA,Hildebrand,Josef,m
+2323,2323,NA,Hilfiker,Hans,m
+2324,2324,NA,Hilfiker,Walter,m
+2325,2325,NA,Hilty,Carl,m
+2326,2326,NA,Hilty,Paravizin,m
+2327,2327,NA,Hilty,Rudolf,m
+2328,2328,NA,Hirter,Johann D.,m
+2329,2329,NA,Hirzel,Eugène,m
+2330,2330,NA,Hitz,Christian-Albert,m
+2331,2331,NA,Hochstrasser,Candid,m
+2332,2332,NA,Hoefliger,Benedikt Anton Wolfgang,m
+2333,2333,NA,Hofer,Hans,m
+2334,2334,NA,Hofer,Hans,m
+2335,2335,NA,Hofer,Joh. Friedrich,m
+2336,2336,NA,Hofer,Michael,m
+2337,2337,NA,Hoffmann,H. Arthur,m
+2338,2338,NA,Hoffmann,Karl J.,m
+2339,2339,NA,Hofmann,Emil,m
+2340,2340,NA,Hofmann,Paul,m
+2341,2341,NA,Hofstetter,Alfred,m
+2342,2342,NA,Hofstetter,Daniel,m
+2343,2343,NA,Hofstetter,Josef,m
+2344,2344,NA,Hohl,Johann Jakob,m
+2345,2345,NA,Hohl,Johannes,m
+2346,2346,NA,Hold,Hans,m
+2347,2347,NA,Holdener,Fridolin,m
+2348,2348,NA,Holenstein,Thomas,m
+2349,2349,NA,Holenstein,Thomas,m
+2350,2350,NA,Homberger,Heinrich,m
+2351,2351,NA,Honauer,Niklaus,m
+2352,2352,NA,Honegger,Fritz,m
+2353,2353,NA,Honegger,Heinrich,m
+2354,2354,NA,Hoppeler,Hans,m
+2355,2355,NA,Höppli,Otto,m
+2356,2356,NA,Hörni,Joh. Konrad,m
+2357,2357,NA,Hotz,Marcel,m
+2358,2358,NA,Houriet,René-Albert,m
+2359,2359,NA,Huber,Casimir,m
+2360,2360,NA,Huber,Eduard D.,m
+2361,2361,NA,Huber,Eugen,m
+2362,2362,NA,Huber,Harald,m
+2363,2363,NA,Huber,Johann Josef,m
+2364,2364,NA,Huber,Johannes,m
+2365,2365,NA,Huber,Josef,m
+2366,2366,NA,Huber,Karl,m
+2367,2367,NA,Huber,Karl Adolf,m
+2368,2368,NA,Huber,Otto,m
+2369,2369,NA,Huber,Rudolf,m
+2370,2370,NA,Huber,Vinzenz,m
+2371,2371,NA,Hubler,Johannes,m
+2372,2372,NA,Hug,Johann Kaspar,m
+2373,2373,NA,Huggler,August,m
+2374,2374,NA,Humbert,Amédor,m
+2375,2375,NA,Humbert,Jean,m
+2376,2376,NA,Humbert-Droz,Aimé,m
+2377,2377,NA,Humbert-Droz,Jules,m
+2378,2378,NA,Hungerbühler,Johann Matthias,m
+2379,2379,NA,Hüni,Heinrich,m
+2380,2380,NA,Hunkeler,Anton,m
+2381,2381,NA,Hunziker,Otto,m
+2382,2382,NA,Huonder,Johann Josef,m
+2383,2383,NA,Hürlimann,Alois,m
+2384,2384,NA,Hürlimann,Hans,m
+2385,2385,NA,Hürlimann,Hans Heinrich,m
+2386,2386,NA,Ilg,Konrad,m
+2387,2387,NA,Imboden,Max,m
+2388,2388,NA,Imfeld,Johann,m
+2389,2389,NA,Imobersteg,Jakob,m
+2390,2390,NA,In Albon,Peter Ludwig,m
+2391,2391,NA,Indergand,Josef,m
+2392,2392,NA,Irlet,Gustave-Albert,m
+2393,2393,NA,Iselin,Isaac A.,m
+2394,2394,NA,Isenschmid,Eduard,m
+2395,2395,NA,Isler,Jak. Alois,m
+2396,2396,NA,Isler,Jakob,m
+2397,2397,NA,Isler,P. Emil,m
+2398,2398,NA,Iten,Alphons,m
+2399,2399,NA,Iten,Klemens,m
+2400,2400,NA,Jaccard,Alix,m
+2401,2401,NA,Jaccard,Gustave-Ad.,m
+2402,2402,NA,Jaccard,Michel,m
+2403,2403,NA,Jaccottet,Georges,m
+2404,2404,NA,Jaccottet,Henri-Louis,m
+2405,2405,NA,Jacottet,Henri-Pierre,m
+2406,2406,NA,Jacquod,René,m
+2407,2407,NA,Jaeckle,Erwin,m
+2408,2408,NA,Jaeger,Walter,m
+2409,2409,NA,Jäger,Gottlieb,m
+2410,2410,NA,Jäger,Josef,m
+2411,2411,NA,Jäggi,August,m
+2412,2412,NA,Jäggi,Bernhard,m
+2413,2413,NA,Jakob,Ernst,m
+2414,2414,NA,Jakob,Johann,m
+2415,2415,NA,Jan,Ch.-Henri-F-,m
+2416,2416,NA,Jann,Ferdinand,m
+2417,2417,NA,Jann,Karl,m
+2418,2418,NA,Janner,Adolfo,m
+2419,2419,NA,Jaquet,Joseph,m
+2420,2420,NA,Jaquet,Nicolas,m
+2421,2421,NA,Jaton,J.-Alfred,m
+2422,2422,NA,Jauch,A. Giovanni,m
+2423,2423,NA,Jaunin,Alfred,m
+2424,2424,NA,Jeanhenry,Alfred,m
+2425,2425,NA,Jeanneret,Charles,m
+2426,2426,NA,Jeanneret,Maurice,m
+2427,2427,NA,Jeanrenaud,Charles Louis,m
+2428,2428,NA,Jeanrenaud,Marcelin,m
+2429,2429,NA,Jecker,Amanz,m
+2430,2430,NA,Jeker,Oliv,m
+2431,2431,NA,Jenny,Heinrich,m
+2432,2432,NA,Jenny,Johann,m
+2433,2433,NA,Jenny,Kaspar,m
+2434,2434,NA,Jenny,Peter jun.,m
+2435,2435,NA,Jenny,Peter sen.,m
+2436,2436,NA,Jobin,Xavier J. J. B.,m
+2437,2437,NA,Joliat,Louis,m
+2438,2438,NA,Jolissaint,Pierre,m
+2439,2439,NA,Joller,Joh. Melchior Al.,m
+2440,2440,NA,Joller,Remigi,m
+2441,2441,NA,Jolli,Silvio,m
+2442,2442,NA,Joly,F.-David,m
+2443,2443,NA,Joly,P.-Isaac,m
+2444,2444,NA,Joos,Wilhelm J. B.,m
+2445,2445,NA,Joost,Gottfried,m
+2446,2446,NA,Joray,Ernest,m
+2447,2447,NA,Jordan,Adolphe,m
+2448,2448,NA,Joris,Fidèle-Eman.,m
+2449,2449,NA,Josi,Ernest,m
+2450,2450,NA,Joss,Fritz,m
+2451,2451,NA,Jost,Fritz,m
+2452,2452,NA,Junod,Georges,m
+2453,2453,NA,Käch,Jakob,m
+2454,2454,NA,Kägi,E. Jakob,m
+2455,2455,NA,Kaiser,Ferdinand,m
+2456,2456,NA,Kaiser,Jakob,m
+2457,2457,NA,Kaiser,Niklaus,m
+2458,2458,NA,Kaiser,Simon,m
+2459,2459,NA,Kamber,Arnold,m
+2460,2460,NA,Kämpfen,Moritz,m
+2461,2461,NA,Kappeler,Johann Karl,m
+2462,2462,NA,Kappler,Arnold,m
+2463,2463,NA,Karlen,Jakob,m
+2464,2464,NA,Karlen,Johann,m
+2465,2465,NA,Karlen,Johann Jakob,m
+2466,2466,NA,Karrer,Karl,m
+2467,2467,NA,Karrer,Ludwig,m
+2468,2468,NA,Käser,Hans,m
+2469,2469,NA,Kästli,Hans,m
+2470,2470,NA,Keel,Johann Joseph,m
+2471,2471,NA,Keel,Valentin,m
+2472,2472,NA,Kehrwand,Vincent,m
+2473,2473,NA,Keiser,Georg J. J. F.,m
+2474,2474,NA,Keiser,Gustav Adolf,m
+2475,2475,NA,Keiser,Kaspar-Anton,m
+2476,2476,NA,Keiser,Martin,m
+2477,2477,NA,Keiser,Martin-Anton,m
+2478,2478,NA,Keiser,Theodor,m
+2479,2479,NA,Kellenberger,Jakob,m
+2480,2480,NA,Keller,Albert,m
+2481,2481,NA,Keller,Augustin,m
+2482,2482,NA,Keller,Emil,m
+2483,2483,NA,Keller,Gottfried,m
+2484,2484,NA,Keller,Gustav,m
+2485,2485,NA,Keller,Johann,m
+2486,2486,NA,Keller,Johann Jakob,m
+2487,2487,NA,Keller,Otto,m
+2488,2488,NA,Kellersberger,Armin J. J,m
+2489,2489,NA,Kern,Hans,m
+2490,2490,NA,Kern,Heinrich,m
+2491,2491,NA,Kern,Johann Conrad,m
+2492,2492,NA,Kessler,Alois,m
+2493,2493,NA,Ketterer,Karl,m
+2494,2494,NA,Kilian,Friedrich,m
+2495,2495,NA,Killer,Karl,m
+2496,2496,NA,Kinkelin,Hermann G. D.,m
+2497,2497,NA,Kistler,Max,m
+2498,2498,NA,Klaus,Gottfried,m
+2499,2499,NA,Klaye,H.-Auguste,m
+2500,2500,NA,Klein,Wilhelm,m
+2501,2501,NA,Klingler,Walter,m
+2502,2502,NA,Klöti,Emil,m
+2503,2503,NA,Knechtenhofer,Johannes,m
+2504,2504,NA,Knellwolf,Arnold L. E.,m
+2505,2505,NA,Knobel,Kaspar,m
+2506,2506,NA,Knobel,L. Kaspar,m
+2507,2507,NA,Knüsel,Josef Martin,m
+2508,2508,NA,Knüsel,Peter,m
+2509,2509,NA,Kobelt,Karl,m
+2510,2510,NA,Koch,Felix,m
+2511,2511,NA,Koch,Josef Anton,m
+2512,2512,NA,Koechlin,Alphons,m
+2513,2513,NA,Koechlin,Carl,m
+2514,2514,NA,Kohler,Friedrich S.,m
+2515,2515,NA,Kohler,Simon,m
+2516,2516,NA,Kohler,Walter,m
+2517,2517,NA,Kölbener,Johann Anton,m
+2518,2518,NA,Kölbener,Johann Baptist,m
+2519,2519,NA,Koller,Karl Aug.,m
+2520,2520,NA,Kolly,Gabriel,m
+2521,2521,NA,König,Gustav,m
+2522,2522,NA,König,Karl Gustav,m
+2523,2523,NA,König,Richard,m
+2524,2524,NA,König,Walter,m
+2525,2525,NA,König,Walter,m
+2526,2526,NA,Könz,Jochen Ulrich,m
+2527,2527,NA,Kopp,Alois,m
+2528,2528,NA,Kopp,Jakob,m
+2529,2529,NA,Korner,Hans,m
+2530,2530,NA,Krauchthaler,Fritz,m
+2531,2531,NA,Kreis,Johann Georg,m
+2532,2532,NA,Krieg,Kaspar L.,m
+2533,2533,NA,Krügel,Marcel-René,m
+2534,2534,NA,Krummenacher,Albert,m
+2535,2535,NA,Kuhn,Charles-L.,m
+2536,2536,NA,Kümin,Karl,m
+2537,2537,NA,Kündig,Albert,m
+2538,2538,NA,Kunkler,Roderich Albert,m
+2539,2539,NA,Kuntschen,Joseph,m
+2540,2540,NA,Kuntschen,Joseph,m
+2541,2541,NA,Kunz,Alois,m
+2542,2542,NA,Kunz,Gottfried,m
+2543,2543,NA,Kunz,Paul,m
+2544,2544,NA,Künzi,Carl,m
+2545,2545,NA,Künzli,Arnold,m
+2546,2546,NA,Kurer,Josef August,m
+2547,2547,NA,Kurmann,Franz-Josef,m
+2548,2548,NA,Kurz,Chr. Albrecht,m
+2549,2549,NA,Kurz,Erwin E. H.,m
+2550,2550,NA,Kurz,Hermann,m
+2551,2551,NA,Kurzmeyer,Werner,m
+2552,2552,NA,Labhardt,Philipp Gottlieb,m
+2553,2553,NA,Lachenal,Adrien,m
+2554,2554,NA,Lachenal,L. Adrien,m
+2555,2555,NA,Lack,Simon,m
+2556,2556,NA,Laely,Andreas,m
+2557,2557,NA,Lafranchi,Arturo,m
+2558,2558,NA,Lagier,Juste-François,m
+2559,2559,NA,Lambelet,Auguste,m
+2560,2560,NA,Lambelet,Frédéric,m
+2561,2561,NA,Lambelet,Louis Constant,m
+2562,2562,NA,Lampert,Marius,m
+2563,2563,NA,Landis,Heinrich,m
+2564,2564,NA,Landolt,Adolf,m
+2565,2565,NA,Landolt,Franz,m
+2566,2566,NA,Landtwing,Karl Anton,m
+2567,2567,NA,Lang,Erwin,m
+2568,2568,NA,Lang,Louis,m
+2569,2569,NA,Langenauer,Jakob,m
+2570,2570,NA,Lanicca,Ruben,m
+2571,2571,NA,Lanz,Hans,m
+2572,2572,NA,Lardelli,Albert,m
+2573,2573,NA,Latour,Alois,m
+2574,2574,NA,Latour,Caspar,m
+2575,2575,NA,Läuffer,Oskar,m
+2576,2576,NA,Lauterburg,Gottl. Ludwig,m
+2577,2577,NA,Leber,Walther,m
+2578,2578,NA,Legler,David,m
+2579,2579,NA,Lehmann,Johann Ulrich,m
+2580,2580,NA,Lehmann,Samuel,m
+2581,2581,NA,Lehner,Innozenz,m
+2582,2582,NA,Lejeune,Leo,m
+2583,2583,NA,Lepori,Giuseppe,m
+2584,2584,NA,Lesquereux,Ariste,m
+2585,2585,NA,Leu,Franz-Xaver,m
+2586,2586,NA,Leu,Josef,m
+2587,2587,NA,Leuba,Auguste Alb.,m
+2588,2588,NA,Leuba,F. Auguste,m
+2589,2589,NA,Leuenberger,Hermann,m
+2590,2590,NA,Leuenberger,Jakob,m
+2591,2591,NA,Leuenberger,Jakob,m
+2592,2592,NA,Leuenberger,Rudolf,m
+2593,2593,NA,Leumann,Joh. Georg,m
+2594,2594,NA,Leupin,Kurt,m
+2595,2595,NA,Leutenegger,Werner F.,m
+2596,2596,NA,Lieb,Ernst,m
+2597,2597,NA,Liechti,Hermann,m
+2598,2598,NA,Lienhard,Hermann,m
+2599,2599,NA,Lissignol,A.-Théodore,m
+2600,2600,NA,Locher,Albert-A.,m
+2601,2601,NA,Locher,Armin,m
+2602,2602,NA,Locher,Joh. Albert,m
+2603,2603,NA,Locher,Otto,m
+2604,2604,NA,Logoz,Paul,m
+2605,2605,NA,Lohner,Albert R. S.,m
+2606,2606,NA,Lohner,Emil,m
+2607,2607,NA,Löpfe,Ernst,m
+2608,2608,NA,Loretan,Gustav,m
+2609,2609,NA,Loretan,Raimund,m
+2610,2610,NA,Lovis,Louis,m
+2611,2611,NA,Löw,Emanuel,m
+2612,2612,NA,Luder,L.-Jos.-Antoine,m
+2613,2613,NA,Luder,Ulrich,m
+2614,2614,NA,Lurati,Bernardino,m
+2615,2615,NA,Lurati,Giovanni,m
+2616,2616,NA,Lusser,Augustin,m
+2617,2617,NA,Lusser,Florian jun.,m
+2618,2618,NA,Lusser,Florian sen.,m
+2619,2619,NA,Lusser,Franz,m
+2620,2620,NA,Lusser,Josef,m
+2621,2621,NA,Lussi,Niklaus,m
+2622,2622,NA,Luterbacher,Georges,m
+2623,2623,NA,Lüthi,Johann Joachim,m
+2624,2624,NA,Lüthy,Jakob,m
+2625,2625,NA,Lutz,Jakob,m
+2626,2626,NA,Lutz,Jakob Konrad,m
+2627,2627,NA,Lutz,Joh. Gebhard,m
+2628,2628,NA,Lützelschwab,Gregor,m
+2629,2629,NA,Luvini,Giacomo,m
+2630,2630,NA,Lymann,Johann,m
+2631,2631,NA,Maag,Albert,m
+2632,2632,NA,Mächler,Albert,m
+2633,2633,NA,Mäder,Emil,m
+2634,2634,NA,Mäder,Rudolf,m
+2635,2635,NA,Madeux,Eugen,m
+2636,2636,NA,Magatti,Massimiliano,m
+2637,2637,NA,Maggini,Carlo,m
+2638,2638,NA,Maillard,Marius,m
+2639,2639,NA,Maillefer,Paul,m
+2640,2640,NA,Maitre,Yves,m
+2641,2641,NA,Malche,Albert,m
+2642,2642,NA,Malzacher,Fritz,m
+2643,2643,NA,Mann,Leo,m
+2644,2644,NA,Manzoni,Romeo,m
+2645,2645,NA,Maraini,Otto,m
+2646,2646,NA,Marbach,Friedrich,m
+2647,2647,NA,Marmier,Louis-Auguste,m
+2648,2648,NA,Marro,Christophe J.,m
+2649,2649,NA,Marthaler,Fritz,m
+2650,2650,NA,Marti,Eduard,m
+2651,2651,NA,Martin,André,m
+2652,2652,NA,Martin,Auguste-Edouard-Frédéric,m
+2653,2653,NA,Martin,Jules,m
+2654,2654,NA,Martin,Louis Alex.,m
+2655,2655,NA,Masina,Francesco,m
+2656,2656,NA,Maspoli,Franco,m
+2657,2657,NA,Masson,Eugène,m
+2658,2658,NA,Matt,Johannn Jakob,m
+2659,2659,NA,Matthey,Charles-Jules,m
+2660,2660,NA,Matthey,Jules,m
+2661,2661,NA,Maunoir,Albert-Edouard,m
+2662,2662,NA,Maurer,Fritz,m
+2663,2663,NA,Mauroux,René,m
+2664,2664,NA,Mayor,G.-François-Isaac,m
+2665,2665,NA,Mayor,Jules,m
+2666,2666,NA,Mayor,Louis,m
+2667,2667,NA,Mayor,Louis-Ernest,m
+2668,2668,NA,Meier,Christian,m
+2669,2669,NA,Meier,Ernst,m
+2670,2670,NA,Meier,Gottlieb,m
+2671,2671,NA,Meier,Jean,m
+2672,2672,NA,Meier,Rudolf,m
+2673,2673,NA,Meierhans,Paul,m
+2674,2674,NA,Meier-Ragg,Arnold,m
+2675,2675,NA,Meile,Wilhelm,m
+2676,2676,NA,Meili,Armin,m
+2677,2677,NA,Meili,Jakob,m
+2678,2678,NA,Meister,Ulrich jun.,m
+2679,2679,NA,Meister,Ulrich sen.,m
+2680,2680,NA,Meister,Werner,m
+2681,2681,NA,Melly,Armand,m
+2682,2682,NA,Meng,Hans,m
+2683,2683,NA,Menoud,Fr.-Xavier,m
+2684,2684,NA,Mercier,Charles Philippe,m
+2685,2685,NA,Mercier,Joachim,m
+2686,2686,NA,Mercier,Lucien,m
+2687,2687,NA,Mercier,Philippe,m
+2688,2688,NA,Merian,Joh. Rudolf,m
+2689,2689,NA,Merkle,Gustave,m
+2690,2690,NA,Mermod,John-Edouard,m
+2691,2691,NA,Mermoud,John Henri,m
+2692,2692,NA,Merz,Karl Josef Leonhard,m
+2693,2693,NA,Merz,Leo,m
+2694,2694,NA,Mesmer,Johann,m
+2695,2695,NA,Messmer,Anton August,m
+2696,2696,NA,Messmer,Johann,m
+2697,2697,NA,Metry,Rudolf,m
+2698,2698,NA,Meuli,Anton,m
+2699,2699,NA,Meyer,Albert,m
+2700,2700,NA,Meyer,Albert,m
+2701,2701,NA,Meyer,Arnold,m
+2702,2702,NA,Meyer,Fritz,m
+2703,2703,NA,Meyer,Helen,f
+2704,2704,NA,Meyer,Isidor,m
+2705,2705,NA,Meyer,Jakob,m
+2706,2706,NA,Meyer,Johann Ulrich,m
+2707,2707,NA,Meyer,Josef,m
+2708,2708,NA,Meyer,Leo,m
+2709,2709,NA,Meyer,Ludwig Plazid,m
+2710,2710,NA,Meyer,Ludwig-Friedrich,m
+2711,2711,NA,Meyer,Philipp,m
+2712,2712,NA,Meyer,Renward,m
+2713,2713,NA,Meyer,Robert,m
+2714,2714,NA,Meyer,Walter F.,m
+2715,2715,NA,Meyer-Boller,Ulrich,m
+2716,2716,NA,Meystre,Abram-Daniel,m
+2717,2717,NA,Michel,Friedrich,m
+2718,2718,NA,Michel,Georg,m
+2719,2719,NA,Michel,Joh. Friedrich,m
+2720,2720,NA,Micheli,François-Jules,m
+2721,2721,NA,Micheli,Horace,m
+2722,2722,NA,Michlig,Meinrad,m
+2723,2723,NA,Miescher,Rudolf,m
+2724,2724,NA,Miéville,Adrien,m
+2725,2725,NA,Migy,Paul,m
+2726,2726,NA,Minder,Friedrich,m
+2727,2727,NA,Ming,Hans,m
+2728,2728,NA,Ming,Peter Anton,m
+2729,2729,NA,Minger,Rudolf,m
+2730,2730,NA,Miville,Carl,m
+2731,2731,NA,Moeckli,Georges,m
+2732,2732,NA,Moeckli,Jean-Théodor,m
+2733,2733,NA,Moeschlin,Felix,m
+2734,2734,NA,Mohr,Gian Rudolf,m
+2735,2735,NA,Moine,Virgile,m
+2736,2736,NA,Moll,Alfred,m
+2737,2737,NA,Monfrini,Henri,m
+2738,2738,NA,Monighetti,Costantino,m
+2739,2739,NA,Monnier,Frédéric A.,m
+2740,2740,NA,Moos,Herbert,m
+2741,2741,NA,Moos,Niklaus,m
+2742,2742,NA,Morand,Alphonse,m
+2743,2743,NA,Morard,Paul,m
+2744,2744,NA,Mordasini,Paolo,m
+2745,2745,NA,Moreau,Charles,m
+2746,2746,NA,Morel,Albert,m
+2747,2747,NA,Morel,Henri,m
+2748,2748,NA,Morel,Joseph Karl Pankraz,m
+2749,2749,NA,Morel,Marc,m
+2750,2750,NA,Morf,Gustav,m
+2751,2751,NA,Morgenthaler,Niklaus Chr.,m
+2752,2752,NA,Moriaud,Alexandre,m
+2753,2753,NA,Moriaud,J.-Pierre,m
+2754,2754,NA,Moschard,Auguste,m
+2755,2755,NA,Moser,Alois,m
+2756,2756,NA,Moser,Arthur,m
+2757,2757,NA,Moser,Carl,m
+2758,2758,NA,Moser,Emil F.,m
+2759,2759,NA,Moser,Ernst,m
+2760,2760,NA,Moser,Franz,m
+2761,2761,NA,Moser,Joh. Rudolf,m
+2762,2762,NA,Moser,Johannes,m
+2763,2763,NA,Moser,Sam. Friedrich,m
+2764,2764,NA,Mosimann,Paul E.,m
+2765,2765,NA,Mossdorf,Albert,m
+2766,2766,NA,Motta,Cristoforo,m
+2767,2767,NA,Motta,Giuseppe,m
+2768,2768,NA,Moulin,Joseph,m
+2769,2769,NA,Mouttet,Henri,m
+2770,2770,NA,Muheim,Alexander,m
+2771,2771,NA,Muheim,Franz,m
+2772,2772,NA,Muheim,Gustav,m
+2773,2773,NA,Muheim,Gustav,m
+2774,2774,NA,Muheim,Jost,m
+2775,2775,NA,Muheim,Karl,m
+2776,2776,NA,Muheim,Karl,m
+2777,2777,NA,Mühlebach,August,m
+2778,2778,NA,Müller,Adolf,m
+2779,2779,NA,Müller,Alban,m
+2780,2780,NA,Müller,Alfred,m
+2781,2781,NA,Müller,Alois,m
+2782,2782,NA,Müller,Alois,m
+2783,2783,NA,Müller,Eduard,m
+2784,2784,NA,Müller,Emil,m
+2785,2785,NA,Müller,Franz,m
+2786,2786,NA,Müller,Guido,m
+2787,2787,NA,Müller,Gustav A. A.,m
+2788,2788,NA,Müller,Hans,m
+2789,2789,NA,Müller,Hans Gottfried,m
+2790,2790,NA,Müller,Heinrich C.,m
+2791,2791,NA,Müller,Jakob,m
+2792,2792,NA,Müller,Jakob,m
+2793,2793,NA,Müller,Jakob,m
+2794,2794,NA,Müller,Joh. Fridolin,m
+2795,2795,NA,Müller,Joh. Jakob,m
+2796,2796,NA,Müller,Joh. Jakob,m
+2797,2797,NA,Müller,Johann Josef,m
+2798,2798,NA,Müller,Johannes,m
+2799,2799,NA,Müller,Johannes,m
+2800,2800,NA,Müller,Karl Emanuel,m
+2801,2801,NA,Müller,Kaspar,m
+2802,2802,NA,Müller,Konrad,m
+2803,2803,NA,Müller,Paul,m
+2804,2804,NA,Müller,Peter,m
+2805,2805,NA,Müller,Robert,m
+2806,2806,NA,Münch,Arnold,m
+2807,2807,NA,Munz,Hans,m
+2808,2808,NA,Munzinger,Martin Josef,m
+2809,2809,NA,Munzinger,Oskar,m
+2810,2810,NA,Munzinger,Walter,m
+2811,2811,NA,Murbach,Hieronymus,m
+2812,2812,NA,Muret,André,m
+2813,2813,NA,Müri,Hans,m
+2814,2814,NA,Müri,Hermann,m
+2815,2815,NA,Müry,Joh. Emil,m
+2816,2816,NA,Muschg,Walter,m
+2817,2817,NA,Musy,Jean-Marie,m
+2818,2818,NA,Nadig,Adolf,m
+2819,2819,NA,Naef,Jean-Martin,m
+2820,2820,NA,Näff,Wilhelm Matthias,m
+2821,2821,NA,Nagel,Paul,m
+2822,2822,NA,Nager,Jost Jos.,m
+2823,2823,NA,Näher,Johann,m
+2824,2824,NA,Naine,Albert-Louis,m
+2825,2825,NA,Naine,Charles-Théophile,m
+2826,2826,NA,Nänny,Hans,m
+2827,2827,NA,Naville,Robert,m
+2828,2828,NA,Nerfin,Paul,m
+2829,2829,NA,Neuhaus,K. Franz J.,m
+2830,2830,NA,Neuhaus,Karl J. Fr.,m
+2831,2831,NA,Nicole,Léon,m
+2832,2832,NA,Nicolet,Emile,m
+2833,2833,NA,Niederberger,Karl Jos.,m
+2834,2834,NA,Niederhauser,Rudolf,m
+2835,2835,NA,Nietlispach,Jakob,m
+2836,2836,NA,Nietlispach,Emil,m
+2837,2837,NA,Nigg,Josef,m
+2838,2838,NA,Niggeler,Niklaus,m
+2839,2839,NA,Niggeler,Rudolf,m
+2840,2840,NA,Nobs,Ernst,m
+2841,2841,NA,Nüesch,Jakob,m
+2842,2842,NA,Nyffeler,Johann,m
+2843,2843,NA,Obrecht,Hermann,m
+2844,2844,NA,Obrecht,Karl,m
+2845,2845,NA,Ochsenbein,Ulrich J.,m
+2846,2846,NA,Ochsner,Martin,m
+2847,2847,NA,Odermatt,Gottfried,m
+2848,2848,NA,Odermatt,Gotthard,m
+2849,2849,NA,Odermatt,Joseph,m
+2850,2850,NA,Odermatt,Maria,m
+2851,2851,NA,Odier,A.-Edouard,m
+2852,2852,NA,Odinga,Theodor,m
+2853,2853,NA,Ody,L.-Firmin,m
+2854,2854,NA,Oechslin,Heinrich,m
+2855,2855,NA,Oehninger,Jakob,m
+2856,2856,NA,Oeri,Albert,m
+2857,2857,NA,Oertli,Johann Konrad,m
+2858,2858,NA,Oetiker,Franz Anton,m
+2859,2859,NA,Oguey,Henri,m
+2860,2860,NA,Oldani,Hermann,m
+2861,2861,NA,Olgiati,Camillo,m
+2862,2862,NA,Olgiati,Carlo,m
+2863,2863,NA,Olgiati,Libero,m
+2864,2864,NA,Oltramare,André,m
+2865,2865,NA,Oprecht,Hans,m
+2866,2866,NA,Oschwald,Joh. Georg,m
+2867,2867,NA,Oswald,Herkules,m
+2868,2868,NA,Ott,Rudolf,m
+2869,2869,NA,Ottiker,K. Friedrich,m
+2870,2870,NA,Overney,Constant,m
+2871,2871,NA,Oyex,A.-Isaac,m
+2872,2872,NA,Page,Jean-J.,m
+2873,2873,NA,Pagnamenta,Tomaso,m
+2874,2874,NA,Paillard,Emile,m
+2875,2875,NA,Paschoud,Albert,m
+2876,2876,NA,Paschoud,Louis,m
+2877,2877,NA,Paschoud,Maurice,m
+2878,2878,NA,Pasquier,Albert,m
+2879,2879,NA,Pasta,Carlo,m
+2880,2880,NA,Pattocchi,Giuseppe,m
+2881,2881,NA,Paulet,Hippolyte,m
+2882,2882,NA,Péclard,Ulysse,m
+2883,2883,NA,Pedrazzi,Domenico,m
+2884,2884,NA,Pedrazzini,Martino,m
+2885,2885,NA,Pedrazzini,Michele,m
+2886,2886,NA,Pedrazzini,Paolo,m
+2887,2887,NA,Peitrequin,Jean,m
+2888,2888,NA,Pellissier,Maurice F.,m
+2889,2889,NA,Péquignot,Fr. Xavier I.,m
+2890,2890,NA,Pernoux,J.-Francis-A.,m
+2891,2891,NA,Perréard,François,m
+2892,2892,NA,Perréard,Jules-F.,m
+2893,2893,NA,Perret,David,m
+2894,2894,NA,Perret,Henri,m
+2895,2895,NA,Perret,Paul-Jean,m
+2896,2896,NA,Perret,Zélim,m
+2897,2897,NA,Perrier,Ernest,m
+2898,2898,NA,Perrier,F. F. Louis,m
+2899,2899,NA,Perrig,Alfred,m
+2900,2900,NA,Perrin,F.-Victor,m
+2901,2901,NA,Perrin,Paul,m
+2902,2902,NA,Perrin,Tell,m
+2903,2903,NA,Pestalozzi,Friedrich,m
+2904,2904,NA,Pestalozzi,H. Jakob,m
+2905,2905,NA,Pestalozzi,Hans K.,m
+2906,2906,NA,Peter,August,m
+2907,2907,NA,Peter,Marc-Ernest,m
+2908,2908,NA,Peterelli,Franz,m
+2909,2909,NA,Peterelli,Remigius,m
+2910,2910,NA,Peteut,Louis Emile,m
+2911,2911,NA,Petitpierre,André,m
+2912,2912,NA,Petitpierre,Charles Alfred,m
+2913,2913,NA,Petitpierre,Gonzalve A. H.,m
+2914,2914,NA,Petitpierre,Max,m
+2915,2915,NA,Petrig,Victor,m
+2916,2916,NA,Pettavel,Auguste H.,m
+2917,2917,NA,Peyer,Jost,m
+2918,2918,NA,Peyer im Hof,Johann Friedrich,m
+2919,2919,NA,Peyrot,François,m
+2920,2920,NA,Pfändler,Otto,m
+2921,2921,NA,Pfenninger,Jakob J.,m
+2922,2922,NA,Pfiffer,Bernardo,m
+2923,2923,NA,Pfister,Bruno,m
+2924,2924,NA,Pfister,Eduard,m
+2925,2925,NA,Pfister,Otto,m
+2926,2926,NA,Pfleghard,Wilhelm Otto,m
+2927,2927,NA,Pfluger,Niklaus,m
+2928,2928,NA,Pflüger,Paul B.,m
+2929,2929,NA,Pfyffer,Kasimir,m
+2930,2930,NA,Philipona,Eusèbe,m
+2931,2931,NA,Philippe,Etienne,m
+2932,2932,NA,Philippin,Jules,m
+2933,2933,NA,Piaget,Alexis Marie,m
+2934,2934,NA,Picot,Albert-Edouard,m
+2935,2935,NA,Pictet,Albert-Gustave,m
+2936,2936,NA,Pictet,François-Jules,m
+2937,2937,NA,Pictet,Gustave-Jules,m
+2938,2938,NA,Pictet,P.-M. Ernest,m
+2939,2939,NA,Pidoux,Ernest,m
+2940,2940,NA,Pignat,Hippolyte,m
+2941,2941,NA,Piguet,Armand W.,m
+2942,2942,NA,Piguet,J. Albert,m
+2943,2943,NA,Piguet,Théodore-Ami,m
+2944,2944,NA,Pilet-Golaz,Marcel-Edouard-Ernest,m
+2945,2945,NA,Piller,Joseph,m
+2946,2946,NA,Pilliod,Alfred L.,m
+2947,2947,NA,Pini,Aleardo,m
+2948,2948,NA,Pioda,Alfredo,m
+2949,2949,NA,Pioda,Giovanni Battista,m
+2950,2950,NA,Piot,Robert,m
+2951,2951,NA,Pitteloud,Cyrille,m
+2952,2952,NA,Pittet,Léon,m
+2953,2953,NA,Pittet,M.-L.-J.-Benjamin,m
+2954,2954,NA,Pittet,Paul-C.,m
+2955,2955,NA,Pitton,Henri,m
+2956,2956,NA,Planta,Rudolf,m
+2957,2957,NA,Platten,Fritz,m
+2958,2958,NA,Plattner,Joh. Heinrich,m
+2959,2959,NA,Plüss,Johann,m
+2960,2960,NA,Polar,Giovanni,m
+2961,2961,NA,Polar,Giovanni,m
+2962,2962,NA,Polar,Ignazio,m
+2963,2963,NA,Pottier,Adrien-Félix,m
+2964,2964,NA,Pozzi,Jean,m
+2965,2965,NA,Pradervand,Jean-Pierre,m
+2966,2966,NA,Presset,Henri Benj.,m
+2967,2967,NA,Presset,Samuel,m
+2968,2968,NA,Pugin,Antoine,m
+2969,2969,NA,Python,Georges,m
+2970,2970,NA,Quartenoud,Maxime,m
+2971,2971,NA,Räber,Alois,m
+2972,2972,NA,Räber,Joseph,m
+2973,2973,NA,Rahm,Arnold,m
+2974,2974,NA,Rais,Albert,m
+2975,2975,NA,Raisin,Frédéric-P.,m
+2976,2976,NA,Raisin,Marcel,m
+2977,2977,NA,Raissig,Walter,m
+2978,2978,NA,Rambert,Henri-Louis,m
+2979,2979,NA,Ramelli,Giovan Battista,m
+2980,2980,NA,Ramsperger,Augustin,m
+2981,2981,NA,Ramu,F.-Alexandre,m
+2982,2982,NA,Randon,Georges-Paul,m
+2983,2983,NA,Rappard,William,m
+2984,2984,NA,Raschein,Luzius,m
+2985,2985,NA,Raschein,Paul,m
+2986,2986,NA,Raschein,Paul,m
+2987,2987,NA,Raschle,Abraham,m
+2988,2988,NA,Raschle,Joh. Rudolf,m
+2989,2989,NA,Rasser,Alfred,m
+2990,2990,NA,Rauch,Johann Georg,m
+2991,2991,NA,Real,Franz Anton,m
+2992,2992,NA,Reali,Giovanni,m
+2993,2993,NA,Rebmann,Johann Jakob,m
+2994,2994,NA,Reich,Werner,m
+2995,2995,NA,Reichen,Ernst,m
+2996,2996,NA,Reichlin,Karl,m
+2997,2997,NA,Reichling,Rudolf,m
+2998,2998,NA,Reimann,Robert,m
+2999,2999,NA,Reinert,Alois,m
+3000,3000,NA,Reinhard,Ernst,m
+3001,3001,NA,Rellstab,Emil R.,m
+3002,3002,NA,Remy,Jacques J.,m
+3003,3003,NA,Renold,Karl,m
+3004,3004,NA,Respini,Giovacchino,m
+3005,3005,NA,Revaclier,David,m
+3006,3006,NA,Revaclier,François,m
+3007,3007,NA,Revel,J.-H. Cyprien,m
+3008,3008,NA,Reverdin,Olivier,m
+3009,3009,NA,Rey,Laurent,m
+3010,3010,NA,Reymond,J.-Henri-S.,m
+3011,3011,NA,Reymond,Louis-H.,m
+3012,3012,NA,Ribordy,Joseph,m
+3013,3013,NA,Richard,M.-Eugène,m
+3014,3014,NA,Riedener,Josef,m
+3015,3015,NA,Riem,Gottlieb,m
+3016,3016,NA,Rieter,Heinrich P.,m
+3017,3017,NA,Riggenbach,Rudolf,m
+3018,3018,NA,Rikli,August,m
+3019,3019,NA,Rikli,Samuel Friedrich,m
+3020,3020,NA,Rimathé,Anton,m
+3021,3021,NA,Ringger,David,m
+3022,3022,NA,Ringier,Joh. Rudolf,m
+3023,3023,NA,Ringier,K. A. Gottlieb,m
+3024,3024,NA,Ringk,C. Emil,m
+3025,3025,NA,Riniker,Johann Heinrich,m
+3026,3026,NA,Rion,Joseph,m
+3027,3027,NA,Rippstein,Louis,m
+3028,3028,NA,Risch,Matthäus,m
+3029,3029,NA,Ritschard,Johannes,m
+3030,3030,NA,Ritschard,Willi,m
+3031,3031,NA,Ritter,Jakob Ulrich,m
+3032,3032,NA,Rittmeyer,Ludwig,m
+3033,3033,NA,Ritzchel,M.-Eugène,m
+3034,3034,NA,Riva,Antonio Luigi,m
+3035,3035,NA,Riva,Waldo,m
+3036,3036,NA,Robert,J. Arnold,m
+3037,3037,NA,Robert,Paul,m
+3038,3038,NA,Robert,René,m
+3039,3039,NA,Rochaix,John-Marc,m
+3040,3040,NA,Rochat,Pierre,m
+3041,3041,NA,Rodel,Ernst,m
+3042,3042,NA,Roggo,Alphons,m
+3043,3043,NA,Rogivue,Ch.-Auguste,m
+3044,3044,NA,Roguin,Jules-L.-E.,m
+3045,3045,NA,Rohner,Walter,m
+3046,3046,NA,Rohner,Willi,m
+3047,3047,NA,Rohr,Fr. Rudolf J.,m
+3048,3048,NA,Rohr,Johann,m
+3049,3049,NA,Rohr,Max Albert,m
+3050,3050,NA,Rohrer,Christian,m
+3051,3051,NA,Romedi,Johann A.,m
+3052,3052,NA,Romedi,Peter Conradin,m
+3053,3053,NA,Römer,Melchior,m
+3054,3054,NA,Rosenmund,Ambrosius,m
+3055,3055,NA,Rossel,Aimé-C.,m
+3056,3056,NA,Rossel,Virgile,m
+3057,3057,NA,Rosselet,Charles,m
+3058,3058,NA,Rosset,Paul-René,m
+3059,3059,NA,Rossi,Ermengildo,m
+3060,3060,NA,Rossi,Riccardo,m
+3061,3061,NA,Rossiaud,François Joseph,m
+3062,3062,NA,Roth,Arnold,m
+3063,3063,NA,Roth,August,m
+3064,3064,NA,Roth,Fridolin,m
+3065,3065,NA,Roth,Hans,m
+3066,3066,NA,Roth,Jakob Adolf,m
+3067,3067,NA,Roth,Johannes,m
+3068,3068,NA,Rothenberger,Christian,m
+3069,3069,NA,Rothpletz,Fr. Ferdinand,m
+3070,3070,NA,Rougemont,J. Auguste,m
+3071,3071,NA,Roulet,Jules-H.,m
+3072,3072,NA,Roulet,Louis-Samuel,m
+3073,3073,NA,Roulin,Gustave-Laurent,m
+3074,3074,NA,Roussy,Auguste-Emile,m
+3075,3075,NA,Rubattel,Ernest,m
+3076,3076,NA,Rubattel,Lucien,m
+3077,3077,NA,Rubattel,Rodolphe,m
+3078,3078,NA,Rubi,Christian,m
+3079,3079,NA,Rubi,Fred,m
+3080,3080,NA,Ruchet,Marc-Emile,m
+3081,3081,NA,Ruchonnet,Louis-A.-J.,m
+3082,3082,NA,Ruchti,Eduard,m
+3083,3083,NA,Rudin,Emil,m
+3084,3084,NA,Rüegg,Hans,m
+3085,3085,NA,Rüegg,Heinrich,m
+3086,3086,NA,Rufener,Paul,m
+3087,3087,NA,Ruffieux,Laurent,m
+3088,3088,NA,Ruffy,Eugène,m
+3089,3089,NA,Ruffy,Victor-Ch.-F.,m
+3090,3090,NA,Ruh,Jakob,m
+3091,3091,NA,Ruoss,Erhard,m
+3092,3092,NA,Rusca,Francesco,m
+3093,3093,NA,Rusca,Giovan-Battista,m
+3094,3094,NA,Rusca,Luigi,m
+3095,3095,NA,Rusch,Carl,m
+3096,3096,NA,Rusch,Johann Baptist E.,m
+3097,3097,NA,Rusconi,Filippo,m
+3098,3098,NA,Russenberger,Eduard,m
+3099,3099,NA,Rüsser,J. Fritz,m
+3100,3100,NA,Rutishauser,Georg,m
+3101,3101,NA,Rüttimann,Johann Jakob,m
+3102,3102,NA,Rutty,Jacques-S.,m
+3103,3103,NA,Ryf,Johannes K.,m
+3104,3104,NA,Ryffel,Joh. Jakob,m
+3105,3105,NA,Ryser,Albert,m
+3106,3106,NA,Ryser,J. Emile,m
+3107,3107,NA,Ryter,Alfred,m
+3108,3108,NA,Sahli,Christian,m
+3109,3109,NA,Sailer,Carl Georg Jakob,m
+3110,3110,NA,Salzmann,Friedrich,m
+3111,3111,NA,Sandoz,Henri Auguste,m
+3112,3112,NA,Sappeur,Hans,m
+3113,3113,NA,Savoy,Emile,m
+3114,3114,NA,Savoye,Robert B.,m
+3115,3115,NA,Saxer,Arnold,m
+3116,3116,NA,Saxer,Gustav Adolf,m
+3117,3117,NA,Schalch,Franz Adolf,m
+3118,3118,NA,Schaller,Alfred,m
+3119,3119,NA,Schaller,Gustav,m
+3120,3120,NA,Schäppi,Johann Jakob,m
+3121,3121,NA,Schär,Johann Jakob,m
+3122,3122,NA,Schär,Johannes,m
+3123,3123,NA,Schär,Karl-Oskar,m
+3124,3124,NA,Schatz,Ruedi,m
+3125,3125,NA,Schaub,Walter,m
+3126,3126,NA,Schäubli,Eduard,m
+3127,3127,NA,Schaufelbühl,Udalrich Joseph,m
+3128,3128,NA,Scheibler,Rudolf,m
+3129,3129,NA,Scheidegger,Jakob,m
+3130,3130,NA,Schenk,Karl,m
+3131,3131,NA,Schenkel,Hans,m
+3132,3132,NA,Schenkel,Jak. Christoph,m
+3133,3133,NA,Schenker,Friedrich,m
+3134,3134,NA,Scherb,Jak. Albert,m
+3135,3135,NA,Scherer,Johann Jakob,m
+3136,3136,NA,Scherer,Victor,m
+3137,3137,NA,Scherer,Victor Emil,m
+3138,3138,NA,Scherrer,Carl,m
+3139,3139,NA,Scherrer,Eduard,m
+3140,3140,NA,Scherrer,Heinrich,m
+3141,3141,NA,Scherrer,Paul,m
+3142,3142,NA,Scherrer-Brisig,Joseph Anton,m
+3143,3143,NA,Scherrer-Füllemann,Joseph Anton,m
+3144,3144,NA,Scherz,Jakob,m
+3145,3145,NA,Scheuchzer,Friedrich Erhard,m
+3146,3146,NA,Scheurer,Alfred,m
+3147,3147,NA,Scheurer,Karl,m
+3148,3148,NA,Schib,Paul,m
+3149,3149,NA,Schiess,Johann Ulrich,m
+3150,3150,NA,Schild,Robert,m
+3151,3151,NA,Schild,Urs,m
+3152,3152,NA,Schimpf,K. Ferdinand,m
+3153,3153,NA,Schindler,Kaspar,m
+3154,3154,NA,Schindler,Wilhelm,m
+3155,3155,NA,Schirmer,August,m
+3156,3156,NA,Schirmer,L. August,m
+3157,3157,NA,Schlaepfer,Hans Ulrich,m
+3158,3158,NA,Schläpfer,Albert,m
+3159,3159,NA,Schläppy,Rémy,m
+3160,3160,NA,Schlegel,Florian,m
+3161,3161,NA,Schlup,Johannes,m
+3162,3162,NA,Schmid,Andreas,m
+3163,3163,NA,Schmid,Anton,m
+3164,3164,NA,Schmid,Arthur,m
+3165,3165,NA,Schmid,Ernst,m
+3166,3166,NA,Schmid,Ernst,m
+3167,3167,NA,Schmid,Franz,m
+3168,3168,NA,Schmid,J. J. Friedrich,m
+3169,3169,NA,Schmid,Jacques,m
+3170,3170,NA,Schmid,Jakob,m
+3171,3171,NA,Schmid,Johann,m
+3172,3172,NA,Schmid,Josef Leonz jun.,m
+3173,3173,NA,Schmid,Josef Leonz sen.,m
+3174,3174,NA,Schmid,Robert,m
+3175,3175,NA,Schmid,Rudolf,m
+3176,3176,NA,Schmid,Theodor,m
+3177,3177,NA,Schmid,Werner,m
+3178,3178,NA,Schmid-Ammann,Paul,m
+3179,3179,NA,Schmidheiny,Ernst,m
+3180,3180,NA,Schmidheiny,Jakob,m
+3181,3181,NA,Schmidheiny,Max,m
+3182,3182,NA,Schmid-Käser,Rudolf,m
+3183,3183,NA,Schmidlin,Fritz,m
+3184,3184,NA,Schmid-Ruedin,Philipp,m
+3185,3185,NA,Schmidt,Walter,m
+3186,3186,NA,Schmitt,Henri,m
+3187,3187,NA,Schmuki,Johann,m
+3188,3188,NA,Schmutz,Rudolf,m
+3189,3189,NA,Schneeberger,Friedrich Oskar,m
+3190,3190,NA,Schneider,Arnold,m
+3191,3191,NA,Schneider,Erwin,m
+3192,3192,NA,Schneider,Fridolin,m
+3193,3193,NA,Schneider,Friedrich,m
+3194,3194,NA,Schneider,Gottlieb,m
+3195,3195,NA,Schneider,Gustav Joh.,m
+3196,3196,NA,Schneider,Johann Rudolf,m
+3197,3197,NA,Schneider,Johannes,m
+3198,3198,NA,Schneller,Ludwig,m
+3199,3199,NA,Schnyder,Anton,m
+3200,3200,NA,Schnyder,Jules,m
+3201,3201,NA,Schnyder,Jules,m
+3202,3202,NA,Schnyder,Oskar,m
+3203,3203,NA,Schöbi,Josef,m
+3204,3204,NA,Schobinger,Joseph Anton,m
+3205,3205,NA,Schoch,Heinrich Gustav,m
+3206,3206,NA,Schoch,Kurt,m
+3207,3207,NA,Schönenberger,Laurenz,m
+3208,3208,NA,Schöpfer,Robert,m
+3209,3209,NA,Schopfer,Sidney,m
+3210,3210,NA,Schregenberger,Hans,m
+3211,3211,NA,Schubiger,Emil,m
+3212,3212,NA,Schubiger,Johann Bapt.,m
+3213,3213,NA,Schubiger,Johann Benedikt,m
+3214,3214,NA,Schuler,Adelrich Jacob,m
+3215,3215,NA,Schuler,Fr. Karl,m
+3216,3216,NA,Schuler,Hans,m
+3217,3217,NA,Schuler,Josef,m
+3218,3218,NA,Schuler,Josef-Maria,m
+3219,3219,NA,Schulthess,Edmund L.,m
+3220,3220,NA,Schumacher,Josef X. Leod. Franz,m
+3221,3221,NA,Schümperli,Rudolf,m
+3222,3222,NA,Schümperlin,Johann Jakob,m
+3223,3223,NA,Schüpbach,Hermann,m
+3224,3224,NA,Schürch,Gerhart,m
+3225,3225,NA,Schürmann,Leo,m
+3226,3226,NA,Schütz,Otto,m
+3227,3227,NA,Schwander,Albert,m
+3228,3228,NA,Schwander,Vital jun.,m
+3229,3229,NA,Schwander,Vital sen.,m
+3230,3230,NA,Schwar,Benjamin,m
+3231,3231,NA,Schwarz,Frédéric,m
+3232,3232,NA,Schwarz,Samuel D.,m
+3233,3233,NA,Schwarzenbach,James,m
+3234,3234,NA,Schwendener,Gallus,m
+3235,3235,NA,Schwendener,Johann Jakob,m
+3236,3236,NA,Schwendener,Michael,m
+3237,3237,NA,Schwendinger,Erwin,m
+3238,3238,NA,Schwerzmann,Alois,m
+3239,3239,NA,Schwerzmann,Silvan O.,m
+3240,3240,NA,Schwizer,Alfons,m
+3241,3241,NA,Secrétan,Edouard-H.,m
+3242,3242,NA,Seematter,Arnold,m
+3243,3243,NA,Segessenmann,Friedrich,m
+3244,3244,NA,Seidel,Robert,m
+3245,3245,NA,Seifert,Huldrich Arnold,m
+3246,3246,NA,Seiler,Alexander,m
+3247,3247,NA,Seiler,Friedrich,m
+3248,3248,NA,Seiler,Gustav Adolf,m
+3249,3249,NA,Seiler,Hermann,m
+3250,3250,NA,Seiler,Walter,m
+3251,3251,NA,Sessler,Johann,m
+3252,3252,NA,Sidler,Georg Joseph,m
+3253,3253,NA,Sidler,Johann Baptist,m
+3254,3254,NA,Sidler,Otto,m
+3255,3255,NA,Siegenthaler,Friedrich,m
+3256,3256,NA,Siegfried,S. Friedrich,m
+3257,3257,NA,Siegmann,Walter,m
+3258,3258,NA,Siegrist,Hans E.,m
+3259,3259,NA,Siegrist,Rudolf,m
+3260,3260,NA,Sigerist,Heinrich,m
+3261,3261,NA,Sigg,Jean-C.,m
+3262,3262,NA,Sigg,Johannes F. O.,m
+3263,3263,NA,Sigrist,Jakob,m
+3264,3264,NA,Simen,Rinaldo,m
+3265,3265,NA,Simon,Henri-François,m
+3266,3266,NA,Simonin,F. C. Henri,m
+3267,3267,NA,Soguel,A. Frédéric E.,m
+3268,3268,NA,Soldati,Agostino,m
+3269,3269,NA,Soldini,Adolfo,m
+3270,3270,NA,Soldini,Antonio,m
+3271,3271,NA,Soldini,Benigno,m
+3272,3272,NA,Soldini,Carlo,m
+3273,3273,NA,Soldini,Giuseppe,m
+3274,3274,NA,Sollberger,Charles,m
+3275,3275,NA,Sonderegger,Hans-Konrad,m
+3276,3276,NA,Sonderegger,Johann Conrad,m
+3277,3277,NA,Sonderegger,Johann Jakob,m
+3278,3278,NA,Sonderegger,Karl Justin,m
+3279,3279,NA,Sourbeck,Theodor,m
+3280,3280,NA,Soutter,Jean-Rodolphe,m
+3281,3281,NA,Spahn,Carl A.,m
+3282,3282,NA,Spahr,Henri,m
+3283,3283,NA,Speiser,Ernst,m
+3284,3284,NA,Speiser,Paul,m
+3285,3285,NA,Speziali,Carlo,m
+3286,3286,NA,Spichiger,Friedrich,m
+3287,3287,NA,Spindler,Albert,m
+3288,3288,NA,Spinelli,Erennio,m
+3289,3289,NA,Spörri,Johann Jakob,m
+3290,3290,NA,Sprecher,Georg,m
+3291,3291,NA,Spühler,Willy,m
+3292,3292,NA,Spychiger,Arnold,m
+3293,3293,NA,Stadler,Emil,m
+3294,3294,NA,Stadler,Emil H.,m
+3295,3295,NA,Stadlin,Hermann,m
+3296,3296,NA,Stadlin,Manfred,m
+3297,3297,NA,Stadtmann,Hermann M.,m
+3298,3298,NA,Staehelin,Heinrich,m
+3299,3299,NA,Stähelin,August,m
+3300,3300,NA,Stähli,Alfred,m
+3301,3301,NA,Stähli,Fritz,m
+3302,3302,NA,Stähli,Hans,m
+3303,3303,NA,Stählin,Johann Michael,m
+3304,3304,NA,Stamm,Heinrich,m
+3305,3305,NA,Stämpfli,Jakob,m
+3306,3306,NA,Stämpfli,Karl,m
+3307,3307,NA,Stampfli,Walter,m
+3308,3308,NA,Stapfer,Johann,m
+3309,3309,NA,Staub,Jos. Othmar,m
+3310,3310,NA,Stäuble,Fridolin,m
+3311,3311,NA,Stäubli,Willy,m
+3312,3312,NA,Stebler,Pius,m
+3313,3313,NA,Steger,Joh. Jakob,m
+3314,3314,NA,Stehli,Rudolf,m
+3315,3315,NA,Stehlin,Johann Jakob,m
+3316,3316,NA,Stehlin,Karl Rudolf,m
+3317,3317,NA,Steiger,Eduard,m
+3318,3318,NA,Steiger,Georg Peter Friedrich,m
+3319,3319,NA,Steiger,Jakob Robert,m
+3320,3320,NA,Steinegger,Johann Anton,m
+3321,3321,NA,Steinegger,Martin,m
+3322,3322,NA,Steinemann,Heinrich,m
+3323,3323,NA,Steiner,Arthur,m
+3324,3324,NA,Steiner,Ferdinand,m
+3325,3325,NA,Steiner,Jakob,m
+3326,3326,NA,Steiner,Jakob,m
+3327,3327,NA,Steiner,Jakob-Dionys,m
+3328,3328,NA,Steiner,Josef-Plazid,m
+3329,3329,NA,Steiner,Karl,m
+3330,3330,NA,Steiner,Leo,m
+3331,3331,NA,Steiner,Samuel,m
+3332,3332,NA,Steinhauer,Johann Rudolf,m
+3333,3333,NA,Steinhauser,Alois,m
+3334,3334,NA,Steinhauser,Anton,m
+3335,3335,NA,Steinmann,Paul,m
+3336,3336,NA,Steinmetz,Edouard Ch.,m
+3337,3337,NA,Steuble,Adolf,m
+3338,3338,NA,Stiefel,Ernst,m
+3339,3339,NA,Stiffler,Hans,m
+3340,3340,NA,Stirnemann,Erwin,m
+3341,3341,NA,Stock,Friedrich A.,m
+3342,3342,NA,Stocker,Abraham,m
+3343,3343,NA,Stocker,Werner,m
+3344,3344,NA,Stöckli,Anton,m
+3345,3345,NA,Stöckli,Xaver,m
+3346,3346,NA,Stockmar,Joseph,m
+3347,3347,NA,Stockmar,Xavier,m
+3348,3348,NA,Stoessel,B.-Marius,m
+3349,3349,NA,Stoffel,Giuseppe,m
+3350,3350,NA,Stoffel,Leo,m
+3351,3351,NA,Stoffel,Severin,m
+3352,3352,NA,Stohler,Karl,m
+3353,3353,NA,Stoll,Karl,m
+3354,3354,NA,Stössel,Johannes,m
+3355,3355,NA,Strahm,Hans,m
+3356,3356,NA,Strässle,Robert,m
+3357,3357,NA,Straub,Bendicht,m
+3358,3358,NA,Straub,Robert,m
+3359,3359,NA,Sträuli,Hans,m
+3360,3360,NA,Straumann,Hermann,m
+3361,3361,NA,Strebel,Charles,m
+3362,3362,NA,Strebel,Josef Jakob,m
+3363,3363,NA,Streuli,Hans,m
+3364,3364,NA,Streuli,Rudolf,m
+3365,3365,NA,Strub,Heinrich O.,m
+3366,3366,NA,Stuber,Friedrich,m
+3367,3367,NA,Stucki,Fridolin,m
+3368,3368,NA,Stucki,Robert,m
+3369,3369,NA,Stucki,Walter,m
+3370,3370,NA,Studer,Ernst,m
+3371,3371,NA,Studer,Friedrich Hartmann,m
+3372,3372,NA,Studer,Heinrich,m
+3373,3373,NA,Studer,Max,m
+3374,3374,NA,Studer,Otto,m
+3375,3375,NA,Studler,Albert,m
+3376,3376,NA,Stünzi,Walter,m
+3377,3377,NA,Sturzenegger,Johann Jakob,m
+3378,3378,NA,Stüssi,Rudolf,m
+3379,3379,NA,Stutz,Johann Jakob,m
+3380,3380,NA,Stutz,Josef,m
+3381,3381,NA,Styger,Karl,m
+3382,3382,NA,Sulzberger,Johann Ludwig,m
+3383,3383,NA,Sulzer,Carl J.,m
+3384,3384,NA,Sulzer,Eduard,m
+3385,3385,NA,Sulzer,Johann Jakob,m
+3386,3386,NA,Surbeck,Johann,m
+3387,3387,NA,Suter,Adolf,m
+3388,3388,NA,Suter,G. August,m
+3389,3389,NA,Suter,Hans,m
+3390,3390,NA,Suter,J. Eduard,m
+3391,3391,NA,Suter,Joh. Rudolf,m
+3392,3392,NA,Suter,Johannes,m
+3393,3393,NA,Suter,Peter,m
+3394,3394,NA,Sutter,Johann Jakob,m
+3395,3395,NA,Sutter,Johann Ulrich,m
+3396,3396,NA,Sutter,Joseph Anton,m
+3397,3397,NA,Syfrig,Arnold,m
+3398,3398,NA,Syz,John,m
+3399,3399,NA,Tanner,Carl,m
+3400,3400,NA,Tanner,Fritz,m
+3401,3401,NA,Tanner,Johann Georg,m
+3402,3402,NA,Tanner,Johann Heinrich,m
+3403,3403,NA,Tanner,Karl Rudolf,m
+3404,3404,NA,Tanner,Paul,m
+3405,3405,NA,Tarchini,Angelo,m
+3406,3406,NA,Tatti,Pierino,m
+3407,3407,NA,Teuscher,Wilhelm Joh.,m
+3408,3408,NA,Thalmann,Ernst-Alfred,m
+3409,3409,NA,Thalmann,Hanny,f
+3410,3410,NA,Theiler,Hans,m
+3411,3411,NA,Theiler,Marianus,m
+3412,3412,NA,Thélin,Adrien F.-H.,m
+3413,3413,NA,Thélin,Henri-A.-F.,m
+3414,3414,NA,Theraulaz,Alphonse,m
+3415,3415,NA,Theus,Arno,m
+3416,3416,NA,Thoma,Thomas,m
+3417,3417,NA,Thomas,P. Hugues,m
+3418,3418,NA,Thommen,Gedeon,m
+3419,3419,NA,Thury,François,m
+3420,3420,NA,Tissières,Jules G.-A.,m
+3421,3421,NA,Tissières,Rodolphe,m
+3422,3422,NA,Tissot,Charles Emile,m
+3423,3423,NA,Tobler,Christoph,m
+3424,3424,NA,Tobler,Ernst,m
+3425,3425,NA,Tobler,Robert,m
+3426,3426,NA,Tobler,Titus,m
+3427,3427,NA,Toggenburg,Rudolf,m
+3428,3428,NA,Torche,Fernand,m
+3429,3429,NA,Torche,Paul,m
+3430,3430,NA,Torrent,Joseph,m
+3431,3431,NA,Torrenté,Henri-Ch.-Jos.,m
+3432,3432,NA,Tourte,Abraham-L.,m
+3433,3433,NA,Traveletti,Adolphe,m
+3434,3434,NA,Treichler,Johann Jakob,m
+3435,3435,NA,Triebold,Erwin,m
+3436,3436,NA,Triquet,Alexandre,m
+3437,3437,NA,Trog,Franz Joh.,m
+3438,3438,NA,Trog,Johann Jakob,m
+3439,3439,NA,Troillet,Maurice,m
+3440,3440,NA,Trüb,Walther,m
+3441,3441,NA,Trümpy,Hans,m
+3442,3442,NA,Trümpy,Heinrich,m
+3443,3443,NA,Trümpy,Johannes,m
+3444,3444,NA,Tschamper,Otto,m
+3445,3445,NA,Tschannen,Bendicht,m
+3446,3446,NA,Tschanz,Hans,m
+3447,3447,NA,Tschäppät,Reynold,m
+3448,3448,NA,Tscharner,Joh. Baptist Friedrich,m
+3449,3449,NA,Tschopp,Josef,m
+3450,3450,NA,Tschudi,Hans-Peter,m
+3451,3451,NA,Tschudi,Niklaus,m
+3452,3452,NA,Tschudy,Rudolf,m
+3453,3453,NA,Tschumi,Hans,m
+3454,3454,NA,Tschumi,Hans,m
+3455,3455,NA,Tuchschmid,Walter,m
+3456,3456,NA,Turrettini,Auguste-E.,m
+3457,3457,NA,Turrettini,Thédore-E.-B.,m
+3458,3458,NA,Ueltschi,Hans,m
+3459,3459,NA,Ueltschi,Johann,m
+3460,3460,NA,Uhlmann,Jacques,m
+3461,3461,NA,Uhr,Johann,m
+3462,3462,NA,Ullmann,Erich,m
+3463,3463,NA,Ullmann,Oskar,m
+3464,3464,NA,Ulrich,Clemenz,m
+3465,3465,NA,Urech,Rudolf,m
+3466,3466,NA,Urech,Willy,m
+3467,3467,NA,Ursprung,Albert,m
+3468,3468,NA,Ursprung,Gustav Adolf,m
+3469,3469,NA,Usteri,Paul K. E.,m
+3470,3470,NA,Vallotton,Henri-François-Jules,m
+3471,3471,NA,Vassalli,Francesco,m
+3472,3472,NA,Vaterlaus,Ernst,m
+3473,3473,NA,Vaucher,J.-H.-Alfred,m
+3474,3474,NA,Vautier,Jules,m
+3475,3475,NA,Vautier,Moïse,m
+3476,3476,NA,Veillon,C.-J.-François,m
+3477,3477,NA,Verda,Alberto,m
+3478,3478,NA,Verdan,D. Frédéric,m
+3479,3479,NA,Vessaz,Ph.-Antoine,m
+3480,3480,NA,Vetsch,Florian,m
+3481,3481,NA,Vicari,Natale,m
+3482,3482,NA,Vieli,Josef,m
+3483,3483,NA,Vieli,Ludwig Anton,m
+3484,3484,NA,Vigier,Jos. Wilhelm V.,m
+3485,3485,NA,Vigier,Wilhelm,m
+3486,3486,NA,Vigizzi,Alberto,m
+3487,3487,NA,Villard,Arthur,m
+3488,3488,NA,Villard,René,m
+3489,3489,NA,Vincent,Alfred-L.,m
+3490,3490,NA,Vincent,Jean,m
+3491,3491,NA,Viquerat,Jacques-François,m
+3492,3492,NA,Virchaux,P. Gustave,m
+3493,3493,NA,Viret,Henri-Auguste,m
+3494,3494,NA,Vissaula,Karl,m
+3495,3495,NA,Vital,Andreas,m
+3496,3496,NA,Vittel,Charles-G.-D.,m
+3497,3497,NA,Vodoz,Antoine,m
+3498,3498,NA,Vogel,Johann Rudolf,m
+3499,3499,NA,Vögelin,Fr. Salomon,m
+3500,3500,NA,Vogelsanger,Jakob J.,m
+3501,3501,NA,Vogler,Martin,m
+3502,3502,NA,Vogt,Carl-Ch.,m
+3503,3503,NA,Vogt,Werner,m
+3504,3504,NA,Vögtle,Johann,m
+3505,3505,NA,Vollenweider,Jakob,m
+3506,3506,NA,Volonterio,Giuseppe,m
+3507,3507,NA,von Albertini,Thomas,m
+3508,3508,NA,von Almen,Fritz,m
+3509,3509,NA,von Arx,Adrian jun.,m
+3510,3510,NA,von Arx,Adrian sen.,m
+3511,3511,NA,von Arx,Bendicht,m
+3512,3512,NA,von Arx,Casimir,m
+3513,3513,NA,von Arx,Kurt,m
+3514,3514,NA,von Blarer,Anton,m
+3515,3515,NA,von Blarer,Karl,m
+3516,3516,NA,von Büren,Otto R.,m
+3517,3517,NA,von der Aa,Albert,m
+3518,3518,NA,von der Weid,Alfred,m
+3519,3519,NA,von Fischer,Ludwig,m
+3520,3520,NA,von Gonzenbach,D. L. August,m
+3521,3521,NA,von Gonzenbach,Karl Emil V.,m
+3522,3522,NA,von Graffenried,K. Wilhelm,m
+3523,3523,NA,von Greyerz,Walo,m
+3524,3524,NA,von Hettlingen,Anton,m
+3525,3525,NA,von Hettlingen,Joseph M.,m
+3526,3526,NA,von Hoffmann,Joseph Marzell,m
+3527,3527,NA,von Känel,Peter,m
+3528,3528,NA,von Matt,Hans jun.,m
+3529,3529,NA,von Matt,Hans sen.,m
+3530,3530,NA,von Moos,Ludwig,m
+3531,3531,NA,von Planta,Alfred,m
+3532,3532,NA,von Planta,Andreas Rudolf,m
+3533,3533,NA,von Planta,Peter Conradin,m
+3534,3534,NA,von Reding,Nazar,m
+3535,3535,NA,von Reding,Rudolf,m
+3536,3536,NA,von Roten,Hans Anton,m
+3537,3537,NA,von Roten,Heinrich,m
+3538,3538,NA,von Roten,Leo Luzian,m
+3539,3539,NA,von Roten,Peter,m
+3540,3540,NA,von Salis,Joh. Gaudenz,m
+3541,3541,NA,von Schmid,Karl,m
+3542,3542,NA,von Schorno,Karl,m
+3543,3543,NA,von Schumacher,Edmund,m
+3544,3544,NA,von Segesser,Philipp Anton,m
+3545,3545,NA,von Sprecher,Hermann Jakob U.,m
+3546,3546,NA,von Sprecher,Johann Andreas,m
+3547,3547,NA,von Steiger,Adolf A. A.,m
+3548,3548,NA,von Steiger,Eduard,m
+3549,3549,NA,von Steiger,K. Fr. Edmund,m
+3550,3550,NA,von Streng,Alfons,m
+3551,3551,NA,von Streng,Johann Baptist,m
+3552,3552,NA,von Tillier,Johann Anton,m
+3553,3553,NA,von Toggenburg,Johann Rudolf,m
+3554,3554,NA,von Tschudi,Nikl. Friedrich,m
+3555,3555,NA,von Waldkirch,Eduard,m
+3556,3556,NA,von Wattenwyl,Jean,m
+3557,3557,NA,von Weber,Karl,m
+3558,3558,NA,von Werdt,Friedrich K. G.,m
+3559,3559,NA,von Ziegler,Hans,m
+3560,3560,NA,Vonmatt,Josef,m
+3561,3561,NA,Vonmentlen,Carlo,m
+3562,3562,NA,Vonmoos,Johann,m
+3563,3563,NA,Vontobel,William,m
+3564,3564,NA,Vourloud,Abraham-N.,m
+3565,3565,NA,Vuichoud,Emile,m
+3566,3566,NA,Vuille,Ernest,m
+3567,3567,NA,Vuy,Jules-J.-F.-M.,m
+3568,3568,NA,Wäffler,Rudolf Fr.,m
+3569,3569,NA,Wagner,Arnold,m
+3570,3570,NA,Wagner,Ernst,m
+3571,3571,NA,Wagner,Robert,m
+3572,3572,NA,Wahlen,Friedrich Traugott,m
+3573,3573,NA,Walder,Hermann,m
+3574,3574,NA,Walder,Jakob,m
+3575,3575,NA,Waldner,Fritz,m
+3576,3576,NA,Waldvogel,Erwin,m
+3577,3577,NA,Waldvogel,Traugott,m
+3578,3578,NA,Walker,Ludwig,m
+3579,3579,NA,Waller,Franz,m
+3580,3580,NA,Walser,Eduard,m
+3581,3581,NA,Walter,Ernst,m
+3582,3582,NA,Walter,Otto,m
+3583,3583,NA,Walther,Heinrich,m
+3584,3584,NA,Wander,Georg,m
+3585,3585,NA,Wanner,Hermann,m
+3586,3586,NA,Wanner,Samuel,m
+3587,3587,NA,Wapf,Anton,m
+3588,3588,NA,Wartmann,Jakob Hermann,m
+3589,3589,NA,Wartmann,Otto,m
+3590,3590,NA,Wartmann,Rudolf,m
+3591,3591,NA,Wattenhofer,Johann,m
+3592,3592,NA,Weber,Alwin,m
+3593,3593,NA,Weber,Ernst,m
+3594,3594,NA,Weber,Hans,m
+3595,3595,NA,Weber,Hans,m
+3596,3596,NA,Weber,Heinrich Otto,m
+3597,3597,NA,Weber,Jakob Rudolf,m
+3598,3598,NA,Weber,Joachim,m
+3599,3599,NA,Weber,Johann,m
+3600,3600,NA,Weber,Joseph,m
+3601,3601,NA,Weber,Jost,m
+3602,3602,NA,Weber,Leo Jos.,m
+3603,3603,NA,Weber,Max,m
+3604,3604,NA,Weber,Robert,m
+3605,3605,NA,Weber,Werner J.,m
+3606,3606,NA,Weck,Bernard,m
+3607,3607,NA,Weder,Johann Baptist,m
+3608,3608,NA,Weibel,Jos. Leonz,m
+3609,3609,NA,Weibel,Josef,m
+3610,3610,NA,Weibel,Rainer,m
+3611,3611,NA,Weidmann,Felix,m
+3612,3612,NA,Weingart,Joh. August,m
+3613,3613,NA,Weisflog,Heinrich-Julius,m
+3614,3614,NA,Weissenbach,Placidus jun.,m
+3615,3615,NA,Weissenbach,Placidus sen.,m
+3616,3616,NA,Weissenbach,Robert,m
+3617,3617,NA,Weisskopf,Erich,m
+3618,3618,NA,Welter,Rudolf,m
+3619,3619,NA,Welti,Adolf,m
+3620,3620,NA,Welti,Fr. Emil,m
+3621,3621,NA,Welti,Franz,m
+3622,3622,NA,Wenger,J.-P.-Louis,m
+3623,3623,NA,Wenger,Otto M.,m
+3624,3624,NA,Wenk,Gustav,m
+3625,3625,NA,Wenk,Willi,m
+3626,3626,NA,Werro,François-Romain,m
+3627,3627,NA,Wessel,J.-M.-Albert,m
+3628,3628,NA,Wetter,Ernst,m
+3629,3629,NA,Wettstein,Oskar,m
+3630,3630,NA,Wey,Max Sigmund,m
+3631,3631,NA,Weyermann,Albrecht,m
+3632,3632,NA,Wick,Karl,m
+3633,3633,NA,Widmer,Bernhard,m
+3634,3634,NA,Widmer,Franz,m
+3635,3635,NA,Widmer,Franz Xaver,m
+3636,3636,NA,Widmer,Hans-Gottlieb,m
+3637,3637,NA,Widmer,Joh. Jakob,m
+3638,3638,NA,Widmer,K. Arthur,m
+3639,3639,NA,Widmer-Kunz,Walter,m
+3640,3640,NA,Wiedmer,Woldemar,m
+3641,3641,NA,Wieland,Johann Jakob,m
+3642,3642,NA,Wild,Johannes,m
+3643,3643,NA,Wild,Karl Emil,m
+3644,3644,NA,Wildi,Samuel,m
+3645,3645,NA,Will,Eduard,m
+3646,3646,NA,Willemin,J.-Louis,m
+3647,3647,NA,Willi,Georg,m
+3648,3648,NA,Winiger,Josef,m
+3649,3649,NA,Winiker,Vinzenz,m
+3650,3650,NA,Winkler,Johann,m
+3651,3651,NA,Winzeler,Johannes,m
+3652,3652,NA,Wipfli,Emil,m
+3653,3653,NA,Wipfli,Josef,m
+3654,3654,NA,Wirth,Daniel,m
+3655,3655,NA,Wirz,Adalbert,m
+3656,3656,NA,Wirz,Franz,m
+3657,3657,NA,Wirz,Hans,m
+3658,3658,NA,Wirz,Robert,m
+3659,3659,NA,Wirz,Theodor,m
+3660,3660,NA,Woog,Edgar,m
+3661,3661,NA,Wüest,Friedrich,m
+3662,3662,NA,Wuilliamoz,Albert,m
+3663,3663,NA,Wulliémoz,Paul Ch.,m
+3664,3664,NA,Wullschleger,Eugen,m
+3665,3665,NA,Wunderli,Hans,m
+3666,3666,NA,Wunderli,Karl J.,m
+3667,3667,NA,Würth,Jos. Felix Marin,m
+3668,3668,NA,Wüthrich,Ernst,m
+3669,3669,NA,Wüthrich,Fritz-Charles,m
+3670,3670,NA,Wyler,Didier,m
+3671,3671,NA,Wyrsch,Alfred,m
+3672,3672,NA,Wyrsch,Alois (Louis),m
+3673,3673,NA,Wyrsch,Jakob Konst.,m
+3674,3674,NA,Wyrsch,Melchior Jos.,m
+3675,3675,NA,Wyss,Edmund,m
+3676,3676,NA,Wyss,Ludwig,m
+3677,3677,NA,Wyss,S. J. Ernst,m
+3678,3678,NA,Yersin,Jean,m
+3679,3679,NA,Zaccheo,Benigno,m
+3680,3680,NA,Zangger,Hans Rudolf,m
+3681,3681,NA,Zangger,J. Heinrich,m
+3682,3682,NA,Zehnder,Alois,m
+3683,3683,NA,Zelger,Walter,m
+3684,3684,NA,Zeli,Edoardo,m
+3685,3685,NA,Zeller,Andreas,m
+3686,3686,NA,Zellweger,Eduard,m
+3687,3687,NA,Zemp,Joseph,m
+3688,3688,NA,Zenruffinen,Ignaz,m
+3689,3689,NA,Zenruffinen,Julius,m
+3690,3690,NA,Zermatten,Joseph,m
+3691,3691,NA,Z'graggen,Max Johann,m
+3692,3692,NA,Ziegler,Gottlieb,m
+3693,3693,NA,Ziegler,Julius C.,m
+3694,3694,NA,Ziegler,Paul Karl Eduard,m
+3695,3695,NA,Ziegler,Theodor,m
+3696,3696,NA,Zigerli,Paul,m
+3697,3697,NA,Zimmerli,Jakob,m
+3698,3698,NA,Zimmermann,Balthasar,m
+3699,3699,NA,Zimmermann,Jakob,m
+3700,3700,NA,Zimmermann,Johann,m
+3701,3701,NA,Zingg,Jakob,m
+3702,3702,NA,Zingg,Johann Jakob L.,m
+3703,3703,NA,Zingg,Josef,m
+3704,3704,NA,Zinggeler,Rudolf,m
+3705,3705,NA,Zoller,Otto,m
+3706,3706,NA,Zschokke,F. V. Konradin,m
+3707,3707,NA,Zschokke,P. Olivier,m
+3708,3708,NA,Zschokke,Richard,m
+3709,3709,NA,Zuberbühler,Frédéric Auguste,m
+3710,3710,NA,Zuberbühler,Johannes,m
+3711,3711,NA,Züblin,Johannes,m
+3712,3712,NA,Zumbühl,Anton,m
+3713,3713,NA,Zumstein,Fritz,m
+3714,3714,NA,Zündt,Johannes,m
+3715,3715,NA,Zurbuchen,Mathäus,m
+3716,3716,NA,Zurburg,Karl A.,m
+3717,3717,NA,Zürcher,Adolf Friedrich,m
+3718,3718,NA,Zürcher,Emil J. J.,m
+3719,3719,NA,Zürcher,Johann,m
+3720,3720,NA,Zurlinden,Gaspard-J.,m
+3721,3721,NA,Zust,Albert,m
+3722,3722,NA,Zust,Franz Karl,m
+3723,3723,NA,Zweifel,Esaja,m
+3724,3724,NA,Zweifel,Ludwig,m
+3725,3725,NA,Zweifel,Peter,m
+3726,3726,NA,Zwygart,Otto (senior),m
+3727,3727,NA,Zyro,Carl Sam.,m
+3828,3828,2664,Cassis,Ignazio,m
+3829,3829,2665,Tschümperlin,Andy,m
+3830,3830,2666,Carobbio Guscetti,Marina,f
+3831,3831,2667,Bischofberger,Ivo,m
+3833,3833,2668,Aubert,Josiane,f
+3865,3865,2669,Steiert,Jean-François,m
+3867,3867,2670,Aebi,Andreas,m
+3868,3868,2671,Amacker-Amann,Kathrin,f
+3869,3869,2672,Bänziger,Marlies,f
+3870,3870,2673,Baettig,Dominique,m
+3871,3871,2674,Bischof,Pirmin,m
+3872,3872,2675,Bourgeois,Jacques,m
+3873,3873,2677,Caviezel,Tarzisius,m
+3874,3874,2676,Egger-Wyss,Esther,f
+3875,3875,2678,Eichenberger-Walther,Corina,f
+3876,3876,2679,Estermann,Yvette,f
+3877,3877,2680,Fiala,Doris,f
+3878,3878,2681,Flückiger-Bäni,Sylvia,f
+3879,3879,2682,Français,Olivier,m
+3880,3880,2683,Geissbühler,Andrea Martina,f
+3881,3881,2684,Gilli,Yvonne,f
+3882,3882,2685,Girod,Bastien,m
+3883,3883,2686,Glauser-Zufferey,Alice,f
+3884,3884,2687,Graber,Jean-Pierre,m
+3885,3885,2688,Grin,Jean-Pierre,m
+3886,3886,2689,Grunder,Hans,m
+3887,3887,2690,Heer,Alfred,m
+3888,3888,2691,Hiltpold,Hugues,m
+3889,3889,2692,Hodgers,Antonio,m
+3890,3890,2693,Hurter,Thomas,m
+3891,3891,2694,Jositsch,Daniel,m
+3892,3892,2695,Killer,Hans,m
+3893,3893,2696,Lachenmeier-Thüring,Anita,f
+3894,3894,2697,Lumengo,Ricardo,m
+3895,3895,2698,Lüscher,Christian,m
+3896,3896,2699,Malama,Peter,m
+3897,3897,2700,Moser,Tiana Angelina,f
+3898,3898,2701,Nidegger,Yves,m
+3899,3899,2702,Nussbaumer,Eric,m
+3900,3900,2703,Perrinjaquet,Sylvie,f
+3901,3901,2704,Reimann,Lukas,m
+3902,3902,2705,Rickli,Natalie,f
+3903,3903,2706,Rielle,Jean-Charles,m
+3904,3904,2707,Schmid-Federer,Barbara,f
+3905,3905,2708,Schmidt,Roberto,m
+3906,3906,2709,Segmüller,Pius,m
+3907,3907,2710,Thorens Goumaz,Adèle,f
+3908,3908,2711,von Graffenried,Alec,m
+3909,3909,2712,von Rotz,Christoph,m
+3910,3910,2713,von Siebenthal,Erich,m
+3911,3911,2714,Voruz,Eric,m
+3912,3912,2715,Wasserfallen,Christian,m
+3913,3913,2716,Wyss,Brigit,f
+3914,3914,2717,Cramer,Robert,m
+3915,3915,2718,Fournier,Jean-René,m
+3916,3916,2719,Hêche,Claude,m
+3917,3917,2720,Imoberdorf,René,m
+3918,3918,2721,Luginbühl,Werner,m
+3919,3919,2722,Niederberger,Paul,m
+3920,3920,2723,Seydoux-Christe,Anne,f
+3921,3921,2724,Graber,Konrad,m
+3922,3922,2725,Favre,Laurent,m
+3923,3923,2726,Marra,Ada,f
+3924,3924,2727,van Singer,Christian,m
+3931,3931,2728,Weibel,Thomas,m
+3934,3934,2730,Widmer-Schlumpf,Eveline,f
+3939,3939,2729,Freitag,Pankraz,m
+3990,3990,NA,Lanz,Christoph,m
+3991,3991,3111,Helbling,Thomas,m
+3999,3999,2732,Prelicz-Huber,Katharina,f
+4001,4001,2733,Weber-Gobet,Marie-Thérèse,f
+4007,4007,2734,Chopard-Acklin,Max,m
+4008,4008,2735,Landolt,Martin,m
+4010,4010,2736,Simonazzi,André,m
+4014,4014,2737,Brönnimann,Andreas,m
+4018,4018,2738,Maire,Jacques-André,m
+4024,4024,2739,Gobbi,Norman,m
+4025,4025,2740,Büchel,Roland Rino,m
+4026,4026,2741,Comte,Raphaël,m
+4027,4027,2742,Roux,Paul-André,m
+4030,4030,2743,Birrer-Heimo,Prisca,f
+4031,4031,2744,Ingold,Maja,f
+4032,4032,2745,Jans,Beat,m
+4033,4033,2746,Stadler,Markus,m
+4036,4036,2747,Streiff-Feller,Marianne,f
+4040,4040,2748,Schneider-Schneiter,Elisabeth,f
+4041,4041,2749,Flück,Peter,m
+4042,4042,2750,Frehner,Sebastian,m
+4043,4043,NA,Sauvant,Jean-Marc,m
+4044,4044,NA,Buser,Walter,m
+4045,4045,2751,Pardini,Corrado,m
+4046,4046,2752,Quadri,Lorenzo,m
+4047,4047,2753,Fuchs,Thomas,m
+4048,4048,2755,Rusconi,Pierre,m
+4049,4049,2760,Aebischer,Matthias,m
+4050,4050,2756,Böhni,Thomas,m
+4051,4051,2757,de Courten,Thomas,m
+4052,4052,2754,Ritter,Markus,m
+4053,4053,2758,Aeschi,Thomas,m
+4054,4054,2761,Vitali,Albert,m
+4055,4055,2768,Engler,Stefan,m
+4056,4056,2767,Fässler,Daniel,m
+4057,4057,2759,Wermuth,Cédric,m
+4058,4058,2762,Badran,Jacqueline,f
+4059,4059,2765,Flach,Beat,m
+4060,4060,2766,Schneeberger,Daniela,f
+4061,4061,2763,Hardegger,Thomas,m
+4062,4062,2769,Keller-Sutter,Karin,f
+4063,4063,2771,Müller-Altermatt,Stefan,m
+4064,4064,2780,Eder,Joachim,m
+4065,4065,2781,Umbricht Pieren,Nadja,f
+4066,4066,2779,Quadranti,Rosmarie,f
+4067,4067,2772,Brand,Heinz,m
+4068,4068,2774,Eberle,Roland,m
+4069,4069,2777,Feri,Yvonne,f
+4070,4070,2770,Candinas,Martin,m
+4071,4071,2764,Gasche,Urs,m
+4072,4072,2776,Regazzi,Fabio,m
+4073,4073,2773,Pantani,Roberta,f
+4074,4074,2778,Fridez,Pierre-Alain,m
+4075,4075,2775,Caroni,Andrea,m
+4076,4076,2792,Hadorn,Philipp,m
+4077,4077,2789,Feller,Olivier,m
+4078,4078,2783,Schmid,Martin,m
+4079,4079,2788,Derder,Fathi,m
+4081,4081,2782,Kessler,Margrit,f
+4082,4082,2785,Guhl,Bernhard,m
+4083,4083,2786,Grossen,Jürg,m
+4084,4084,2784,Pezzatti,Bruno,m
+4085,4085,2787,Vogler,Karl,m
+4086,4086,2790,Buttet,Yannick,m
+4087,4087,2798,Gschwind,Jean-Paul,m
+4088,4088,2793,Baumann,Isidor,m
+4089,4089,2794,Fischer,Roland,m
+4090,4090,2796,Amaudruz,Céline,f
+4091,4091,2795,Reynard,Mathias,m
+4092,4092,2797,Poggia,Mauro,m
+4093,4093,3003,Glättli,Balthasar,m
+4094,4094,2799,Hess,Lorenz,m
+4095,4095,3000,Rytz,Regula,f
+4096,4096,3001,Gmür,Alois,m
+4097,4097,3012,Müller,Leo,m
+4098,4098,3013,Keller,Peter,m
+4099,4099,3011,Lehmann,Markus,m
+4100,4100,3010,Rösti,Albert,m
+4101,4101,3017,Bulliard-Marbach,Christine,f
+4102,4102,3016,Bertschy,Kathrin,f
+4103,4103,3002,Hausammann,Markus,m
+4104,4104,3015,Gasser,Josias F.,m
+4105,4105,3008,Ziörjen,Lothar,m
+4106,4106,3018,Naef,Martin,m
+4107,4107,3014,Amarelle,Cesla,f
+4108,4108,3604,Chevalley,Isabelle,f
+4109,4109,3009,Piller Carrard,Valérie,f
+4110,4110,3005,Egloff,Hans,m
+4111,4111,3006,Ribaux,Alain,m
+4112,4112,3019,Minder,Thomas,m
+4113,4113,3007,Tornare,Manuel,m
+4114,4114,3021,Knecht,Hansjörg,m
+4115,4115,3020,Schwaab,Jean Christophe,m
+4116,4116,3023,Gössi,Petra,f
+4117,4117,3022,Maier,Thomas,m
+4118,4118,3024,Lohr,Christian,m
+4120,4120,3025,Romano,Marco,m
+4121,4121,3026,Gysi,Barbara,f
+4122,4122,3027,Schläfli,Urs,m
+4123,4123,3028,Schneider Schüttel,Ursula,f
+4124,4124,3029,Schilliger,Peter,m
+4125,4125,3030,Rutz,Gregor,m
+4126,4126,3031,Stolz,Daniel,m
+4127,4127,NA,Schwab,Philippe,m
+4128,4128,3032,Trede,Aline,f
+4129,4129,3033,Herzog,Verena,f
+4130,4130,3034,Masshardt,Nadine,f
+4131,4131,3035,Friedl,Claudia,f
+4133,4133,NA,Buol,Martina,f
+4134,4134,3036,Munz,Martina,f
+4135,4135,3037,Clottu,Raymond,m
+4136,4136,3038,Mahrer,Anne,f
+4137,4137,3039,Golay,Roger,m
+4138,4138,3040,Barazzone,Guillaume,m
+4139,4139,3041,Hefti,Thomas,m
+4140,4140,3042,Merlini,Giovanni,m
+4141,4141,3043,Portmann,Hans-Peter,m
+4142,4142,3044,Walti,Beat,m
+4143,4143,3045,Ruiz,Rebecca Ana,f
+4144,4144,3046,Matter,Thomas,m
+4145,4145,3047,Hösli,Werner,m
+4146,4146,3048,Siegenthaler,Heinz,m
+4147,4147,3049,Monnard,Pierre-André,m
+4148,4148,3050,Winkler,Rudolf,m
+4149,4149,3051,Häsler,Christine,f
+4151,4151,3052,Dittli,Josef,m
+4152,4152,3054,Wicki,Hans,m
+4153,4153,3053,Hegglin,Peter,m
+4154,4154,3055,Addor,Jean-Luc,m
+4155,4155,3057,Arnold,Beat,m
+4156,4156,3062,Buffat,Michaël,m
+4157,4157,3063,Bühler,Manfred,m
+4158,4158,3064,Burgherr,Thomas,m
+4159,4159,3067,Chiesa,Marco,m
+4160,4160,3069,Dettling,Marcel,m
+4161,4161,3074,Glarner,Andreas,m
+4162,4162,3076,Grüter,Franz,m
+4163,4163,3078,Hess,Erich,m
+4164,4164,3080,Imark,Christian,m
+4165,4165,3081,Keller-Inhelder,Barbara,f
+4166,4166,3082,Köppel,Roger,m
+4167,4167,3085,Martullo-Blocher,Magdalena,f
+4168,4168,3089,Nicolet,Jacques,m
+4169,4169,3090,Page,Pierre-André,m
+4170,4170,3091,Ruppen,Franz,m
+4172,4172,3092,Salzmann,Werner,m
+4173,4173,3095,Sollberger,Sandra,f
+4174,4174,3096,Steinemann,Barbara,f
+4175,4175,3097,Tuena,Mauro,m
+4176,4176,3098,Vogt,Hans-Ueli,m
+4177,4177,3099,Walliser,Bruno,m
+4178,4178,3101,Zanetti,Claudio,m
+4179,4179,3102,Zuberbühler,David,m
+4180,4180,3056,Ammann,Thomas,m
+4181,4181,3075,Gmür-Schönenberger,Andrea,f
+4182,4182,3060,Béglé,Claude,m
+4183,4183,3083,Marchand-Balet,Géraldine,f
+4184,4184,3058,Arslan,Sibel,f
+4185,4185,3072,Fricker,Jonas,m
+4186,4186,3086,Mazzone,Lisa,f
+4187,4187,3059,Bauer,Philippe,m
+4188,4188,3061,Borloz,Frédéric,m
+4189,4189,3065,Burkart,Thierry,m
+4190,4190,3070,Dobler,Marcel,m
+4191,4191,3073,Genecand,Benoît,m
+4192,4192,3079,Hess,Hermann,m
+4193,4193,3088,Nantermod,Philippe,m
+4194,4194,3100,Wehrli,Laurent,m
+4195,4195,3071,Fehlmann Rielle,Laurence,f
+4196,4196,3077,Guldimann,Tim,m
+4197,4197,3084,Marti,Min Li,f
+4198,4198,3087,Meyer,Mattea,f
+4199,4199,3094,Seiler Graf,Priska,f
+4200,4200,3066,Campell,Duri,m
+4201,4201,3068,de la Reussille,Denis,m
+4202,4202,3103,Sauter,Regine,f
+4203,4203,3104,Barrile,Angelo,m
+4204,4204,3105,Rieder,Beat,m
+4205,4205,3106,Vonlanthen,Beat,m
+4206,4206,3107,Ettlin,Erich,m
+4207,4207,3108,Müller,Damian,m
+4208,4208,3109,Jauslin,Matthias Samuel,m
+4209,4209,3110,Bigler,Hans-Ulrich,m
+4210,4210,3112,Thurnherr,Walter,m
+4211,4211,3093,De Bernardi,Jörg,m
+4212,4212,3113,Egger,Thomas,m
+4213,4213,3114,Bendahan,Samuel,m
+4214,4214,3115,Gugger,Niklaus-Samuel,m
+4215,4215,3116,Brunner,Hansjörg,m
+4216,4216,3117,Gutjahr,Diana,f
+4217,4217,3118,Cattaneo,Rocco,m
+4218,4218,3119,Kälin,Irène,f
+4219,4219,3120,Crottaz,Brigitte,f
+4220,4220,3121,Roduit,Benjamin,m
+4221,4221,3122,Töngi,Michael,m
+4222,4222,3123,Paganini,Nicolo,m
+4223,4223,3124,Molina,Fabian,m
+4224,4224,3125,Wasserfallen,Flavia,f
+4225,4225,3126,Kutter,Philipp,m
+4226,4226,3127,Wüthrich,Adrian,m
+4227,4227,3128,Frei,Daniel,m
+4228,4228,3129,Marti,Samira,f
+4229,4229,3130,Egger,Mike,m
+4230,4230,3131,Bregy,Philipp Matthias,m
+4231,4231,3132,Rossi,Viktor,m
+4232,4232,3133,Rochat Fernandez,Nicolas,m
+4234,4234,3135,Schläpfer,Therese,f
+4236,4236,3134,Haab,Martin,m
+4237,4237,3136,Würth,Benedikt,m
+4238,4238,3193,Baume-Schneider,Elisabeth,f
+4239,4239,3194,Herzog,Eva,f
+4240,4240,3195,Juillard,Charles,m
+4241,4241,3196,Stark,Jakob,m
+4242,4242,3197,Vara,Céline,f
+4243,4243,3198,Z'graggen,Heidi,f
+4244,4244,3199,Zopfi,Mathias,m
+4245,4245,3137,Andrey,Gerhard,m
+4246,4246,3138,Badertscher,Christine,f
+4247,4247,3139,Baumann,Kilian,m
+4248,4248,3140,Bellaïche,Judith,f
+4249,4249,3141,Binder-Keller,Marianne,f
+4250,4250,3142,Bircher,Martina,f
+4251,4251,3143,Brunner,Thomas,m
+4252,4252,3144,Christ,Katja,f
+4253,4253,3145,Clivaz,Christophe,m
+4254,4254,3146,Cottier,Damien,m
+4255,4255,3147,Dandrès,Christian,m
+4256,4256,3148,de Montmollin,Simone,f
+4257,4257,3149,de Quattro,Jacqueline,f
+4258,4258,3150,Egger,Kurt,m
+4259,4259,3151,Farinelli,Alex,m
+4260,4260,3152,Fivaz,Fabien,m
+4261,4261,3153,Friedli,Esther,f
+4262,4262,3154,Funiciello,Tamara,f
+4263,4263,3155,Gafner,Andreas,m
+4264,4264,3156,Gallati,Jean-Pierre,m
+4265,4265,3157,Giacometti,Anna,f
+4266,4266,3158,Giezendanner,Benjamin,m
+4267,4267,3159,Gredig,Corina,f
+4268,4268,3160,Gysin,Greta,f
+4270,4270,3162,Hurni,Baptiste,m
+4271,4271,3163,Kamerzin,Sidney,m
+4272,4272,3164,Klopfenstein Broggini,Delphine,f
+4273,4273,3165,Locher Benguerel,Sandra,f
+4274,4274,3166,Mäder,Jörg,m
+4275,4275,3167,Maitre,Vincent,m
+4276,4276,3168,Matter,Michel,m
+4277,4277,3169,Mettler,Melanie,f
+4278,4278,3170,Michaud Gigon,Sophie,f
+4279,4279,3171,Pointet,François,m
+4280,4280,3172,Porchet,Léonore,f
+4281,4281,3173,Pult,Jon,m
+4282,4282,3174,Rechsteiner,Thomas,m
+4283,4283,3175,Roth,Franziska,f
+4284,4284,3176,Roth Pasquier,Marie-France,f
+4285,4285,3177,Rüegger,Monika,f
+4286,4286,3178,Ryser,Franziska,f
+4287,4287,3179,Schaffner,Barbara,f
+4288,4288,3180,Schlatter,Marionna,f
+4289,4289,3181,Schneider,Meret,f
+4290,4290,3182,Silberschmidt,Andri,m
+4292,4292,3184,Stadler,Simon,m
+4293,4293,3185,Strupler,Manuel,m
+4294,4294,3186,Studer,Lilian,f
+4295,4295,3187,Suter,Gabriela,f
+4296,4296,3188,Vincenz-Stauffacher,Susanne,f
+4297,4297,3189,Walder,Nicolas,m
+4298,4298,3190,Weichelt-Picard,Manuela,f
+4299,4299,3191,Wettstein,Felix,m
+4300,4300,3192,Widmer,Céline,f
+4301,4301,3161,Prezioso Batou,Stefania,f
+4303,4303,3200,Maret,Marianne,f
+4304,4304,3201,Atici,Mustafa,m
+4305,4305,3202,Wismer-Felder,Priska,f
+4306,4306,3183,Gapany,Johanna,f
+4307,4307,3203,Python,Valentine,f
+4308,4308,3204,Pasquier-Eichenberger,Isabelle,f
+4309,4309,3205,Michel,Matthias,m
+4310,4310,3206,Guggisberg,Lars,m
+4311,4311,3207,Marchesi,Piero,m
+4312,4312,3208,Storni,Bruno,m
+4313,4313,3209,Riniker,Maja,f
+4314,4314,3210,Heimgartner,Stefanie,f
+4315,4315,3211,Brenzikofer,Florence,f
+4316,4316,3212,Reichmuth,Othmar,m
+4317,4317,3213,Huber,Alois,m
+4318,4318,3214,Wyss,Sarah,f
