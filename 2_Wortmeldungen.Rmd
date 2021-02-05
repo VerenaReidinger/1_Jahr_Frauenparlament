@@ -1,7 +1,7 @@
 ---
 title: "50 Jahre Frauenstimmrecht"
 author: "Patrick Meier"
-date: "07. Januar 2021"
+date: "05. Februar 2021"
 output:
   html_document:
     number_sections: false
@@ -22,22 +22,23 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE, results = "
 ```{r intro, message = FALSE}
 library(tidyverse)
 library(kableExtra) # nice tables
-library(DT) # also nice tables (not used)
-library(plotly)
-library(feather)
+library(DT) # also nice tables
+library(plotly) # interactive plots
+library(feather) # read data from python
 
 ## Set working directory ####
-setwd("WORKING_DIRECTORY")
-getwd()
+# setwd("WORKING_DIRECTORY")
+# getwd()
 
 ```
 
-
+```{r intro, message = FALSE}
+```
 ## Daten
 Die Daten kommen von der offiziellen Parlaments-Datenschnitstelle. 
-https://ws.parlament.ch/odata.svc/, bzw. https://pragmatiqa.com/xodata/odatadir.html)
+https://ws.parlament.ch/odata.svc/, bzw. https://pragmatiqa.com/xodata/odatadir.html)  
+Alle Daten werden mit den anderen Skripten in diesem Github Repository vorbereitet und im Ordner "data" zwischengespeichert. Von dort werden sie dann für diese Analyse wieder eingelesen.
 
-Ab der 46. Legislatur, bzw. der Wintersession 1999, sind wörtliche Protokolle aller Wortmeldungen, sowie Zeitangaben über Anfang und Ende der Wortmeldungen verfügbar. 
 ```{r}
 ## Alle Parlamentarier
 lkp_parl <- read_csv("data/parlamentarier_alle.csv") %>% select(-ID)
@@ -113,17 +114,7 @@ df_wort %>% filter(MeetingCouncilAbbreviation =="S") %>% select(CouncilName) %>%
 ```
 
 
-## Nationalrat
-
-### Frauenanteil
-gemäss https://de.wikipedia.org/wiki/Frauen_in_der_Politik#Schweiz
-```{r, results = "markup"}
-lkp_Anteile %>% ggplot(aes(x = Legislatur, y = FrauenanteilParlament, group = "")) +
-                geom_line() + 
-                ggtitle("Frauenanteil im Nationalrat\ [%]") +
-                ylim(0, 0.5)
-
-```
+## Analyse
 
 ```{r, results = "markup"}
 
@@ -238,8 +229,10 @@ mot_leg %>% DT::datatable(caption = 'Eingereichte Motionen pro Legislatur',
 ```
 
 
-### Redezeiten
-Berücksichtigt werden alle Wortmeldungen von Nationalräten im Nationalrat  
+### Frauenanteil im Nationalrat
+Berücksichtigt werden alle Wortmeldungen von Nationalräten im Nationalrat.  
+Ab der 46. Legislatur, bzw. der Wintersession 1999, sind wörtliche Protokolle aller Wortmeldungen, sowie Zeitangaben über Anfang und Ende der Wortmeldungen verfügbar.  
+
 ```{r, results = "markup"}
 
 ## Anzahl Wortmeldungen im Nationalrat
@@ -251,10 +244,10 @@ res_anzahl <- df_NR_nP %>% group_by(Legislatur, GenderAsString) %>%
                                        values_from = c("Anzahl", "Dauer", "AvgDauer", "Session_n")) %>% 
                            mutate(Anteil_f      = Anzahl_f / (Anzahl_f + Anzahl_m)) %>% 
                            mutate(Anteil_m      = Anzahl_m / (Anzahl_f + Anzahl_m)) %>% 
-                           mutate(Anteil_Zeit_f = Dauer_f  / (Dauer_f  + Dauer_m)) %>% 
-                           mutate(Anteil_Zeit_m = Dauer_m  / (Dauer_f  + Dauer_m)) %>% 
+                           mutate(Anteil_Zeit_f = Dauer_f  / (Dauer_f  + Dauer_m)) %>% # Anteil an der gesprochenen Zeit Frauen
+                           mutate(Anteil_Zeit_m = Dauer_m  / (Dauer_f  + Dauer_m)) %>% # Anteil an der gesprochenen Zeit Männer 
                            left_join(lkp_Anteile, by = "Legislatur") %>% 
-                           left_join(mot_leg[, c("Legislatur", "Mot_Anteil_f")], by = "Legislatur") %>% 
+                           left_join(mot_leg[, c("Legislatur", "Mot_Anteil_f")], by = "Legislatur") %>% # Ergänze Frauenanteil Motionen
                            mutate(soVielF = Dauer_f / (200*FrauenanteilParlament)) %>% ## So viel redet eine Durchschnittsfrau
                            mutate(soVielM = Dauer_m / (200*(1-FrauenanteilParlament))) ## So viel redet ein Durchschnittsmann
 
@@ -284,7 +277,7 @@ res_anzahl_long %>% filter(name %in% c("Anteil_Zeit_f",
 
 ```
 
-### wie viel reden m / f im Durchschnitt?
+### Wie viel reden m / f im Durchschnitt?
 ```{r, results = "markup"}
 
 res_anzahl_long %>% filter(name %in% c("soVielF", "soVielM")) %>%
@@ -353,13 +346,4 @@ p <- plot_NR %>% filter(Legislatur == 51) %>%
 ply <- ggplotly(p, tooltip = "text")
 ply
 
-```
-
-```{r}
-```
-
-```{r}
-```
-
-```{r}
 ```
