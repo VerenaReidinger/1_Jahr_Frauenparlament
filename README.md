@@ -1,6 +1,6 @@
 # 1 Jahr Frauenparlament
 
-### Analyse der Abstimmungen und eingereichten Motionen im Nationalrat
+### Analyse der Wortmeldungen und eingereichten Motionen im Nationalrat
 
 <!---
 optional folgendermassen Bild einfügen:
