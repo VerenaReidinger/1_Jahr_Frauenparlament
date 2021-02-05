@@ -11,7 +11,6 @@ Source: [Gage Skidmore](https://www.flickr.com/photos/gageskidmore/32758233090)>
 Kurzbeschreibung: ...
 
 #### 
-**Datenquelle(n)**:  [Offizielle API des Schweizer Parlamants](https://pragmatiqa.com/xodata/odatadir.html) 
 
 **Artikel**: Der Artikel wird am 06.02.2021 online auf [tagesanzeiger.ch publiziert.](https://www.tagesanzeiger.ch)
 
