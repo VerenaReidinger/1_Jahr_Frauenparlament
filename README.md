@@ -2,14 +2,11 @@
 
 ### Analyse der Wortmeldungen und eingereichten Motionen im Nationalrat
 
-<!---
-optional folgendermassen Bild einfügen:
-![Trump Hate](dt.png)
-Source: [Gage Skidmore](https://www.flickr.com/photos/gageskidmore/32758233090)>)
---->
+
+![Frauenparlament](https://interaktiv.tagesanzeiger.ch/2021/so-veraendern-die-frauen-das-bundeshaus/teaser.gif)
 
 
-**Artikel**: Der Artikel wird am 06.02.2021 online auf [tagesanzeiger.ch publiziert.](https://www.tagesanzeiger.ch)
+**Artikel**: [So verändern die Frauen das Bundeshaus](https://interaktiv.tagesanzeiger.ch/2021/so-veraendern-die-frauen-das-bundeshaus/) (6.2.2021)
 
 ## Daten
 
@@ -26,7 +23,7 @@ Als Grundlage diente die Datenbank des Parlaments, die über eine öffentliche A
 
 1. Wortmeldungen aus der API beziehen [(R Script)](1_API_Wortmeldungen.R)
 
-2. Wortmeldungen analysieren [(R Markdown)](2_Wortmeldungen.Rmd) [(hmtl Version)](https://interaktiv.tagesanzeiger.ch/datenteam/50_Jahre_FSR/1_Jahr_Frauenparlament.html)
+2. Wortmeldungen analysieren [(R Markdown)](2_Wortmeldungen.Rmd)
 
 3. Motionen aus der API beziehen [(Juypter Notebook)](3_API_Motionen.ipynb)
 
