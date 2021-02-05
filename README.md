@@ -38,8 +38,8 @@ Als Grundlage diente die Datenbank des Parlaments, die über eine öffentliche A
 Die aus der API bezogen Daten werden in den folgenden files im Ordner [data](data) zwischengespeichert:
 1. Alle Motionen von Einzelpersonen [(motionen_pp.feather)](data/motionen_pp.feather)
 2. Informationen über alle relevanten Parlamentarier[(parlamentarier_alle.csv)](data/parlamentarier_alle.csv)
-3. Informationen über alle relevanten Sessionen [(relevante_Sessionen.csv)](data/relevante_Sessionen.csv)
-
+3. Informationen über Legislatur 46 bis 51 [(relevante_Sessionen.csv)](data/relevante_Sessionen.csv)
+4. Metadaten aller Wortmeldungen der Legislaturen 46 bis 51, csv gezippt [(wortmeldungen_alle.zip)](data/wortmeldungen_alle.zip) 
 
 
 ## Analyse
