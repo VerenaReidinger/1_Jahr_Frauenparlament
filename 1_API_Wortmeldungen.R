@@ -19,7 +19,7 @@ temp_a <- jsonlite::fromJSON(content(r, "text"))
 df_session <- as_tibble(temp_a$d) %>% select(-c(`__metadata`, Meetings, LegislativePeriods, Businesses, Votes))
 
 # Sessionen speichern
-df_session %>% write_csv("Data/relevante_Sessionen.csv")
+df_session %>% write_csv("data/relevante_Sessionen.csv")
 
 
 
@@ -57,7 +57,7 @@ for(IdSession in df_session$ID){
 }
 
 # Wortmeldungen speichern
-df_wort %>% write_csv("Data/wortmeldungen_alle.csv")
+df_wort %>% write_csv("data/wortmeldungen_alle.csv")
 
 
 
@@ -90,5 +90,5 @@ while(run == 1){
   lkp_parl <- bind_rows(lkp_parl, temp_parl)
 }
 
-## Parlamentarier speichern
-lkp_parl %>% write_csv("Data/parlamentarier_alle.csv")
+# Parlamentarier speichern
+lkp_parl %>% write_csv("data/parlamentarier_alle.csv")
