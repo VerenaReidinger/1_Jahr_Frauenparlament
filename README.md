@@ -23,7 +23,7 @@ Als Grundlage diente die Datenbank des Parlaments, die über eine öffentliche A
 
 1. Wortmeldungen aus der API beziehen [(R Script)](1_API_Wortmeldungen.R)
 
-2. Wortmeldungen analysieren [(hml Version, ](https://interaktiv.tagesanzeiger.ch/datenteam/50_Jahre_FSR/1_Jahr_Frauenparlament.html) [R Markdown)](2_Wortmeldungen.Rmd)
+2. Wortmeldungen analysieren [(html Version, ](https://interaktiv.tagesanzeiger.ch/datenteam/50_Jahre_FSR/1_Jahr_Frauenparlament.html) [R Markdown)](2_Wortmeldungen.Rmd)
 
 3. Motionen aus der API beziehen [(Juypter Notebook)](3_API_Motionen.ipynb)
 
